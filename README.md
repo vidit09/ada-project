@@ -58,4 +58,7 @@ The good, the bad and the ugly about Switzerland (see “Deliverables”).
 
 #### Weeks 7-11
 Subreddit simulator (see “Deliverables”).
-[[https://github.com/vidit09/ada-project/blob/master/timeline.png|alt=octocat]]
+
+
+![alt tag](https://github.com/vidit09/ada-project/blob/master/timeline.png)
+
