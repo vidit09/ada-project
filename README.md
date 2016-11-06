@@ -9,8 +9,8 @@ Note: This is a provisional plan. The final reach of our objectives will have to
 1. Obtained from: https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
 2. Size: ~ 1.7 Billion JSON objects
 3. Fields:  Better see it with an example!
- ```
- {
+```
+{
    "gilded": 0,
    "author_flair_text": "Male",
    "author_flair_css_class": "male",
@@ -21,7 +21,7 @@ Note: This is a provisional plan. The final reach of our objectives will have to
    "controversiality": 0,
    "parent_id": "t1_cnapn0k",
    "subreddit": "AskMen",
-   "body": "I can't agree with passing the blame, but I'm glad to hear it's at least helping you with the anxiety. I went the other direction and started taking responsibility for everything. I had to realize that people make mistakes including myself and it's gonna be alright. I don't have to be shackled to my mistakes and I don't have to be afraid of making them. ",
+   "body": "I can't agree with passing the blame, but I'm glad to hear it's at least helping you with the anxiety.",
    "created_utc": "1420070668",
    "downs": 0,
    "score": 3,
@@ -33,7 +33,7 @@ Note: This is a provisional plan. The final reach of our objectives will have to
    "name": "t1_cnasd6x",
    "link_id": "t3_2qyhmp"
 }
- ```
+```
 
 
 ## Deliverables
