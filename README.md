@@ -35,10 +35,10 @@ Explore the dataset and get insights into the following questions:
 3. In order to generate comments using [SubReddit Simulator](https://www.reddit.com/r/SubredditSimulator/comments/3g9ioz/what_is_rsubredditsimulator/), we will need to use Recurrent Neural Networks. Since we do not prior experience in training these models, this part of the project may or may not be feasible.
 
 ## Timeplan
-1. Week1 - Scrapping
+#### Week1 - Scrapping
 Scrapping the Swiss SubReddit Networks names from [r/Switzerland](https://www.reddit.com/r/Switzerland/)
 
-2. Week2 - Big Data Preprocessing
+#### Week2 - Big Data Preprocessing
 * Filtering Dataset by “subreddit” to separate Swiss content from the rest
 * Extracting relevant fields from the json blocks like,
   1. Get the parent post.
@@ -50,9 +50,9 @@ Controversiality of comment.
 
 Depending our task we will create appropriate data representation using above the fields.  
 
-3. Weeks 3-4
+#### Weeks 3-4
 	Main discussion topics (see “Deliverables”).
-4. Weeks 5-6
+#### Weeks 5-6
 	The good, the bad and the ugly about Switzerland (see “Deliverables”).
-5. Weeks 7-11
+#### Weeks 7-11
 	Subreddit simulator (see “Deliverables”).
