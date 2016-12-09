@@ -1,0 +1,221 @@
+null,false,oelsen,bs,Basel-Stadt,null,"This would be a nice lesson to learn about alternatives for a whole nation.
+
+Whaaaaaaaaat? Facebook blocked our country???",null,0,null,1432483914,null,0,false,0,crjesbt,null,t3_372rwm,null,t1_crjesbt,null,t1_crjeiws,null,null,null,1433241154,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"It's a 504, Gateway timeout with in the bottom part the ""via zhb408"" (and zh i'm pretty sure it means Zurich)
+
+Proof: https://i.imgur.com/vbI4PYG.png
+(now it's lss408, which I think it rapresents Luzern)",null,0,null,1432483985,null,0,1432484221,0,crjetl3,null,t3_372rwm,null,t1_crjetl3,null,t1_crje9d6,null,null,null,1433241172,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Kazumara,null,null,null,I didn't get a 503 and my pings timed out. I didn't reach anything,null,0,null,1432484430,null,0,false,0,crjf138,null,t3_372rwm,null,t1_crjf138,null,t1_crje9d6,null,null,null,1433241269,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"Swisscom has a nice service in the overall, but you can't block the whole nation access to a website without even giving an official news about the incident.
+I mean, they got called several times and received a lot of messages on twitter, why should they ignore the problem?
+
+The alternative for the moment is TOR, maybe in the future would be another ISP if that's the way of managing the issues...",null,0,null,1432484467,null,0,false,0,crjf1r2,null,t3_372rwm,null,t1_crjf1r2,null,t1_crjesbt,null,null,null,1433241279,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Kazumara,null,null,null,"Yes, yes they do have to. They either did something or let someone on their network do something to get it blacklisted by some service providers. They have to fix this in cooperation with those service providers for the sake of their costumers.
+
+It's the same as with email domains really. If you have a breach and someone uses your infrastructur to send so much spam that it gets you blacklisted on a domain block list or similar you have to figure out what got you blocked resolve it, make an official statement and try to get off the list.",null,0,null,1432485415,null,0,false,0,crjfi2n,null,t3_372rwm,null,t1_crjfi2n,null,t1_crje84w,null,null,null,1433241566,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,futurespice,null,null,null,"It was a direct quote; this is what he said:
+
+""Le problème de fond n’est pas celui de l’homosexualité mais de la sexualité tout court et en général. De nature, l’être humain est sexué, masculin-féminin. Et il n’est pleinement humain que s’il vit cette complémentarité. C’est une question de morale naturelle.""
+
+Seems pretty clear to me.
+
+He also says it is an illness and can be cured by prayer. Charming guy.
+
+",null,0,null,1432486144,null,0,1432486431,0,crjfuo4,null,t3_36oppg,null,t1_crjfuo4,null,t1_crjcygh,null,null,null,1433241771,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,ced22,null,null,null,"They don't necessarily have to do something themselves, but they should at least coordinate mitigation on the third party site and most importantly communicate ETA of a resolution and any other information to customers immediately and not two days later. ",null,0,null,1432486588,null,0,false,0,crjg2bt,null,t3_372rwm,null,t1_crjg2bt,null,t1_crje84w,null,null,null,1433241846,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,half_slice7,lu,Luzern,null,In the /r/techsupport are other posts about this like [mine](https://www.reddit.com/r/techsupport/comments/3732ya/cant_access_reddit_from_home_network/). Let's hope cloudflare will unblock us soon... (futhead.com is also affected),null,0,null,1432486754,null,0,false,0,crjg58r,null,t3_372rwm,null,t1_crjg58r,null,t3_372rwm,null,null,null,1433241878,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"They didn't do anything you said. They just ""acknowledged the problem"" (well, not really, the said that from their offices everything works fine: https://twitter.com/Swisscom_Care/status/602439290627424258) but they neither made an official statement saying like ""Okay, we have some problems and we're working on it""
+
+I would say that ""Not a Single Fuck Was Given Today""",null,0,null,1432486951,null,0,false,0,crjg8mt,null,t3_372rwm,null,t1_crjg8mt,null,t1_crjg2bt,null,null,null,1433241913,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,TweetsInCommentsBot,null,null,null,"[**@Swisscom\_Care**](https://twitter.com/Swisscom_Care/)
+
+&gt; [2015-05-24 11:41 UTC](https://twitter.com/Swisscom_Care/status/602439290627424258)
+
+&gt; @puredwige It is woking by us. Please send your personal details and contact number by DM in order to help you. \^LG
+
+----
+
+^This ^message ^was ^created ^by ^a ^bot
+
+[^[Contact ^creator]](http://www.np.reddit.com/message/compose/?to=jasie3k&amp;amp;subject=TweetsInCommentsBot)[^[Source ^code]](https://github.com/janpetryk/reddit-bot)
+",null,0,null,1432486959,null,0,false,0,crjg8rc,null,t3_372rwm,null,t1_crjg8rc,null,t1_crjg8mt,null,null,null,1433241916,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,Could you do a traceroute to reddit.com?,null,0,null,1432487487,null,0,false,0,crjghoo,null,t3_372rwm,null,t1_crjghoo,null,t1_crjefm8,null,null,null,1433242031,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"UPDATE 2: Traceroute from my Netherland VPS
+http://pastebin.com/TMBHYsWr",null,0,null,1432487570,null,0,false,0,crjgj4s,null,t3_372rwm,null,t1_crjgj4s,null,t1_crj9a8q,null,null,null,1433242050,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,buyacasha,zh,Zürich,null,"traceroute reddit.com
+traceroute: Warning: reddit.com has multiple addresses; using 198.41.208.143
+traceroute to reddit.com (198.41.208.143), 64 hops max, 52 byte packets
+ 
+1  internetbox (192.168.1.1)  5.433 ms  4.432 ms  3.802 ms
+
+ 2  213.3.239.226 (213.3.239.226)  5.761 ms  4.975 ms  12.662 ms
+
+ 3  * * *
+
+ 4  be120-1100.lssic20p-isn001.bluewin.ch (213.3.219.137)  9.581 ms  9.230 ms
+    be120-1100.lssic20p-isn002.bluewin.ch (213.3.219.141)  15.347 ms
+
+ 5  be110-1120.lssic20p-ipn002.bluewin.ch (213.3.215.157)  12.862 ms
+    be110-1120.lssic20p-ipn001.bluewin.ch (213.3.215.137)  9.072 ms  9.872 ms
+
+ 6  be100.i69lss-025.bb.ip-plus.bluewin.ch (213.3.220.130)  8.017 ms  19.405 ms  15.151 ms
+
+ 7  i79zhb-005-xxx0-2-0-0.bb.ip-plus.net (138.187.129.17)  13.924 ms  31.903 ms  18.242 ms
+
+ 8  i79tix-035-hun0-0-0.bb.ip-plus.net (138.187.129.55)  18.882 ms  21.401 ms  8.606 ms
+
+ 9  213.200.70.37 (213.200.70.37)  7.800 ms  10.765 ms  8.558 ms
+
+10  xe-1-2-1.fra29.ip4.gtt.net (141.136.108.61)  13.757 ms  14.086 ms  14.032 ms
+
+11  gtt-gw-cr2.fra2.ip4.gtt.net (141.136.101.118)  37.820 ms  14.449 ms  14.354 ms
+
+12  ae5-69.fra29.ip4.gtt.net (46.33.95.61)  14.582 ms  14.365 ms  23.880 ms
+
+13  et-7-3-0.nyc41.ip4.gtt.net (141.136.105.178)  98.801 ms  96.786 ms  98.497 ms
+
+14  ae5-69.cr1.ewr1.ip4.gtt.net (46.33.95.30)  105.388 ms  93.783 ms  93.876 ms
+
+15  ae1-70g.ar2.ewr1.us.as4436.gtt.net (69.31.94.118)  95.707 ms  100.135 ms  97.653 ms
+
+16  204.93.33.198 (204.93.33.198)  93.551 ms
+    as13335.xe-7-0-3.ar2.ewr1.us.as4436.gtt.net (69.31.95.70)  95.504 ms
+    as13335.xe-4-0-3.ar2.ewr1.us.as4436.gtt.net (69.31.34.118)  95.563 ms
+
+17  198.41.208.143 (198.41.208.143)  94.613 ms  93.578 ms  102.793 ms",null,0,null,1432491663,null,0,false,0,crjihr8,null,t3_372rwm,null,t1_crjihr8,null,t1_crj95gv,null,null,null,1433242977,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,metal_fever,world,Belgium,null,"Not the first time you guys did that, a few days ago you all where coming together in a thread on /r/motorcycles.",null,0,null,1432492349,null,0,false,0,crjitgm,null,t3_373ocq,null,t1_crjitgm,null,t3_373ocq,null,null,null,1433243128,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,denvit,ti,Tessin,null,"Our stops at ae1-70g.ar2.ewr1.us.as4436.gtt.net (69.31.94.118)
+
+Anyway, your connection goes through be120-1100.lssic20p-isn001.bluewin.ch (213.3.219.137) -&gt; 4th hop
+The ones who has the problem have be120-1100.lssic20p-isn002.bluewin.ch (213.3.219.141) as 4th hop. Maybe that's a thing",null,0,null,1432492478,null,0,false,0,crjivnz,null,t3_372rwm,null,t1_crjivnz,null,t1_crjihr8,null,null,null,1433243157,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,ours,vd,Vaud,null,Glad we are paying 2 to 6 times the usual European fare for ISP for such a stellar service.,null,0,null,1432492569,null,0,false,0,crjix5x,null,t3_372rwm,null,t1_crjix5x,null,t1_crjcyq3,null,null,null,1433243177,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,buyacasha,zh,Zürich,null,"Interesting. Lucky me I guess. :P
+
+But anyways, I am confident someone is looking at the problem. Having customer facing support agents communicate this effectively is another matter entirely.",null,0,null,1432492936,null,0,false,0,crjj3b4,null,t3_372rwm,null,t1_crjj3b4,null,t1_crjivnz,null,null,null,1433243258,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"Traceroute by phone connection (Swisscom):
+http://pastebin.com/jrpg910x",null,0,null,1432493473,null,0,false,0,crjjcff,null,t3_372rwm,null,t1_crjjcff,null,t1_crj8mr3,null,null,null,1433243376,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,zilti,be,Bern,null,"Jup, and biologically it's exactly that: an illness. That's how nature is, nature doesn't give a damn about anyones' feelings and about political correctness.",null,0,null,1432494234,null,0,false,0,crjjpfb,null,t3_36oppg,null,t1_crjjpfb,null,t1_crjfuo4,null,null,null,1433243546,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,hondrich,be,Bern,null,my guess would be lausanne,null,0,null,1432494475,null,0,false,0,crjjtge,null,t3_372rwm,null,t1_crjjtge,null,t1_crjetl3,null,null,null,1433243599,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"Okay, wrote an e-mail to gtt.net.
+Maybe that will make things got fixed... I hope",null,0,null,1432494931,null,0,false,0,crjk18c,null,t3_372rwm,null,t1_crjk18c,null,t3_372rwm,null,null,null,1433243701,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"Yep, ahah sorry, I meant Lausanne but wrote Luzern",null,0,null,1432495019,null,0,false,0,crjk2pw,null,t3_372rwm,null,t1_crjk2pw,null,t1_crjjtge,null,null,null,1433243720,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Skinnj,zg,Zug,null,Ooooohhh that's why... and I troubleshooted the app all day long,null,0,null,1432495248,null,0,false,0,crjk6p1,null,t3_372rwm,null,t1_crjk6p1,null,t3_372rwm,null,null,null,1433243772,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,timmyfinnegan,zh,Zürich,null,Same. Mobile data doesn't load Reddit and neither does the Swisscom WiFi at my mom's. Thank god I don't have Swisscom at home or I'd be completely cut off.,null,0,null,1432495990,null,0,false,0,crjkjbi,null,t3_372rwm,null,t1_crjkjbi,null,t3_372rwm,null,null,null,1433243937,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Robert78040,null,null,null,Never ever have I seen that guy,null,0,null,1432496024,null,0,false,0,crjkjuw,null,t3_373ocq,null,t1_crjkjuw,null,t3_373ocq,null,null,null,1433243944,null,11,false,Switzerland,t5_2qhp6,11,null
+null,false,timmyfinnegan,zh,Zürich,null,"Sweet, can you link the post?",null,0,null,1432496569,null,0,false,0,crjkt7v,null,t3_373ocq,null,t1_crjkt7v,null,t1_crjitgm,null,null,null,1433244066,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,FunkyFreshJayPi,tg,Thurgau,null,[It's only place 94 in Switzerland](http://www.alexa.com/topsites/countries;3/CH),null,0,null,1432496686,null,0,false,0,crjkv6r,null,t3_372rwm,null,t1_crjkv6r,null,t1_crj9cz8,null,null,null,1433244092,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,P1r4nha,zh,Zürich,null,"I've seen dildo man many times before as well. Too bad I missed the threat ",null,0,null,1432496978,null,0,false,0,crjl04j,null,t3_373ocq,null,t1_crjl04j,null,t3_373ocq,null,null,null,1433244157,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,bdzz,null,null,null,"Can confirm have the same problem in Hungary! But I've found people with the same problem in Germany, Serbia, and the Czech Republic as well. Using a VPN now (Hola)
+
+I can't load the site from WLAN and 3G (and actually both are Deutsche Telekom services...)
+
+Also Gfycat and Newsblur has some issues too so must be CloudFlare related. I've wrote an email to them. Also to GTT and Reddit.
+
+Edit: Just gave a call to the hungarian Telekom and they are aware of the problem",null,0,null,1432497550,null,0,1432499088,0,crjl9tk,null,t3_372rwm,null,t1_crjl9tk,null,t3_372rwm,null,null,null,1433244285,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,metal_fever,world,Belgium,null,"[Here it is,](https://www.reddit.com/r/motorcycles/comments/36uy99/this_american_in_italy_is_nuts_costo_mountain_run/) scroll a bit down and you'll see the white pluses come up.
+
+Edit: pluses sounds a bit less morbid than crosses haha.",null,0,null,1432498848,null,0,1432499244,0,crjlw4k,null,t3_373ocq,null,t1_crjlw4k,null,t1_crjkt7v,null,null,null,1433244576,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Mr_random_Lobster,null,null,null,"Yup also on swisscom and can't connect, hope they fix this sometime soon :(",null,0,null,1432498914,null,0,false,0,crjlx9m,null,t3_372rwm,null,t1_crjlx9m,null,t3_372rwm,null,null,null,1433244590,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1432499166,null,0,false,0,crjm1n0,null,t3_372rwm,null,t1_crjm1n0,null,t1_crjk18c,null,null,null,1433244648,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,iamwhateveriwant,null,null,null,"It doesn't matter. If you have an internet connection you have to pay  the billag fees. With internet you have access to all the content of the SRG. Even if you only have a smartphone you're obligated to pay the fees. ",null,1,null,1432499696,null,0,false,0,crjmahr,null,t3_374ew3,null,t1_crjmahr,null,t3_374ew3,null,null,null,1433244764,null,-3,false,Switzerland,t5_2qhp6,-3,null
+null,false,futurespice,null,null,null,"No, this is not true. For TV tax you have to have an account with a provider that lets you watch streaming TV.  Streaming content of the SRG that is acessible without an account does not count here and the definition of ""empfangsgerät"" has nothing to do with being able to acces SRG content. You have to pay even if you have a TV connection that does not let you see SRG content.
+
+For radio, you do have to pay as soon as you have an internet connection. 
+
+This what Billag themselves say about it:
+
+&gt; Wenn Sie mit Ihrem Computer, Tablet oder Handy fernsehen können, melden sie sich für den Fernsehempfang an, falls Sie über ein Konto (auch kostenlos) bei einem Anbieter von Internetfernsehen (IP-TV) verfügen.",null,0,null,1432500040,null,0,false,0,crjmg61,null,t3_374ew3,null,t1_crjmg61,null,t1_crjmahr,null,null,null,1433244838,null,8,false,Switzerland,t5_2qhp6,8,null
+null,false,unicornarealive,null,null,null,always a pleasure to serve the country on reddit.,null,0,null,1432500224,null,0,false,0,crjmjbq,null,t3_373ocq,null,t1_crjmjbq,null,t3_373ocq,null,null,null,1433244879,null,4,false,Switzerland,t5_2qhp6,4,null
+null,false,ced22,null,null,null,Good point. It is still a top 100 website then. Isn't this what you pay an ISP for? :),null,0,null,1432501203,null,0,false,0,crjn039,null,t3_372rwm,null,t1_crjn039,null,t1_crjkv6r,null,null,null,1433245098,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,CaptainK3,null,null,null,"same here, they better fix this Tuesday",null,0,null,1432501256,null,0,false,0,crjn0z0,null,t3_372rwm,null,t1_crjn0z0,null,t3_372rwm,null,null,null,1433245110,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,FunkyFreshJayPi,tg,Thurgau,null,"Yeah but I understand why it's not really high priority for swisscom as it's not a very important site. ",null,0,null,1432501436,null,0,false,0,crjn45r,null,t3_372rwm,null,t1_crjn45r,null,t1_crjn039,null,null,null,1433245224,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,chmod0755,null,null,null,"what? source? I don't see anything about that in tagi, nzz nor the cablecom website itself.",null,0,null,1432502100,null,0,false,0,crjnfku,null,t3_374ew3,null,t1_crjnfku,null,t3_374ew3,null,null,null,1433245373,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,ced22,null,null,null,"Now I am curious. How did you come to the conclusion that a top 30 (world) and top 100 (CH) website is ""not very important""? This does not make any sense to me whatsoever.",null,0,null,1432502343,null,0,false,0,crjnjrh,null,t3_372rwm,null,t1_crjnjrh,null,t1_crjn45r,null,null,null,1433245427,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,MrSkopelos27,null,null,null,Seems to be back up!,null,0,null,1432503288,null,0,false,0,crjo01s,null,t3_372rwm,null,t1_crjo01s,null,t3_372rwm,null,null,null,1433245642,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,kiwivor,null,null,null,It works for me too :),null,0,null,1432503489,null,0,false,0,crjo3l6,null,t3_372rwm,null,t1_crjo3l6,null,t1_crjo01s,null,null,null,1433245688,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,notenoughcharacters9,null,null,null,"Hi!
+We're currently looking into the issue with cloudflare. I'll update this thread with more information.
+
+Thanks!",null,0,null,1432503489,admin,0,false,0,crjo3l8,null,t3_372rwm,null,t1_crjo3l8,null,t3_372rwm,null,null,null,1433245688,null,11,false,Switzerland,t5_2qhp6,11,null
+null,false,FunkyFreshJayPi,tg,Thurgau,null,"Because most people who visit reddit do this out of fun and not out of necessity (unlike google which provides many very important services (apps for business, play store, search engine, gmail et cetera)",null,0,null,1432503655,null,0,false,0,crjo6is,null,t3_372rwm,null,t1_crjo6is,null,t1_crjnjrh,null,null,null,1433245726,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1432503722,null,0,false,0,crjo7ph,null,t3_374ew3,null,t1_crjo7ph,null,t1_crjmg61,null,null,null,1433245743,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Chocolate_fly,ju,Jura,null,"Well I haven't hiked the red trail, but I have been hiking in some of the areas it passes through. I think you would enjoy the hiking more in the green area, but that's just my opinion. 
+
+The hiking is mostly in forests and alpine areas, where you will be hiking above the tree line and exposed to the sun (you will *need* sun screen and a good pair of polarized sun glasses). Most of the time you'll be above the tree line, but the views of the mountains are fantastic from that vantage point. Everyday you will pass by a few farms, each of which you can stop at to purchase fresh cheese or occasionally cured meats. There is not much asphalt hiking, except when you pass through a village, which will be once per day. (Most people sleep in the villages at night, and each day you hike up and over a mountain pass, and sleep in the next village. This is the common way to hike these trails). The villages are small so you won't see much asphalt even in these areas. (as a side note i do remember there being a lot of asphalt hiking from meiringen to grindelwald, but the trail went through the woods so it was a nice walk). 
+
+Stealth camping is illegal, but many people do it. I did occasionally. However, the areas around grindelwald and lauterbrunnen will be too crowded to stealth camp and you should probably stay at a campground (i recommend the 'camping jungfrau' in lauterbrunnen). This would be a good opportunity to use the showers at the campgrounds too! Otherwise you can probably find a place in the forest outside of the villages to camp. I recommend setting up your tent just before sunset, and waking up just before sunrise. If you do this then you will have no problems (this is what I did often while hiking in the valais region). Be respectful of the forests and nearby farmland, obviously. Don't build a fire unless there is an obvious place to build one. 
+
+For comparisons, I paid ~10-15CHF for a campsite, or ~25-40CHF to stay at a hostel/mountain hut. 
+
+I hiked in August and the weather was nice. I didn't have any problems with insects. One other thing I will say is that the hiking is very strenuous. You'll be hiking up and over a steep mountain pass every single day. It's not dangerous, and the trails are well marked, but you will get tired. Wear good shoes, take care of your blisters, and most importantly keep your pack as light as possible! it makes a big difference. 
+
+Please ask more questions if you have any, I like to talk about it... ",null,0,null,1432503722,null,0,false,0,crjo7pq,null,t3_36zwrl,null,t1_crjo7pq,null,t1_crj8m3n,null,null,null,1433245743,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,ChangeAndAdapt,null,null,null,It works again... fucking Swisscom.,null,0,null,1432503976,null,0,false,0,crjoc5l,null,t3_372rwm,null,t1_crjoc5l,null,t3_372rwm,null,null,null,1433245800,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,futurespice,null,null,null,"Sure. Check the description of the cablecom basic internet offerings, it now lists horizon to go and my prime light.
+
+http://www.upc-cablecom.ch/de/internet/produkte/",null,0,null,1432504206,null,0,false,0,crjog43,null,t3_374ew3,null,t1_crjog43,null,t1_crjnfku,null,null,null,1433245853,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,anthonyjp87,null,null,null,Any idea why this is happening? Is swissconn purposely filtering out access or just neglant in fixing some bug?,null,0,null,1432504372,null,0,false,0,crjoj1j,null,t3_372rwm,null,t1_crjoj1j,null,t3_372rwm,null,null,null,1433245890,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Bakeey,zg,Zug,null,"Thank you! It seems to be up again, on cellular/LTE as well as on wifi connections :) Thank you everyone who helped resolve this issue!",null,0,null,1432504502,null,0,false,0,crjolba,null,t3_372rwm,null,t1_crjolba,null,t1_crjo3l8,null,null,null,1433245920,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,hubraum,world,Absurdistan,null,"Oh dear. Shit's complicated - as you've figured out. I'd take Urgullibl's advice, but I'd stop by the SVA first - different hourly rate for ""stupid"" questions.
+
+Also, this is not only a tax question but potentially also an insurance (AHV, IV, EO, Accidents etc) / retirement money (our ""401k""-flavor) question.",null,0,null,1432504777,null,0,1432504981,0,crjopwu,null,t3_3721f7,null,t1_crjopwu,null,t3_3721f7,null,null,null,1433245980,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1432504800,null,0,false,0,crjoqa3,null,t3_372rwm,null,t1_crjoqa3,null,t1_crjoj1j,null,null,null,1433245985,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,notenoughcharacters9,null,null,null,"Thanks for all the great information. This was extremely helpful. I've reached out to Cloudflare and they've identified an issue with the problematic network provider. To be clear, this is not an issue with reddit nor cloudflare.",null,0,null,1432505205,null,0,false,0,crjoxch,null,t3_372rwm,null,t1_crjoxch,null,t1_crjo3l8,null,null,null,1433246077,null,7,false,Switzerland,t5_2qhp6,7,null
+null,false,bdzz,null,null,null,Thanks for the reply! Looks like it's working now,null,0,null,1432505390,null,0,false,0,crjp0ge,null,t3_372rwm,null,t1_crjp0ge,null,t1_crjo3l8,null,null,null,1433246117,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Sp0de,null,null,null,"What is the reduced entrance exam?
+To answer to the last part, finding a room in Lausanne is quite difficult, so be sure to start looking for one a few months before you come. You should expect a 800CHF/month rental but prices can go lower if you search really well.",null,0,null,1432505401,null,0,false,0,crjp0n6,null,t3_374ikd,null,t1_crjp0n6,null,t3_374ikd,null,null,null,1433246121,null,6,false,EPFL,t5_2svyx,6,null
+null,false,korky1318,vs,Valais,null,nah they don't cause they have a good enough reputation already and make enough money anyway without the whole internet shizzle.,null,0,null,1432505623,null,0,false,0,crjp4g5,null,t3_372rwm,null,t1_crjp4g5,null,t1_crjd52l,null,null,null,1433246171,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,chmod0755,null,null,null,"Hmm.. wow. Guess I need to check my contract, too.",null,0,null,1432506230,null,0,false,0,crjpeue,null,t3_374ew3,null,t1_crjpeue,null,t1_crjog43,null,null,null,1433246306,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,CaptainDread,lu,Luzern,null,Same problem here. Started last night and continued well into today.,null,0,null,1432507169,null,0,false,0,crjpuyr,null,t3_372rwm,null,t1_crjpuyr,null,t3_372rwm,null,null,null,1433246519,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,DavidRappl,null,null,null,"Maybe a DNS problem? I use Google DNS and had no problems with Reddit over Swisscom's mobile network. ",null,0,null,1432508022,null,0,false,0,crjq98p,null,t3_372rwm,null,t1_crjq98p,null,t3_372rwm,null,null,null,1433246704,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,memeid,null,null,null,"Not the first time I've seen Swisscom have problems with CloudFlare. I and a small number of others had problems with a CloudFlare customer site that had been suffering from DoSsing and readdressed; that time it was a case of DNS updates not being propagated to Swisscom's ADSL clients for several weeks. The first level tech service run-around I got convinced me to start looking for a better ISP.
+",null,0,null,1432509202,null,0,false,0,crjqsxw,null,t3_372rwm,null,t1_crjqsxw,null,t1_crjq98p,null,null,null,1433246963,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Kazumara,null,null,null,"So it was Swisscom after all? They tried to mislead us? Or GTT? If you can't say specifically please just tell us, was the problematic party western or eastern of the Atlantic Ocean?",null,0,null,1432509819,null,0,1432510188,0,crjr37i,null,t3_372rwm,null,t1_crjr37i,null,t1_crjoxch,null,null,null,1433247100,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Hoohm,null,null,null,"You are correct, 15% is probably too high, 10% seems more appropriate.
+
+http://en.wikipedia.org/wiki/Demographics_of_sexual_orientation",null,0,null,1432510665,null,0,false,0,crjrhaz,null,t3_36oppg,null,t1_crjrhaz,null,t1_crjcw96,null,null,null,1433247281,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Kazumara,null,null,null,Do you know if zattoo or teleboy free count as well? It sounds like that would meet the criteria,null,0,null,1432510923,null,0,false,0,crjrlhx,null,t3_374ew3,null,t1_crjrlhx,null,t1_crjmg61,null,null,null,1433247336,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,IAmA_singularity,null,null,null,Why is swisscom even using a proxy?,null,0,null,1432512049,null,0,false,0,crjs3tj,null,t3_372rwm,null,t1_crjs3tj,null,t1_crj8tzp,null,null,null,1433247576,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1432512518,null,0,false,0,crjsbi2,null,t3_372rwm,null,t1_crjsbi2,null,t3_372rwm,null,null,null,1433247678,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,bdzz,null,null,null,Most likely it was a problem at CloudFlare. We had the same connection problem in Hungary with the Deutsche Telekom network.,null,0,null,1432513332,null,0,false,0,crjsopk,null,t3_372rwm,null,t1_crjsopk,null,t1_crjr37i,null,null,null,1433247849,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,schmidmerlin,null,null,null,"I'm an officer in the Swiss Army and I had a recruit with a situation simular to yours, except he was born in switzerland and raised in the states with swiss parents. He only spoke german at a very basic level but picked it up very fast. Sadly he still left after 8 weeks because of issues unrelated to language.
+
+I'd say if you pick the right field for your service, I recomend one in which you LACK prior experience, you start at the basics anyways, the military service could be of great benefit for you. ",null,0,null,1432514904,null,0,false,0,crjtef9,null,t3_36nij5,null,t1_crjtef9,null,t1_crfjqdb,null,null,null,1433248186,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SatoyS,null,null,null,"Many times? Can you tell in which ""Kreis"" it was? I thought I am on track about all the ""famous"" people in Zürich...",null,0,null,1432522478,null,0,false,0,crjx6pc,null,t3_373ocq,null,t1_crjx6pc,null,t1_crjl04j,null,null,null,1433250041,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SatoyS,null,null,null,"FUCK YOU! Guys like you spread this fucking lie around the country! This makes me so fucking angry and I really hope we get a fucking NO in June, because there are just to many people around who don't know shit! Thanks /u/futurspice, without you it would need some calm down and explanation!",null,1,null,1432522762,null,0,false,0,crjxboe,null,t3_374ew3,null,t1_crjxboe,null,t1_crjmahr,null,null,null,1433250103,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,SatoyS,null,null,null,"Cablecom can't offer internet without basic TV. The socket even costs you about 30 Franks a month, but you can get it sealed, otherwise you have to pay Billag. My advice: Fiber7 if possible otherwise go for Sunrise (it is probably the cheapest and works fine for me).",null,0,null,1432523075,null,0,false,0,crjxh49,null,t3_374ew3,null,t1_crjxh49,null,t3_374ew3,null,null,null,1433250175,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SatoyS,null,null,null,"He even comes to your flat and lies down in your living room, so you can decide if it fits to the room. Thanks to him I took the red one which was completely out of focus before!",null,0,null,1432523388,null,0,false,0,crjxml0,null,t3_370a0r,null,t1_crjxml0,null,t1_crj7am6,null,null,null,1433250246,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,P1r4nha,zh,Zürich,null,"Mostly around main station, central and Bahnhofstrasse. My friend saw him at paradeplatz. I think Bahnhofstrasse is your best bet. ",null,0,null,1432534668,null,0,false,0,crk25n6,null,t3_373ocq,null,t1_crk25n6,null,t1_crjx6pc,null,null,null,1433252420,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Kazumara,null,null,null,"After this admin just said it was not cloudflare?
+
+That also doesn't explain why keychatter.com was down",null,0,null,1432534817,null,0,false,0,crk27e2,null,t3_372rwm,null,t1_crk27e2,null,t1_crjsopk,null,null,null,1433252444,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,dereddib,null,null,null,You only absolutely have to pay radio fees for an Internet connection. At least that's what the billag guy told me.,null,0,null,1432536217,null,0,false,0,crk2n1k,null,t3_374ew3,null,t1_crk2n1k,null,t1_crjmahr,null,null,null,1433252647,null,5,false,Switzerland,t5_2qhp6,5,null
+null,false,cynicbla,be,Bern,null,"I just tried it. I have Cablecom Internet 125 and I can now access Horizon Go.
+
+Works on the [website](https://www.horizon.tv/de_ch/) and the mobile App.",null,0,null,1432538750,null,0,false,0,crk3cfv,null,t3_374ew3,null,t1_crk3cfv,null,t1_crjnfku,null,null,null,1433252981,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,iamwhateveriwant,null,null,null,"I didn't know that you need an account with a provider. Thanks for clearing that up. ",null,0,null,1432541688,null,0,false,0,crk42cf,null,t3_374ew3,null,t1_crk42cf,null,t1_crjmg61,null,null,null,1433253319,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,YeaISeddit,bs,Basel-Stadt,null,I just recently got a letter from Cablecom saying they would no longer offer basic cable over my connection. Apparently I need to get a digital receiver for my tv. Anybody else seen this?,null,0,null,1432542839,null,0,false,0,crk4c2h,null,t3_374ew3,null,t1_crk4c2h,null,t1_crjxh49,null,null,null,1433253447,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,qwertyfoobar,null,null,null,"Exactly. The moment they know you own a smart phone and don't pay billing, you'll be in deep trouble.
+
+Your cellphone is radio and TV capable, that's enough to have you to pay even if you don't use it (same goes for a TV that is only connected to your PC and your PC is not connected to the internet. it's enough to own a tv/radio capable electronic device, no matter if you use it or not.",null,0,null,1432544424,null,0,false,0,crk4p7n,null,t3_374ew3,null,t1_crk4p7n,null,t1_crjmahr,null,null,null,1433253619,null,-4,false,Switzerland,t5_2qhp6,-4,null
+null,false,denvit,ti,Tessin,null,My guess would be that in this way they have a control of the overall. This should be called a transparent proxy,null,0,null,1432546990,null,0,false,0,crk5ai7,null,t3_372rwm,null,t1_crk5ai7,null,t1_crjs3tj,null,null,null,1433253898,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,futurespice,null,null,null,"&gt; otherwise you have to pay Billag
+
+Only if you have a tv or other device that you could plug into the socket. I do not.",null,0,null,1432547026,null,0,false,0,crk5at4,null,t3_374ew3,null,t1_crk5at4,null,t1_crjxh49,null,null,null,1433253902,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,furbyhater,null,null,null,"Same here, they should provide you with a free digital to analog box for your analog TV if you ask them.",null,0,null,1432547055,null,0,false,0,crk5b1d,null,t3_374ew3,null,t1_crk5b1d,null,t1_crk4c2h,null,null,null,1433253904,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,futurespice,null,null,null,"If you have an account with them, I guess so. If you can just view streams without logging in or having an account, no. ",null,0,null,1432547085,null,0,false,0,crk5baj,null,t3_374ew3,null,t1_crk5baj,null,t1_crjrlhx,null,null,null,1433253908,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,exDiggUser,ge,Genève,null,"Thanks all. I'm pretty sure calling 0800800800 and taking the time to explain the problem to whoever was listening helped. Swisscom can't ignore thousands of calls requesting the same thing.
+",null,0,null,1432547637,null,0,false,0,crk5fl7,null,t3_372rwm,null,t1_crk5fl7,null,t1_crjolba,null,null,null,1433253964,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,denvit,ti,Tessin,null,"Actually the issue was with Cloudflare,
+I contacted GTT yesterday and received a mail at 21:39.
+
+The mail states that it isn't a GTT problem, but it's on the Cloudflare part, as I tought at first.
+
+Here is the complete mail:
+http://pastebin.com/0t7Mijkk",null,0,null,1432552260,null,0,false,0,crk6g8f,null,t3_372rwm,null,t1_crk6g8f,null,t1_crjr37i,null,null,null,1433254444,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,pseudoRndNbr,null,null,null,"fmel.ch has rooms for students. ",null,0,null,1432554167,null,0,1432570442,0,crk6wgr,null,t3_374ikd,null,t1_crk6wgr,null,t3_374ikd,null,null,null,1433254726,null,2,false,EPFL,t5_2svyx,2,null
+null,false,Kazumara,null,null,null,"Oh hey thanks for the follow up.
+
+Now the question remains why did cloudflare block Swisscom and apparently Telekom in some countries and others. And how does Keychatter fit into the picture. But I think the reddit admins might not be allowed to tell us",null,0,null,1432554209,null,0,false,0,crk6wux,null,t3_372rwm,null,t1_crk6wux,null,t1_crk6g8f,null,null,null,1433254731,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,Kazumara,null,null,null,Control of the overall what?,null,0,null,1432554304,null,0,false,0,crk6xqj,null,t3_372rwm,null,t1_crk6xqj,null,t1_crk5ai7,null,null,null,1433254742,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,yesat,vs,Valais,null,"Whether you like it or not, the votation in June will at least simplify the issue.",null,0,null,1432554796,null,0,false,0,crk7285,null,t3_374ew3,null,t1_crk7285,null,t1_crjxboe,null,null,null,1433254800,null,3,false,Switzerland,t5_2qhp6,3,null

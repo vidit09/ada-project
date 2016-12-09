@@ -1,0 +1,260 @@
+null,false,masterchiefno1,null,null,null,"I guess universities are connected to the educational network of Switch resulting in other routes to Youtube. You're connection to the university is probably better than to Youtube, so no bottleneck there. Just assumption, but a possible explanation.",null,0,null,1428326571,null,0,false,0,cq2wghe,null,t3_31mf1t,null,t1_cq2wghe,null,t3_31mf1t,null,null,null,1432225102,null,7,false,Switzerland,t5_2qhp6,7,null
+null,false,caladan84,cern,CERN BE,null,"Yup, it was CLIC Test Facility 3 used for testing power transfer, BPMs, BLMs and couple of other subsystems. I used to visit it sometimes to work on BPMs. ",null,0,null,1428326867,null,0,false,0,cq2wkve,null,t3_31lrs9,null,t1_cq2wkve,null,t1_cq2vn5i,null,null,null,1432225160,null,2,false,CERN,t5_2r692,2,null
+null,false,sirclockalot,ti,Ticino,null,"Would doing a traceroute comparing the VPN and no-VPN yield any interesting results? ",null,0,null,1428327117,null,0,false,0,cq2woo9,null,t3_31mf1t,null,t1_cq2woo9,null,t1_cq2wghe,null,null,null,1432225209,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,weeefapfap,null,null,null,"Yes, it would. I sure the fuck hope, swisscom peers directly with youtube (google) in zurich, as it most certainly also does with switch.ch. 
+
+But the connection from swisscom to switch.ch will most certainly be less ""crowded"" than swisscom to youtube, even though i've never heard of any intentional throtteling from swisscom.",null,0,null,1428328140,null,0,false,0,cq2x4w8,null,t3_31mf1t,null,t1_cq2x4w8,null,t1_cq2woo9,null,null,null,1432225421,null,7,false,Switzerland,t5_2qhp6,7,null
+null,false,weeefapfap,null,null,null,"Yes, or maybe no. 
+
+Because.
+
+Please be less lazy and specify your question or at least explain why you are asking this.",null,0,null,1428328231,null,0,false,0,cq2x6cq,null,t3_31m9j6,null,t1_cq2x6cq,null,t3_31m9j6,null,null,null,1432225441,null,14,false,Switzerland,t5_2qhp6,14,null
+null,false,weeefapfap,null,null,null,"[Spaghetti farming, mostly.](https://www.youtube.com/watch?v=tVo_wkxH9dU)",null,0,null,1428328362,null,0,false,0,cq2x8hq,null,t3_31j16q,null,t1_cq2x8hq,null,t3_31j16q,null,null,null,1432225469,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,sirclockalot,ti,Ticino,null,"I ran traceroute and it takes ages to complete without the VPN, but only a few seconds with the VPN. Is it safe for me to post the output?",null,0,null,1428328585,null,0,false,0,cq2xc6n,null,t3_31mf1t,null,t1_cq2xc6n,null,t1_cq2x4w8,null,null,null,1432225517,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,elfofdoriath9,cern,ATLAS,null,"I know there was interest in using them for that, but I'm not sure if they ever actually happened.",null,0,null,1428330438,null,0,false,0,cq2y8ji,null,t3_31lrs9,null,t1_cq2y8ji,null,t1_cq2sreh,null,null,null,1432225941,null,2,false,CERN,t5_2r692,2,null
+null,false,PhascinatingPhysics,null,null,null,"As a Dallas-native, I am still pretty peeved at the whole debacle.  For how much press and popular awareness there is for CERN, to have scrapped a project that would have been bigger, badder, and more awesome is heart-breaking.",null,0,null,1428330819,null,0,false,0,cq2yfmp,null,t3_31lrs9,null,t1_cq2yfmp,null,t1_cq2y8ji,null,null,null,1432226105,null,2,false,CERN,t5_2r692,2,null
+null,false,chmod0755,null,null,null,I suggest you take a look at his posting history. Quite interesting.,null,0,null,1428331652,null,0,false,0,cq2yv9a,null,t3_31m9j6,null,t1_cq2yv9a,null,t1_cq2x6cq,null,null,null,1432226309,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,caladan84,cern,CERN BE,null,"You overestimate society's interest and awareness of CERN and LHC... And probably lack of awareness killed the project in Texas. It has to be visible to be properly funded. ",null,0,null,1428332170,null,0,false,0,cq2z549,null,t3_31lrs9,null,t1_cq2z549,null,t1_cq2yfmp,null,null,null,1432226438,null,3,false,CERN,t5_2r692,3,null
+null,false,NoRealRoots,null,null,null,"Oh yeah - neither would CEPC, being in China. Was more expanding on the fact that FCC isn't definitely going to be made and there are a few alternatives!",null,0,null,1428332205,null,0,false,0,cq2z5td,null,t3_31lrs9,null,t1_cq2z5td,null,t1_cq2va77,null,null,null,1432226447,null,1,false,CERN,t5_2r692,1,null
+null,false,NoRealRoots,null,null,null,"Haha! Yeah, that's a true point. My tutor at uni worked on the ILC design plan so he's really pro ILC and made that clear during our report work!",null,0,null,1428332273,null,0,false,0,cq2z74q,null,t3_31lrs9,null,t1_cq2z74q,null,t1_cq2tf2s,null,null,null,1432226464,null,1,false,CERN,t5_2r692,1,null
+null,false,caladan84,cern,CERN BE,null,They are quite serious about it. There were already couple of conferences. The last one (about RF) was in the US two weeks ago. There is more interest in FCC than in the CLIC...,null,0,null,1428332820,null,0,false,0,cq2zhy4,null,t3_31lrs9,null,t1_cq2zhy4,null,t1_cq2z5td,null,null,null,1432226606,null,3,false,CERN,t5_2r692,3,null
+null,false,fffmmm,bl,Basel-Landschaft,null,"[Swisscom has absolutely attempted](http://www.inside-it.ch/articles/34634) to [pull a verizon/comcast.](http://arstechnica.com/tech-policy/2014/06/fcc-gets-comcast-verizon-to-reveal-netflixs-paid-peering-deals/)
+
+Luckily they [lost in court](http://www.bvger.ch/publiws/pub/cache.jsf?displayName=A-3930/2013&amp;decisionDate=2013-11-13&amp;lang=de) and were not allowed to pressure peering partners in to paying them money in order to not have their connection to the swisscom network suck. [Here](http://blog.level3.com/open-internet/verizons-accidental-mea-culpa/) is a nice article with an illustration on how exactly comcast (and others) use this to extort money from netflix.
+
+Anyways... as for this whole thing:
+
+* Since how long do you have this problem? (it can sometimes happen that a cable somewhere is damaged and thus the connection to a couple websites is bad for a few days due to this; if it has been going on for a few weeks, then it's probably not just a cable failure somewhere)
+* Do other swisscom customers experience the same thing?
+* Do you maybe use an alternative DNS server (DNS crypt, google dns, ...)? (This can both cause or solve the problem sometimes)
+",null,0,null,1428333454,null,0,false,0,cq2zumw,null,t3_31mf1t,null,t1_cq2zumw,null,t1_cq2x4w8,null,null,null,1432226772,null,4,false,Switzerland,t5_2qhp6,4,null
+null,false,PhascinatingPhysics,null,null,null,That's probably true.  I would certainly be willing to concede that anyone subscribed to /r/CERN have a higher interest level in the project that people who aren't.,null,0,null,1428333473,null,0,false,0,cq2zv0f,null,t3_31lrs9,null,t1_cq2zv0f,null,t1_cq2z549,null,null,null,1432226777,null,2,false,CERN,t5_2r692,2,null
+null,false,fffmmm,bl,Basel-Landschaft,null,"Since I don't know your personal preferences, I can't tell you which country would be better suited to those.
+Atheists are neither persecuted here nor in Germany, so I can't use that one as a criteria either.
+
+[Here's another Moroccan atheist who either seeks or was granted (idk which one) asylum here](http://www.spiegel.de/international/world/moroccan-blogger-champions-freedom-in-swiss-exile-a-891561.html). Maybe you want to [ask him](http://atheistica.com/contact-me/) for more information on the whole process and whatnot since he's clearly more experienced with it than I am.",null,0,null,1428334836,null,0,1428335057,0,cq30ndv,null,t3_31m9j6,null,t1_cq30ndv,null,t3_31m9j6,null,null,null,1432227149,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,sirclockalot,ti,Ticino,null,"I have only noticed it in past few days. 
+I don't know if other swisscom users suffer from the same problem, hopefully the thread might reveal others that are affected.
+I use the DNS on the router. In the past i have used 8.8.8.8
+When running traceroute with the router DNS (192.168.1.1) and Google (8.8.8.8) they both take a really long time to find the end server. I suggest others to try the Glasnost test, but for me it was negative. ",null,0,null,1428335731,null,0,false,0,cq3168z,null,t3_31mf1t,null,t1_cq3168z,null,t1_cq2zumw,null,null,null,1432227395,null,6,false,Switzerland,t5_2qhp6,6,null
+null,false,fffmmm,bl,Basel-Landschaft,null,"Let's say you do a traceroute to r8---sn-4g57kue6.googlevideo.com (that's one of the server that serves youtube videos and not the html/css/js part of youtube), can you see a hop in there after which time goes up by a lot and stays high for all subsequent nodes (from  less than 100ms to a few hundred ms) ?
+
+
+Sidenote: if you change the DNS server on your computer you may also have to [flush your DNS cache](https://www.google.ch/search?q=flush+dns+cache) for it to take effect.",null,0,null,1428336673,null,0,false,0,cq31qha,null,t3_31mf1t,null,t1_cq31qha,null,t1_cq3168z,null,null,null,1432227660,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,sirclockalot,ti,Ticino,null,"I don't mind sharing the traceroute output, i can't see any IPs that identify me. 
+
+To answer your question, the traceroute stops after step 2 and at step 3 simply outputs * * *, same for step 5 and after that step the latency is over 100ms",null,0,null,1428337087,null,0,false,0,cq31zff,null,t3_31mf1t,null,t1_cq31zff,null,t1_cq31qha,null,null,null,1432227777,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,nik0chan,null,null,null,I feel like there's something going on for the past few days. I too had buffering issues on Youtube/Twitch and using a VPN solved the problem. I don't think it's intentional and I suspect it might be caused by overloaded servers which are bypassed when using a VPN.,null,0,null,1428338209,null,0,false,0,cq32oaq,null,t3_31mf1t,null,t1_cq32oaq,null,t3_31mf1t,null,null,null,1432228104,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,weeefapfap,null,null,null,Sure. Maybe block out the first (your) IP right after 192.168.1.1,null,0,null,1428338689,null,0,false,0,cq32z79,null,t3_31mf1t,null,t1_cq32z79,null,t1_cq2xc6n,null,null,null,1432228246,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"Wow, this is actually exacly what i was looking for when posting this! I was thinking of doing biochemistry there too and was a little bit worried about the math part and about how practical things are. And  i actually have a question: are the first year of biology/chemistry/biochemistry summarized in a single course or are those 3 completely different courses from the beginning? I couldn't find a direct answer for this on the website... ",null,0,null,1428338917,null,0,false,0,cq334ac,null,t3_31in0y,null,t1_cq334ac,null,t1_cq1z48h,null,null,null,1432228312,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"I was actually thinking to do biochemistry myself. Did your friends applied for the engineering part or was it in sciences? ",null,0,null,1428339156,null,0,false,0,cq339ok,null,t3_31in0y,null,t1_cq339ok,null,t1_cq21xbu,null,null,null,1432228383,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Cubassss,gr,fu chur obanaba,null,"Well, havent thought about that,they actually have a reddit page :D! ",null,0,null,1428339198,null,0,false,0,cq33alf,null,t3_31in0y,null,t1_cq33alf,null,t1_cq1ybwf,null,null,null,1432228395,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Cubassss,gr,fu chur obanaba,null,"How would you describe the difference from the uzh to the eth? ",null,0,null,1428339225,null,0,false,0,cq33b79,null,t3_31in0y,null,t1_cq33b79,null,t1_cq1wcuh,null,null,null,1432228402,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,sirclockalot,ti,Ticino,null,Can't find my IP in the output. I posted them in the original comment.,null,0,null,1428339258,null,0,false,0,cq33bw6,null,t3_31mf1t,null,t1_cq33bw6,null,t1_cq32z79,null,null,null,1432228411,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"No real campus? How would you describe the irchel hönggerberg (and that one above the river) campi? And yea, I've seen some student housings in Zürich, it's actually interesting imo. ",null,0,null,1428339438,null,0,false,0,cq33fwv,null,t3_31in0y,null,t1_cq33fwv,null,t1_cq2rkct,null,null,null,1432228464,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1428339473,null,0,false,0,cq33gnn,null,t3_31in0y,null,t1_cq33gnn,null,t1_cq1x19s,null,null,null,1432228474,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"I'm actually coming from graubünda  obanaba. And wanted to study biochemistry at an University in switzerland, and heard that the courses at the eth and the uzh are really good. I think i have a really good natural talent for biology and chemistry (23rd place at the Swiss Biology Olympics without studying more than 10minutes) but really struggle with anything above simple algebra in mathematics. I've heard and seen that math is a pretty big factor in this school and am concerned that i might just get wrecked by it. So idk if i should study at the uzh instead.. And i didn't knew about those summer exams too.. ",null,0,null,1428339996,null,0,1428340399,0,cq33s6c,null,t3_31in0y,null,t1_cq33s6c,null,t1_cq2f78b,null,null,null,1432228624,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"Im swiss too, with all the maturastuff etc. Is it a problem to apply if im not in Switzerland myself? ",null,0,null,1428340077,null,0,false,0,cq33txn,null,t3_31in0y,null,t1_cq33txn,null,t1_cq1xbx2,null,null,null,1432228648,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,fishwithabicycle,zh,Zürich,null,"Don't worry about the practical things! In the first year you will work in a group of 2 to 3 people and have a quite personalized supervision!  About the Math part... well it depends where you are from and what you already did in highschool. I had for example already seen some of the math stuff in highschool that my swiss colleagues didn't so it was easier for me ;)
+
+Chemistry and biology are different courses. Biochemistry is included in the biology course.
+
+They changed a bit the biology course, so it's different now from how it was when I started. What I know so far is that you will start with a broad basis of biology (from plant to cell biology, neurology, biochemistry), maths, physic, and chemistry. I think in the second semester you can start choosing ""Wahlfächer"" from three different modules: 
+
+1) biodiversity, 
+
+2) cellular and molecular biology and 
+
+3)biological chemistry. 
+
+When you want to do biochemistry, I would choose lectures from the last two modules (especially organic chemistry!).
+
+A useful link is www.vvz.ethz.ch . You can check out the lectures from previous semesters with a short description. I helped me a lot in my deciding to come here to ETH. 
+
+Just a fair warning, as somebody else already mentionned, you won't have much of a summer in the first two years. Exams are always in August, and you first exams will only be after a full year (no exams after the first autumn semester) and, believe me, it will be A LOT!! On the other hand I guess it is not that different at other universities. 
+",null,0,null,1428340418,null,0,false,0,cq341jr,null,t3_31in0y,null,t1_cq341jr,null,t1_cq334ac,null,null,null,1432228748,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,therealsam,usa,USA,null,"Don't worry about it. Google wants to get its content to you as fast as possible, so it'll get better soon (it is Magical Jesus Monday, after all :P).
+
+The peering agreements between the SWITCH network and Google is different than the one between Google and Swisscom. Part of most of those peering agreements is a clause where Google colocates a content cache in the [PoP](http://en.wikipedia.org/wiki/Point_of_presence) where they meet. Probably what is happening now is one or both of the following:
+
+a) everyone getting back from vacation wants to watch Netflix (is that in CH yet?) / youtube / other content, and are overloading Swisscom's network and the Google cache at the PoP with Swisscom
+
+b) all the students normally bogging down your university's network are getting hammered in Ibiza (or not? Not sure if CH spring break is as debaucherous as [the spectacle in the US](https://www.youtube.com/watch?v=Vlsdkj1NuGw)), so the Google cache at the PoP with SWITCH is better.",null,0,null,1428340868,null,0,false,0,cq34bvj,null,t3_31mf1t,null,t1_cq34bvj,null,t3_31mf1t,null,null,null,1432228883,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,Cubassss,gr,fu chur obanaba,null,"To get that straight: if i want to study biochemistry i have to start the biology course and choose some biochem-specific wahlfächer? and yea my math is pure garbage, i studied in switzerland and wasn't able to pass it in high scool. But i kind of got talent in anything else science related, a friend of mine said it would be possible to pass the first years if do get good grades in the other areas. what do you think?",null,0,null,1428341183,null,0,false,0,cq34j2r,null,t3_31in0y,null,t1_cq34j2r,null,t1_cq341jr,null,null,null,1432228977,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Cubassss,gr,fu chur obanaba,null,HOLY SHIT,null,0,null,1428341402,null,0,false,0,cq34o4l,null,t3_31l3cq,null,t1_cq34o4l,null,t1_cq2svnp,null,null,null,1432229044,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,fishwithabicycle,zh,Zürich,null,"First of all, having good grades in highschool doesn't necessarily mean you'll have good grades in college, and the opposite is also true. That being said, if you rock your biology and chemistry exams, you'll be able to compensate for math! I sucked at some exams during the basis pürfung  and could save me with biology! After the Basis Prüfung you will no longer have ""Blockprüfungen"" and each exam counts for itself, so that you will no longer be able to compensate. Luckily, you won't have any maths after the Basisprüfung ;)",null,0,null,1428341778,null,0,false,0,cq34wux,null,t3_31in0y,null,t1_cq34wux,null,t1_cq34j2r,null,null,null,1432229158,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,fishwithabicycle,zh,Zürich,null,And yes to your first question!,null,0,null,1428341803,null,0,false,0,cq34xfl,null,t3_31in0y,null,t1_cq34xfl,null,t1_cq34j2r,null,null,null,1432229165,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1428341973,null,0,false,0,cq351au,null,t3_31mf1t,null,t1_cq351au,null,t3_31mf1t,null,null,null,1432229215,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"does that mean that i would only have 1 year of math at the ETH? that sounds awesome :D!
+
+Btw: could you describe a difference between the ETH and the UZH? is it really just the difficulty?",null,0,null,1428343655,null,0,false,0,cq364eq,null,t3_31in0y,null,t1_cq364eq,null,t1_cq34wux,null,null,null,1432229797,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,51314a36596e427a656b,sh,Schaffhausen,null,Uhm.. sorry? Swiss-based websites to submit what's happening in /r/Switzerland? Or where you can promote this sub? I'm not sure if I understand you correctly.,null,0,null,1428343761,null,0,false,0,cq366uv,null,t3_31ncwt,null,t1_cq366uv,null,t3_31ncwt,null,null,null,1432229830,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,fishwithabicycle,zh,Zürich,null,"If they haven't changed it, then, yes only one year of math ;) I have no idea about UZH sorry ^^ ",null,0,null,1428343959,null,0,false,0,cq36bil,null,t3_31in0y,null,t1_cq36bil,null,t1_cq364eq,null,null,null,1432229890,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"no problem an thank you for the little chat man, very appreciated :)",null,0,null,1428344251,null,0,false,0,cq36idy,null,t3_31in0y,null,t1_cq36idy,null,t1_cq36bil,null,null,null,1432229980,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,seitgeist,lu,Luzern,null,I know guys in Environmental Engineering and Mechanical Engineering.,null,0,null,1428344813,null,0,false,0,cq36vnv,null,t3_31in0y,null,t1_cq36vnv,null,t1_cq339ok,null,null,null,1432230154,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Cubassss,gr,fu chur obanaba,null,"understood, thanks for the information, i suppose everyone has something like a bp over there.",null,0,null,1428344935,null,0,false,0,cq36yj9,null,t3_31in0y,null,t1_cq36yj9,null,t1_cq36vnv,null,null,null,1432230192,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1428348254,null,0,false,0,cq394xu,null,t3_31mf1t,null,t1_cq394xu,null,t3_31mf1t,null,null,null,1432231218,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,iwonderhowlongmyuse,null,null,null,"I don't know if it's an incorrect translation, but did I understand correctly that Google pays Swisscom for peering? Are there any more sources on this? ",null,0,null,1428348394,null,0,false,0,cq398b1,null,t3_31mf1t,null,t1_cq398b1,null,t1_cq2zumw,null,null,null,1432231262,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,iwonderhowlongmyuse,null,null,null,"I have the same issues, I was genuinely surprised this past week to see that YouTube would not play without buffering, something that I rarely see lately. I doubt that swisscom does any throttling, but it's more of a capacity issue - which is still probably (at least partially) their fault. ",null,0,null,1428348559,null,0,false,0,cq39c8s,null,t3_31mf1t,null,t1_cq39c8s,null,t3_31mf1t,null,null,null,1432231313,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Xyrqurqualym,null,null,null,"Here's something weird. Now that you mention it, because I haven't really thought about it about until you mentioned it, could they be throttling mobile Youtube users? Because I have a 4G-connection and Youtube blows chunks.",null,0,null,1428349152,null,0,false,0,cq39qcm,null,t3_31mf1t,null,t1_cq39qcm,null,t3_31mf1t,null,null,null,1432231498,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,endeavourl,sg,St. Gallen,null,"Don't we all, don't we all ;)",null,0,null,1428349668,null,0,false,0,cq3a2rr,null,t3_31l3cq,null,t1_cq3a2rr,null,t3_31l3cq,null,null,null,1432231661,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,korky1318,vs,Valais,null,"I was just about to make a post about this.. It's been hell those last few days, I never experienced issues before with Swisscom, now I can't watch any videos without them buffering forever.",null,0,null,1428352589,null,0,false,0,cq3c3le,null,t3_31mf1t,null,t1_cq3c3le,null,t3_31mf1t,null,null,null,1432232614,null,4,false,Switzerland,t5_2qhp6,4,null
+null,false,Aethec,vd,Vaud,null,"Train stations are not in any canton, they're directly on federal land, so they're not bound by cantonal laws.",null,0,null,1428354047,null,0,false,0,cq3d476,null,t3_31iq3s,null,t1_cq3d476,null,t3_31iq3s,null,null,null,1432233093,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,fffmmm,bl,Basel-Landschaft,null,"As far as I know, google doesn't pay Swisscom as of right now.
+
+Maybe to start off: peering is the idea that two (or more) groups connect their networks somewhere to allow data-exchange between the two networks. This is made that for example a Swisscom user can communicate with a cablecom user instead of swisscom users only being able to communicate with no one but other swisscom users. This is quite literally a few cables that you plug from a router in one network to a router in another network. Peering is done without either party paying the other for the traffic that occurs: it's a ""your customers now have access to my network and mine have access to your network"" kind of deal. (Aside of peering, there's also transit, but that's irrelevant here).
+
+Now as you can imagine, netflix, google and co send a lot more traffic in to the Swisscom network than the Swisscom network sends out to them (The packets requesting the movie from netflix/youtube/??? are a lot smaller and usually also fewer than the packets containing the movie). In addition to that, Swisscom has a lot of customers and wouldn't it be a pity if your video-platform (or whatever) was really slow for swisscom customers?
+
+Swisscom isn't stupid and thus they went to init7 and basically said ""wouldn't it be a pity if you were to lose access to our network or if your access to our network would be really shitty? But hey, rejoice for you could just pay us money and we will in return we don't deny you peering access to our network"". Thereby Swisscom wouldn't only make their customers pay for what they request, but they'd also make those who serve those requests pay. They'd get paid twice, but only do the work once. Init7 wasn't entirely sure if they could even afford the exorbitant sums of money that Swisscom wanted and were not okay with Swisscom trying to pressure them to pay for something that's always been free for both parties. That's when init7 filed a complaint and later won in court. Since then Swisscom behaved as far as I know.
+
+In the USA where there's more of a duopoly situation than in Switzerland, the big Providers have successfully pressured some content providers - like netflix - in to paying them money and they were not stopped by a court. They just let the interconnection between the network that is used by spotify and their network completely clog up at which point netflix' video quality massively degraded for customers of those ISPs and it had to buffer a lot. The ISPs could litterally have solved this problem by just plugging a few cabled from netflix' network to theirs - that would have only taken a few minutes and cost at most a one time fee of a few thousand dollars for hardware (level3 even offered to pay those few thousands for the hardware to these ISPs - at which point it would have literally been completely free for them). Yet they deliberately chose not to plug those additional cables - they wanted netflix to pay them money for the traffic and only after that $$$ arrived they'd plug some additional cables.
+
+On a positive note: Swisscom didn't get away with it and aside of that I don't know of any questionable thing they tried to pull. Oh and their customer support is the best I have used so far (internet of a relative broke and I was asked if I could fix it) - the support staff knew what they were talking about and the problem was found pretty fast (router HW broke for some reason).
+
+[Disclaimer: I neither employed, nor have I ever been employed by either side of this conflict (swisscom, init7). I am not even a customer of either, don't hold any stock nor do I have family working for either. I don't want my internet to be shitty and that's why I point it out when an ISP tries to get aways with something questionable.]",null,0,null,1428355061,null,0,1428355490,0,cq3dsss,null,t3_31mf1t,null,t1_cq3dsss,null,t1_cq398b1,null,null,null,1432233486,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,SwissBliss,vd,Vaud/Valais,null,"Ok first of all, this is super opinion based, but I truly think Vaud is the best canton.
+
+Rich, clean, nice people, french speaking side (that's a bonus), nice cities (Lausanne, Montreux, Nyon etc...), beautiful landscape with Lake Geneva between the Alps and the Jura. Close to Geneva, yet calm. Amazing education in terms of International Schools, and world class Universities. I've been to most cantons, and I just can't find a better one, and I dare someone to tell me of a better one.
+
+Trust me, if you are a foreigner and want to move to/visit Switzerland, the french speaking side is much more international and open about that (kind of the latin vs. germanic feeling). Most of the people on this sub are swiss german so they'll obviously disagree, but in my opinion this isn't up for debate. The Swiss German side is a lot more Swiss if you know what I mean. There's a reason Vaud and Geneva are the optimal choices for expats and such.
+
+(btw my parents are from Aargau and Berne/Valais, and I've lived in Vaud my whole life)",null,0,null,1428355269,null,0,1428355952,0,cq3dxrt,null,t3_31o8nl,null,t1_cq3dxrt,null,t3_31o8nl,null,null,null,1432233552,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,chmod0755,null,null,null,"Please stop your spam posts in this and other subreddits. If you just submit random crap without intending to participate in a discussion, just don't.",null,0,null,1428355451,null,0,false,0,cq3e23u,null,t3_31o8nl,null,t1_cq3e23u,null,t3_31o8nl,null,null,null,1432233608,null,7,false,Switzerland,t5_2qhp6,7,null
+null,false,weirdbreh,null,null,null,"agree, its getting weird.",null,0,null,1428356380,null,0,false,0,cq3eor7,null,t3_31o8nl,null,t1_cq3eor7,null,t1_cq3e23u,null,null,null,1432233904,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,weirdbreh,null,null,null,Just stop.,null,0,null,1428356387,null,0,false,0,cq3eoxk,null,t3_31o8nl,null,t1_cq3eoxk,null,t3_31o8nl,null,null,null,1432233907,null,6,false,Switzerland,t5_2qhp6,6,null
+null,false,Lejeune_Dirichelet,be,Bern,null,"If I need to judge by your reddit history: it's in your best interest to pick a canton that doesn't have a laborious naturalization process, a.k.a not a rural canton (not the case everywhere, guys don't hate me for saying that).
+
+But if you really want to immigrate permanently (which is what I'm assuming), then you're going to have to wait *many* years before getting the opportunity to apply for citizenship anyway. Get prepared for that.
+
+Anyhow, your first priority should be to find a job",null,0,null,1428356394,null,0,false,0,cq3ep3j,null,t3_31o8nl,null,t1_cq3ep3j,null,t3_31o8nl,null,null,null,1432233910,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,Herr_Buenzli,zh,ZO-redneck,null,"Best vehicle and why?
+
+I like trains a lot, but if I ever want to build a life-size sand castle a dumper might be more practical.",null,0,null,1428356715,null,0,false,0,cq3ewnb,null,t3_31o8nl,null,t1_cq3ewnb,null,t3_31o8nl,null,null,null,1432234008,null,4,false,Switzerland,t5_2qhp6,4,null
+null,false,whitepalms85,null,null,null,"&gt; History shows us what happens when corrupt governments have that kind of power. Absolute power corrupts absolutely. 
+
+That's really just a bullshit fantasy of American right wingers. Actually, history has shown us that more guns make countries less stable and not that people use the guns to over through bad governments. Also your logic is wrong. If people use guns to over-through governments, then they might do the same thing to elected governments too. This actually happened several times. And controlling the government by giving everyone a gun is like the dumbest plan ever...
+
+&gt;  I shouldn't have to rely on the police to take 10 minutes to discover a messy crime scene because someone was left defenseless and the criminal, being a criminal and all, didn't follow the gun ban and had a firearm of his own.
+
+Another classical American idiots argument. I think your in the wrong sub here. 1. If you feel unsafe then you should ask for more police and measures that reduce crimes, not more guns. Do you also want to install a power plant in every house and have a fire fighter truck parked in front of every house?! Honestly, are you really telling me that you don't even understand the concept of organizing things in a group and asigning specific task to specific people?! It's like the most fundamental concept of pretty much every society on this planet... 
+
+&gt; If your intent is to save lives, then ban cars.
+
+OMG, I explained this literally 10 times now. Are you fucking stupid?! So you can't even fucking read?! You even quoted it above:
+
+&gt; 2: There is no reason to own a gun since guns primary use is to kill
+
+PRIMARY... **PRIMARY!!!!!!!!!!!** Is the PRIMARY use of a car to kill people?! How about a swimming pool?! Tell me! Come on... Honestly, just do the world a favor and shot yourself in the head. People like you are the perfect example how such complete idiots should not own guns. You are the problem.
+",null,0,null,1428356896,null,0,false,0,cq3f0q5,null,t3_30oppe,null,t1_cq3f0q5,null,t1_cpxa5fu,null,null,null,1432234061,null,-3,false,Switzerland,t5_2qhp6,-3,null
+null,false,Pronato,zh,Zürich,null,"My family went skiing, so I spent the days playing games, watching movies and getting baked.",null,0,null,1428357017,null,0,false,0,cq3f3jh,null,t3_31j16q,null,t1_cq3f3jh,null,t3_31j16q,null,null,null,1432234098,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,eidmses,null,null,null,"Oh yeah the ETH Hönggerberg is a campus (though without accomodation), I guess I was a bit quick there and didn't think that biochemistry might be there; I was mainly talking about the central parth in the city (I guess you could say it's above the river). 
+
+And I'm not saying it's bad, it's just different from most unis with full fledged campuses.",null,0,null,1428357278,null,0,false,0,cq3f9ma,null,t3_31in0y,null,t1_cq3f9ma,null,t1_cq33fwv,null,null,null,1432234178,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,whitepalms85,null,null,null,"&gt; But lets compare apples to apples for a second, in that car = gun
+
+Why would we do that? They are not the same, the purpose of a car is not to kill.
+
+&gt; In many county areas, unincorporated land not within city limits, firearms are allowed to be used as long as they maintain the mandated safe distance (1/4 mile from any road or structure where I am from) from any road or structure and do not pose a threat to any nearby residents (meaning not being shot in the direction of anyone outside that safe distance). 
+
+You're kind of missing the point. The original post showed how easy it is to buy guns. Then some responded that this is 'kind of creepy' and OP then asked why. This wasn't about 'what's the best gun regulation?'. I don't think your proposed limits go far enough but I'm not really arguing that all guns should be banned. E.g. hunters or the police is totally okay. Just take the UK as an example. Access to guns is very limited and it works very well. It's fairly absurd to believe that adding guns to the UK would lead to any improvements (and the overwhelming majority in the UK would agree with that). 
+
+&gt; Firearms enthusiasts, similar to motorists, are required to be safe with the operation of their firearms, especially when the population density is much higher.
+
+Again, firearms are just there to harm, car aren't. The argument 'it's fun' doesn't really count if you also create a potential threat to others. I think it's fun to shoot guns, it would also be fun to throw hand grenades in a city center or drive around in a tank. But such things are simply not acceptable because you can't just do stuff just because it's fun when others might get hurt. There's absolutely no need to shoot guns. It's just a hobby and you have no right for such a hobby, just like you have no right drive tank through a city center while throwing grenades (obviously that doesn't apply for the wacky Americans that would write such nonsense in their constitution).
+
+&gt; banning the outright ownership of them does little to change the effects of those that use them irresponsibly or unlawfully
+
+That makes no sense at all. There are also people raping other people even though it's banned. So are you saying that we should legalize rape because we can't completely stop it? ",null,0,null,1428358319,null,0,false,0,cq3fxae,null,t3_30oppe,null,t1_cq3fxae,null,t1_cpxcqak,null,null,null,1432234487,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,Cubassss,gr,fu chur obanaba,null,"Well, i haven't really been to those yet, so i hope i won't miss them too much :) but yea, i guess that could be a problem since living in zurich ain't cheap at all.. ",null,0,null,1428358743,null,0,false,0,cq3g6s6,null,t3_31in0y,null,t1_cq3g6s6,null,t1_cq3f9ma,null,null,null,1432234611,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,_Ganjalf,null,null,null,"They can't do shit about it
+
+
+If a police caught you smoking a joint and with less than 10gr of weed they just give you a 100 chf fine.
+
+
+You bought some seed on  a site, if they say is illegal you just tell them you didn't know. End of the story, we live in Switzerland, not in US or other dictatorship Country, plus you are a minor so they can't do shit.   
+
+
+Seriously they are just trying to scare you with nothing.  Social work, Lawyer??!!! bullshit:  again, we are in  Switzerland. 
+wtf, you can smoke a joint and don't get arrested, so having some seeds is not a problem.
+
+In the worst case scenario you will have to pay a fine (normally around 100 chf) that's all.
+
+
+
+Don't let them intimidate you about this, you just bought some seed online.
+
+
+
+
+",null,0,null,1428359172,null,0,1428359759,0,cq3ggap,null,t3_30wwm5,null,t1_cq3ggap,null,t3_30wwm5,null,null,null,1432234737,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Dcoil1,null,null,null,"&gt; That makes no sense at all. There are also people raping other people even though it's banned. So are you saying that we should legalize rape because we can't completely stop it?
+
+The point is, is that even though you can regulate something to death, people are still going to do it, or in the case of guns, obtain them.
+
+However, with that, you've circled back around to your first counter argument:
+
+&gt;Why would we do that? They are not the same, the purpose of a car is not to kill
+
+The purpose of a penis isn't to rape, but you are now okay with comparing rape to firearm homicide. Similar to comparing vehicular homicide (i.e. drunk driving) to firearm homicide, which you previously said should not be done because the two are not equal. Logically, if cars =/= guns because of their designed purpose and the comparison could not be made, why is penis = guns okay?
+
+Furthermore, my post was to compare, logically, firearms to cars in terms of *regulation.* Your original post contained some misconceptions about the regulation of cars, and given the context of the post and the argument, I wanted to illustrate that firearms often have misconceptions regarding their regulation and usage.
+
+Finally, in regards to the rape analogy, the laws preventing rape are in place to safeguard the populace. Law-abiding (read ""not crazy"") members of society are not effected by these laws as they would never dream of harming someone. Once again, similarly to firearms owners, the same is true, in that the majority of law-abiding firearms owners would never dream of harming anyone either, they just enjoy their hobby.",null,0,null,1428359528,null,0,false,0,cq3go5k,null,t3_30oppe,null,t1_cq3go5k,null,t1_cq3fxae,null,null,null,1432234840,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,NoRealRoots,null,null,null,"I'm not up to date on conferences, but did speak to people from CLIC and FCC last week when we visited CERN. 
+
+All the groups seem to have pretty big groups behind them from what I've read. However I am coming from an undergrad research viewpoint and you may know a lot more than I do about this. 
+
+IMO CLIC is ambitious, and only really necessary if LHC finds anything overly interesting in the TeV ranges. At that point even the guy from FCC said that a higher energy linear could be preferable, as you can't get a circular e+e- to those energies. ",null,0,null,1428360222,null,0,false,0,cq3h3v1,null,t3_31lrs9,null,t1_cq3h3v1,null,t1_cq2zhy4,null,null,null,1432235045,null,1,false,CERN,t5_2r692,1,null
+null,false,whitepalms85,null,null,null,"&gt; The point is, is that even though you can regulate something to death, people are still going to do it, or in the case of guns, obtain them.
+
+How is that relevant then? If it applies to everything, why did you bring it up?
+
+&gt; Logically, if cars =/= guns because of their designed purpose and the comparison could not be made, why is penis = guns okay?
+
+Are you serious?! The car is an example for something that can kill people too but it's not the same as a gun because it's primary purpose is not to harm people.
+
+Rape was an example for a crime that is committed despite being banned but most people agree that it still should be banned. You seem to struggle to understand that outlawing something means reducing it and usually not totally making it go away.
+
+&gt; firearms to cars in terms of regulation.
+
+Well, just like cars, I think firearms should be regulated. But I think guns should be regulated much striker as they serve no useful purpose in private hands, which is not true for cars and therefore they shouldn't be regulated as heavily. However, I'm not very much in favor of cars either, so I'm not sure why you keep bringing this up, it was just an example...
+
+&gt; they just enjoy their hobby
+
+Well, search another hobby then?! There's absolutely no need to shoot guns and it creates all kind of problems that come along with it. Sure, most people are responsible but some aren't and you can't really tell the difference. E.g. people develop psychological problems years after they bought a gun. So you necessarily end up with crazy people owning guns just because some people thought it would be fun to play a bit with tools that were designed to kill people. Seriously, just play with something else. You aren't 5 years old anymore and this is not the sandbox...
+",null,0,null,1428361011,null,0,false,0,cq3hlic,null,t3_30oppe,null,t1_cq3hlic,null,t1_cq3go5k,null,null,null,1432235276,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,tomorrowsanewday45,null,null,null,"Please friend, there no sense in arguing. If you don't like your gun laws, and the majority of the people favor them, then move to a country that fits your prerogative. Otherwise don't complain. You control your own life, go live somewhere that rides on your beliefs, don't try and force others to live by yours. ",null,0,null,1428361469,null,0,false,0,cq3hvhj,null,t3_30oppe,null,t1_cq3hvhj,null,t1_cq3f0q5,null,null,null,1432235406,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Hrim,ge,Genève,null,"I've noticed Youtube being unbearably slow, especially on my iPhone.
+Swisscom had issues with internet recently.",null,0,null,1428362229,null,0,false,0,cq3ibzb,null,t3_31mf1t,null,t1_cq3ibzb,null,t3_31mf1t,null,null,null,1432235622,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,whitepalms85,null,null,null,"&gt; If you don't like your gun laws, and the majority of the people favor them, then move to a country that fits your prerogative. Otherwise don't complain.
+
+I think if you have a problem with people stating their opinion on a website designed for discussion then you are the one that should leave. This is Switzerland and not North Korea. 
+
+But let's be honest, your comment showed clearly that you don't have any argument and now you basically just admitted that you lost the discussion.... ",null,0,null,1428362258,null,0,false,0,cq3icmr,null,t3_30oppe,null,t1_cq3icmr,null,t1_cq3hvhj,null,null,null,1432235630,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,tomorrowsanewday45,null,null,null,"&gt;But let's be honest, your comment showed clearly that you don't have any argument and now you basically just admitted that you lost the discussion....
+
+Lol are you 12? This isn't some super debate club, I don't want to be exhausted in going back and forth to a person heavy set in their ways, I was bothered enough to actually argue with you, but my interest has faded and I just don't care. I'm not interested in a fight with two people, both having strong convictions. I made my case, you made yours. There is no right or wrong answer because it's a matter of opinion. You don't like guns, cool. Good for you. Your reasons are enough for you to dislike an inanimate object, my reasons are enough for me to like an inanimate object. 
+
+The bottom line is that I've argued vehemently with people over all sorts of topics and you know what the basic outcome is? I leave holding my opinions, and they leave holding theirs. I just can't be bothered to play the same game having a fairly good idea of what the outcome will be. I just don't care. Lol losing the discussion, that's just rich. I'm sure you'll find someone around here that will have the energy to argue a brickwall, and that person is not me. Cheers! ",null,0,null,1428363283,null,0,false,0,cq3iymc,null,t3_30oppe,null,t1_cq3iymc,null,t1_cq3icmr,null,null,null,1432235919,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,whitepalms85,null,null,null,"You're acting like you're 'the adult' and I'm crazy, when actually your arguments were of extremely poor quality. You failed at justifying your position and now you are just using 'there are no right or wrongs' claim to back out of it. Of course you are wrong if you can't justify it. You just can't admit it.
+
+",null,0,null,1428364891,null,0,false,0,cq3jwhf,null,t3_30oppe,null,t1_cq3jwhf,null,t1_cq3iymc,null,null,null,1432236362,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,tomorrowsanewday45,null,null,null,"This isn't black and white. This is a matter of opinion. I find your arguments to be ludicrous, and you mine. You are not the sentinel of logic and reasoning. Neither am I. Your predisposition blocks you from changing your mind. No matter how many arguments come up with, you'll dismiss because it conflicts from your unshaken belief. You know no matter, what your opinion won't change. Your not looking for a debate, your looking for people to agree with you. It's like arguing over if we should ban sports cars. Some people will be in favor because they feel they are unnecessary, dangerous, and have no other purpose but to go fast, this of course makes them more dangerous. You don't *need* anything outside of public transportation, but if you really want a car, it shouldn't be legally allowed to breach the speed limit. But the other side says Yeah there are risks, yeah they might be pointless, but they enjoy them, enjoy racing them, enjoy collecting them, enjoy them as a hobby and feel these reasons outweigh the risk of irresponsible people. There is no right or wrong answer in this situation, and in the situation with guns. No matter what, there are people who will hold their opinion. You've made your case, I've made mine. Niether of us are satisfied with each other's answer, so we move on. I just don't care. ",null,0,null,1428365793,null,0,false,0,cq3kg0t,null,t3_30oppe,null,t1_cq3kg0t,null,t1_cq3jwhf,null,null,null,1432236617,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Chrisixx,bl,Basel-Landschaft,null,"I think you have the right to decide over your life and when to end it, thus I'm perfectly fine with assisted suicide. ",null,0,null,1428368534,null,0,false,0,cq3m3me,null,t3_31ougg,null,t1_cq3m3me,null,t3_31ougg,null,null,null,1432237468,null,16,false,Switzerland,t5_2qhp6,16,null
+null,false,Urgullibl,null,null,null,"As long as there is a medical standard of diagnosis and other safeguards to make sure that they are making a free, competent and unpressured decision, I'm fine with it.",null,0,null,1428368833,null,0,false,0,cq3ma8s,null,t3_31ougg,null,t1_cq3ma8s,null,t3_31ougg,null,null,null,1432237555,null,50,false,Switzerland,t5_2qhp6,50,null
+null,false,Urgullibl,null,null,null,"No, they stopped admitting students 34 years ago. Ignore the posers in this thread.",null,0,null,1428368898,null,0,false,0,cq3mblz,null,t3_31in0y,null,t1_cq3mblz,null,t3_31in0y,null,null,null,1432237572,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,Urgullibl,null,null,null,Because there are laws that allow certain categories of shops to have non-traditional opening hours.,null,0,null,1428368943,null,0,false,0,cq3mclo,null,t3_31iq3s,null,t1_cq3mclo,null,t3_31iq3s,null,null,null,1432237585,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Urgullibl,null,null,null,"If you think that's high, try Sweden.",null,0,null,1428369003,null,0,false,0,cq3mdwq,null,t3_31ic3h,null,t1_cq3mdwq,null,t1_cq1u0c8,null,null,null,1432237603,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,HerrFakalium,null,null,null,"i think if youre going to an euthanasia to end your life you've thought about it for enough time. you could just kill yourself by jumping in front of a train or shoot yourself, but thats not a good way to end your life. also youre not going to an euthanasia in an affect. so i dont see anything negative about it. it doesnt matter if these people are swiss or from other countries, if other governments dont allow these institutions for some (stupid) reason its perfectly okay to go into another country where you can legally do what you really want.
+sry for bad englando, s bett rüeft.",null,0,null,1428369143,null,0,false,0,cq3mgx9,null,t3_31ougg,null,t1_cq3mgx9,null,t3_31ougg,null,null,null,1432237642,null,4,false,Switzerland,t5_2qhp6,4,null
+null,false,Dcoil1,null,null,null,"I invite you to try target shooting once, at least to get an understanding of what you're so fundamentally against. You may come away with a slightly altered perspective, or at the least will be reaffirmed in your beliefs but have experience to back them up
+
+Currently, you're lobbing stones at a hobby for which you have no personal experience with - judging a book by it's cover. Ive tried using reasoning and logic, but you seem pretty dead set in your opinion. Good luck to you in your future endeavors.",null,0,null,1428369475,null,0,false,0,cq3mo3n,null,t3_30oppe,null,t1_cq3mo3n,null,t1_cq3hlic,null,null,null,1432237736,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Cubassss,gr,fu chur obanaba,null,"Pssst! Don't say it out loud! ",null,0,null,1428370612,null,0,false,0,cq3naa1,null,t3_31in0y,null,t1_cq3naa1,null,t1_cq3mblz,null,null,null,1432238027,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,samirfernandez,null,null,null,-_-,null,0,null,1428370862,null,0,false,0,cq3nf76,null,t3_31o8nl,null,t1_cq3nf76,null,t1_cq3eoxk,null,null,null,1432238090,null,-5,false,Switzerland,t5_2qhp6,-5,null
+null,false,samirfernandez,null,null,null,-_-,null,0,null,1428370872,null,0,false,0,cq3nfei,null,t3_31o8nl,null,t1_cq3nfei,null,t1_cq3e23u,null,null,null,1432238093,null,-5,false,Switzerland,t5_2qhp6,-5,null
+null,false,samirfernandez,null,null,null,-_-,null,0,null,1428370881,null,0,false,0,cq3nfke,null,t3_31o8nl,null,t1_cq3nfke,null,t1_cq3eor7,null,null,null,1432238095,null,-5,false,Switzerland,t5_2qhp6,-5,null
+null,false,C4p5ul3,vd,Lausanne - Vaud,null,I'm perfectly fine with it and I think other countries should embrace it.,null,0,null,1428371603,null,0,false,0,cq3ntda,null,t3_31ougg,null,t1_cq3ntda,null,t3_31ougg,null,null,null,1432238276,null,7,false,Switzerland,t5_2qhp6,7,null
+null,false,tanteoma,zh,Moisen,null,"[Helicopter taxi for cows](http://gizmodo.com/why-the-swiss-evacuate-their-cows-by-helicopter-1485070277). ",null,0,null,1428371972,null,0,false,0,cq3nzyb,null,t3_30yr63,null,t1_cq3nzyb,null,t3_30yr63,null,null,null,1432238362,null,1,false,Switzerland,t5_2qhp6,1,null

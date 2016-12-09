@@ -1,0 +1,203 @@
+true,Wodashit,cern,ATLAS,"Mhhh, so if I understood correctly what you said you are able to run your script but don't know how to add the correct information in the header to have access to the TGraph and TCanvas classes?
+
+If this is the case you just have to put
+
+    #include&lt;TCanvas.h&gt;
+    #include&lt;TGraph.h&gt;
+
+Doing so would give you access to those two classes.
+
+Does that answer your question?
+
+By the way your script is in C++, Emacs is just the name of an editor and I guess it's because people have shown you how to connect yourself to lxplus and run root from there.",0,1399495694,null,0,false,0,chc55e0,t3_24zc9p,t1_chc55e0,t3_24zc9p,null,1433695628,2,false,CERN,t5_2r692,2
+true,tangerinelion,null,null,"CINT is horrible and I wish it would die.  Until then, you have two ways of running C++ code in ROOT (and even then, certain parts of standard C++ do not work - pointers to member fields do not work yet pointers to member functions do.  Virtual inheritance is largely broken but only if you override a function.).
+
+First is if your script looks like this:
+
+    {
+         double x[10];
+         double y[10];
+         TGraph* myGraph = new TGraph();
+         // etc.
+    }
+
+versus
+
+    void myFunction() {
+         double x[10]; double y[10]; // etc....
+    }
+
+then you indeed have a script.  Or what some folks like to, mistakenly, call a ""macro."" (See below).
+
+With a script you would launch ROOT and run it as such:
+
+     .x myScript.C
+
+and it does some stuff and whatever variables you declared in the script are now accessible names.  It's as if you had typed each line in one-by-one into the ROOT console.
+
+With the latter you'd execute it as such, preferably compiling it:
+
+    .L myCode.C+
+    myFunction()
+
+If you do this then you need to include the headers for whatever classes you use; as you've already been told.  You do not do this for the script style of writing.
+
+**Protip** For most cases your data is coming from some sort of ROOT file with a TTree inside.  If this is the case then you should try as much as possible to take advantage of the TTree::Draw function.  Suppose you have a TTree with a bunch of entries of (x,y) positions and then some associated event data.  If you want a plot of (x,y) points you can do this:
+
+     myTree-&gt;Draw(""x:y""); // Note the use of the colon
+
+If you wanted the (x,y) positions only in the case that some other variable, z &gt; 1, then you can do this:
+
+     myTree-&gt;Draw(""x:y"",""z &gt; 1."");
+
+And lastly, if you wanted to plot the average value of y as a function of x in the case that z &gt; 1, then you can do this:
+
+    myTree-&gt;Draw(""x:y"",""z&gt;1."",""PROF""); // Creates a TProfile 
+
+These are all helpful things to do before you go ahead and write some sort of script.
+
+**Second Protip** If your data isn't in a TTree format but instead in some stupid text file, convert it to a TTree.  If you had this data:
+
+    x      y     z
+    2.0   3.0   4.0
+    // etc.
+
+Then you would want to read it in line by line, create an event for each line and write out a TTree.
+
+    TFile* f = new TFile(""output.root"",""RECREATE"");
+    TTree* t = new TTree(""myTree"");
+    Double_t x,y,z;
+    t-&gt;Branch(""x"",&amp;x);t-&gt;Branch(""z"",&amp;y);t-&gt;Branch(""z"",&amp;z);
+    std::ifstream infile(""data.dat"");
+    while(infile &gt;&gt; x &gt;&gt; y &gt;&gt; z) {
+       t-&gt;Fill();
+    }
+    t-&gt;Write();
+    delete t;
+    delete f; // Closes file - lots of people seem to not understand TFile::~TFile() first calls TFile::Close().
+
+---------------------------------------------------------
+
+In C, the word ""macro"" is well defined.  It has been defined since the 1970s and well before ROOT was even conceived.  Here is a macro:
+
+    #define max(x,y) ((x) &gt; (y) ? (x) : (y))
+
+How utterly useless is that.  ""I wrote a macro.""  No, you didn't, you wrote an interpreted C++ script.  If you actually wrote a macro I would be very upset because the use of the C preprocessor is discouraged in C++.",0,1399500622,null,0,1399500935,0,chc7l4u,t3_24zc9p,t1_chc7l4u,t3_24zc9p,null,1433696758,6,false,CERN,t5_2r692,6
+true,[deleted],null,null,:( i just picked mine up from my lgs that i had AimSurplus ship to.  No tag for me :(  Its all in good condition and matching numbers though so I guess I cant complain.,0,1399502665,null,0,false,0,chc8ilc,t3_24l4yj,t1_chc8ilc,t3_24l4yj,null,1433697196,1,false,SwissGuns,t5_2wug1,1
+true,Wodashit,cern,ATLAS,"Your answer is probably much more complete than my two lazy lines.
+
+Also to avoid the hassle the function [ReadFile](http://root.cern.ch/root/html/TTree.html#TTree:ReadFile) can be used to fill your tree automatically.",0,1399504431,null,0,false,0,chc9ats,t3_24zc9p,t1_chc9ats,t1_chc7l4u,null,1433697565,2,false,CERN,t5_2r692,2
+true,wolfman92,null,null,"Alrighty, I almost understood some of that.  Like I said, I'm coming in with zero programming experience.  I have a program written in C++ that gets data from a .txt file and assigns it to variables, and stores the data in the variables.  I have a separate code that I know runs in root;
+
+    Int_t n = 20; 
+     Double_t x[n], y[n]; 
+     for (Int_t i=0;i&lt;n;i++) { 
+     x[i] = i*0.1; 
+     y[i] = 10*sin(x[i]+0.2); 
+     } 
+     // create graph 
+     TGraph *gr = new TGraph(n,x,y); 
+     TCanvas *c1 = new TCanvas(""c1"",""Graph Draw         Options"",200,10,600,400); 
+     // draw the graph with axis, contineous line, and put a * at each point 
+     gr-&gt;Draw(""AC*""); 
+except instead of the i*0.1 and 10*sin(x[i]+0.2)  I want to graph the data that was taken from the .txt.  I'm semi-comfortable at this point with the C++ I've been working with for the past two days, so I was hoping I could implement the above code in C++, then run it in ROOT.
+I'm feeling like a pain in the ass when I'm asking the grad students for help, I'm literally flailing around blind here, lol...",0,1399505573,null,0,false,0,chc9sy9,t3_24zc9p,t1_chc9sy9,t1_chc7l4u,null,1433697802,1,false,CERN,t5_2r692,1
+true,eddiemon,null,null,"Nice write up. For the second protip, you could also do this:
+
+    tree-&gt;ReadFile(""data.dat"", ""x:y:z"");
+    tree-&gt;Write()
+    ...
+
+Also, depending on what you're doing, it is an option to *just* read into a tree this way, and not write it out.",0,1399505642,null,0,false,0,chc9u0q,t3_24zc9p,t1_chc9u0q,t1_chc7l4u,null,1433697825,2,false,CERN,t5_2r692,2
+true,martellus,null,null,that filter,0,1399509027,null,0,false,0,chcbb31,t3_24l537,t1_chcbb31,t3_24l537,null,1433698596,3,false,SwissGuns,t5_2wug1,3
+true,kesco,null,null,This Is really nice! i really like the soldier looking ones,0,1399509104,null,0,false,0,chcbc9g,t3_24ypw6,t1_chcbc9g,t3_24ypw6,null,1433698612,1,false,SwissArmyKnives,t5_2x6lj,1
+true,batador,ti,Ticino,These are all familiar but I never realized they were different. Listening to them made me incredibly homesick.,0,1399511487,null,0,false,0,chccdtx,t3_24v1pg,t1_chccdtx,t3_24v1pg,null,1433699104,2,false,Switzerland,t5_2qhp6,2
+true,PGT_FTW,null,null,not sure what I used but it wasn't much.....saturate maybe.  My steps need a powerwash but they make for a sweet backdrop for pics,0,1399515007,null,0,false,0,chcdyvk,t3_24l537,t1_chcdyvk,t1_chcbb31,null,1433699850,1,false,SwissGuns,t5_2wug1,1
+true,Aquagoat,null,null,"Thanks.  I looked through a bunch of catalogs trying to find which model this was, and the camper was the closest I found.",0,1399515973,null,0,false,0,chcee3d,t3_1jdg8f,t1_chcee3d,t1_cfel6ps,null,1433700050,1,false,SwissArmyKnives,t5_2x6lj,1
+true,anonlymouse,be,Bern,"Sure, but if individual issues are up for the vote each time, it's not like the military can develop a comprehensive defense.",0,1399537191,null,0,false,0,chcksl8,t3_24pjg2,t1_chcksl8,t1_ch9j4s8,null,1433703181,1,false,Switzerland,t5_2qhp6,1
+true,anonlymouse,be,Bern,"That was the point, unless it's a country like Austria, we don't have a chance anyway.",0,1399537383,null,0,false,0,chcktq2,t3_24pjg2,t1_chcktq2,t1_cha51bc,null,1433703196,1,false,Switzerland,t5_2qhp6,1
+true,anonlymouse,be,Bern,That's a false dichotomy. There are other options.,0,1399537490,null,0,false,0,chckubp,t3_24pjg2,t1_chckubp,t1_ch9zof0,null,1433703203,1,false,Switzerland,t5_2qhp6,1
+true,anonlymouse,be,Bern,"You can't buy an F22 anyway. The Americans want to keep it for themselves, and the F35 isn't useful without the F22 (according to officials in the American army).",0,1399537554,null,0,false,0,chckup9,t3_24pjg2,t1_chckup9,t1_cha5d2p,null,1433703208,1,false,Switzerland,t5_2qhp6,1
+true,yesat,vs,Valais,"&gt;All of our other neighbors would beat us even with the Grippen. They are better equipped,  better trained, 
+We wouldn't have a slight chance.
+
+Forgot what I've said, I need to read better.",0,1399537776,null,0,false,0,chckvzc,t3_24pjg2,t1_chckvzc,t1_chcktq2,null,1433703228,1,false,Switzerland,t5_2qhp6,1
+true,yesat,vs,Valais,"The Americans don't want to produce any more F22 for now, too much costs.",0,1399537913,null,0,false,0,chckwsz,t3_24pjg2,t1_chckwsz,t1_chckup9,null,1433703238,1,false,Switzerland,t5_2qhp6,1
+true,Graf_Blutwurst,zh,Zürich,Hm would protecting swiss ships be a problem to neutrality though?,0,1399538175,null,0,false,0,chckyf7,t3_24n5zc,t1_chckyf7,t1_ch9coh4,null,1433703257,0,false,Switzerland,t5_2qhp6,0
+true,Eggl,null,null,"Another thought: 
+Use Python! 
+just import ROOT 
+and then you can simply access all basic Root classes via something like ROOT.TCanvas()
+
+so simple example:
+    
+    
+    import ROOT
+    
+    c = ROOT.TCanvas(""title"",""title"",800,600)
+    h_test  = ROOT.TH1D(""test"",""test"",100,-5,5)
+    h_test.FillRandom(""gaus"")
+    h_test.Draw(""HIST"") 
+
+simply call this with python -i scriptname.py and you should get a gaussian in a 800 x 600 Canvas. 
+
+   ",0,1399543235,null,0,false,0,chclq12,t3_24zc9p,t1_chclq12,t3_24zc9p,null,1433703627,2,false,CERN,t5_2r692,2
+true,batwingsuit,null,null,"Did you mean 50 CHF mark? Is that the point you must pay duty at? I thought it was much lower than that…
+
+So you're allowed to bring more in if it's with you while crossing the border?",0,1399543542,null,0,false,0,chclrnt,t3_24pv40,t1_chclrnt,t1_chau1e4,null,1433703648,1,false,Switzerland,t5_2qhp6,1
+true,Aethec,vd,Vaud,"&gt; Who thought that after the last vote, the EU would say: ""you know what lets cut every plans""
+
+This will sound a bit condescending, but the answer is ""anybody who knew what they were voting on"". The bilateral agreements had a clause that explicitly talked about this.
+",0,1399544262,null,0,false,0,chclvi6,t3_24sb4k,t1_chclvi6,t1_chabllk,null,1433703693,1,false,Switzerland,t5_2qhp6,1
+true,Motzlord,tg,Thurgau,"When you personally import it, everything under the value of 300 CHF per person and day is tax-free. Notice however that you cannot split items with several people. Also, some products have limitations, such as dairy, meat etc.
+If you order off the internet, everything below a tax value (8%) of 5 francs, which is about 60 CHF is tax free.
+
+I don't know what 50 CHF mark you are talking about, but basically yes: if you import it yourself, you can bring more.",0,1399546018,null,0,false,0,chcm5p6,t3_24pv40,t1_chcm5p6,t1_chclrnt,null,1433703824,1,false,Switzerland,t5_2qhp6,1
+true,NiggaWeMadeItOhShit,null,null,"Hey!
+
+I've got a question. I used bitstamp and they charged me $15 for fees. After asking them why, they basically answered me that SEPA does apply, but ''additional fees were charged for your transfer which were covered by a deposit fee of $15''.
+
+Could you look up when you last deposited money on bitstamp? Did they charge you too?",0,1399548008,null,0,false,0,chcmixz,t3_24oqz0,t1_chcmixz,t1_ch9e25p,null,1433703997,1,false,Switzerland,t5_2qhp6,1
+true,netheranthem,null,null,"It's great to live in Switzerland, it's just more expensive. It's like having a Mercedes, basically.
+
+You could afford it, but as a Software Engineer with no degree it would be tough to find something in Switzerland as the market for it isn't booming here like everywhere else (mostly due to the cost!)
+
+In my personal situation (similar to yours, except for the fact that I'm currently located in Switzerland) I'm considering moving out if I don't get a raise, because while I can live comfortably, there wouldn't be much money left after paying for the car/rent! But then, if I were to live in the US, I'd have 10k/year more disposable income, which is quite significant.
+",0,1399551698,null,0,false,0,chcnc7c,t3_24bnew,t1_chcnc7c,t1_cha58ke,null,1433704380,1,false,Switzerland,t5_2qhp6,1
+true,wolfman92,null,null,"I literally have 2 days of programming to go on here.  I'de love to learn easier ways to do this particular task, but eventually C++ (or CINT) and root are going to be the only ways to deal with the data.  I think I like /u/tangerinelion 's suggestion.  I have a working script in C++, and I think I can make it work in root, plus the root graphing procedure.  Thanks for the reply anyways!",0,1399551986,null,0,false,0,chcnev3,t3_24zc9p,t1_chcnev3,t1_chclq12,null,1433704415,1,false,CERN,t5_2r692,1
+true,dastram,ar,Appenzell Ausserrhoden,"schön geschriebener text. Gibts da ein video?
+Edit: hat einen link unten beim artikel",0,1399554292,null,0,false,0,chco2g0,t3_250wxt,t1_chco2g0,t3_250wxt,null,1433704723,1,false,Switzerland,t5_2qhp6,1
+true,Infantry1stLt,null,null,"Since we have that kind of shock images on cigarette packs, why not show pictures of human goo after a train collision next to these signs?",0,1399562866,null,0,false,0,chcrk97,t3_251off,t1_chcrk97,t3_251off,null,1433706437,2,false,Switzerland,t5_2qhp6,2
+true,Mikijonie,vd,Vaud,"In Switzerland we don't use these kind of campaign...
+But England is REALLY good at shock campaigns!
+https://www.youtube.com/watch?v=pubTiDCEVZ8",0,1399563106,null,0,false,0,chcro9j,t3_251off,t1_chcro9j,t1_chcrk97,null,1433706490,3,false,Switzerland,t5_2qhp6,3
+true,iaintnoscout,ag,Aargau," How do you feel about snacketti chips?",0,1399566113,null,0,false,0,chct4c2,t3_22p6ha,t1_chct4c2,t1_cgpp9xh,null,1433707171,2,false,Switzerland,t5_2qhp6,2
+true,telllos,vd,Vaud,"I think bacon are some kind of classic, but I can't eat a lot.
+
+It the snack to have some kind of balance between the classic and paprika chips when you're doing a BBQ :)
+
+I kinda like the special Brand Migros offers, their overpriced. But I like tandoori &amp; yogurt, blue potatoes and serano ham.",0,1399566686,null,0,false,0,chctefe,t3_22p6ha,t1_chctefe,t1_chct4c2,null,1433707304,1,false,Switzerland,t5_2qhp6,1
+true,iaintnoscout,ag,Aargau,Never had these before.. If you like spicy chips you should try Zweifel's Wave Chips. Love them.,0,1399566968,null,0,false,0,chctjhr,t3_22p6ha,t1_chctjhr,t1_chctefe,null,1433707369,1,false,Switzerland,t5_2qhp6,1
+true,P1r4nha,zh,Zürich,People do that? I've never seen that and I was commuting a lot and still use the train often.,0,1399567061,null,0,false,0,chctl4n,t3_251off,t1_chctl4n,t3_251off,null,1433707400,2,false,Switzerland,t5_2qhp6,2
+true,freddo411,null,null,"I can't find it now, but I recently used an app that grabbed your GPS location, assumed you were at the closest train station, and gave you the time until the next train.   Very handy.   I think this was Swiss specific.",0,1399568307,null,0,false,0,chcu7a1,t3_251w3j,t1_chcu7a1,t3_251w3j,null,1433707680,2,false,Switzerland,t5_2qhp6,2
+true,mike_haney,null,null,"How about links to it? ",0,1399568309,null,0,false,0,chcu7bb,t3_251w3j,t1_chcu7bb,t3_251w3j,null,1433707681,2,false,Switzerland,t5_2qhp6,2
+true,Grilled_Bear,ag,Aargau,You forgot about Windowsphone.,0,1399568911,null,0,false,0,chcui3p,t3_251w3j,t1_chcui3p,t3_251w3j,null,1433707822,8,false,Switzerland,t5_2qhp6,8
+true,goldenvile,zh,Zürich,"On iOS I prefer the google maps app for public transport. I have the GA so I don't need to buy tickets (except for the occasional late night), and I find the overall user  experience so much better. Plus the walking directions are really helpful. The latest update provides better offline maps too. In 6 months I don't think I've ever seen ""incorrect"" directions or timetables. 
+
+I keep both apps on my phone, but have used the SBB app maybe twice as it just feels really dated in comparison and I just don't see the use-case for it over google maps. ",0,1399571694,null,0,false,0,chcvy9c,t3_251w3j,t1_chcvy9c,t3_251w3j,null,1433708506,7,false,Switzerland,t5_2qhp6,7
+true,shapul,vd,Vaud,"The main thing about the SBB app is that it gives you real-time and complete information about the lines and connections. Thus if e.g. a train is delayed, it will show you a route that takes the delay into consideration. Google's map only has the nominal train and bus schedule so there is always a risk on trajectories with multiple connections that you lose a bus or train. ",0,1399572278,null,0,false,0,chcw8t5,t3_251w3j,t1_chcw8t5,t1_chcvy9c,null,1433708643,8,false,Switzerland,t5_2qhp6,8
+true,Cubassss,gr,fu chur obanaba,"Would be funny, altough i'd actually prefer bayern because beer. They also showed interest in joining glorious mother helvetia! ",0,1399572504,null,0,false,0,chcwcw0,t3_2525go,t1_chcwcw0,t3_2525go,null,1433708697,5,false,Switzerland,t5_2qhp6,5
+true,microsyntax,zh,Zürich,"Google Maps is a better choice imho, since it accounts for the time walking in between stops. Relying on the SBB app had me miss a connection several times now. Also, in Switzerland sometimes stops (especially bus stops) are called the same, but are not necessarily at the same place (around the corner at a different street for example). The SBB app does not indicate this and is therefore not a good solution for foreigners or people who don't know the place very well. ",0,1399573281,null,0,false,0,chcwqtf,t3_251w3j,t1_chcwqtf,t3_251w3j,null,1433708879,3,false,Switzerland,t5_2qhp6,3
+true,[deleted],null,null,[deleted],0,1399573285,null,0,false,0,chcwqw1,t3_251w3j,t1_chcwqw1,t3_251w3j,null,1433708880,1,false,Switzerland,t5_2qhp6,1
+true,ngstyle,null,null,"If you visit Bern, check out ""MEZI"". As far as I know It's available for IOS. ",0,1399573558,null,0,false,0,chcwvyw,t3_251w3j,t1_chcwvyw,t3_251w3j,null,1433708947,2,false,Switzerland,t5_2qhp6,2
+true,goldenvile,zh,Zürich,"That's a fair point. However delays have been rare, and I just don't think I can go back to the SBB app. For example, being able to just search for a place without even knowing the address is just a better experience for me.
+
+I'll re-evaluate in another 6 months :)",0,1399573716,null,0,false,0,chcwyt8,t3_251w3j,t1_chcwyt8,t1_chcw8t5,null,1433708983,2,false,Switzerland,t5_2qhp6,2
+true,tracicle,zh,Zürich,"Yeah, I have this problem with the SBB app. I use GMaps 95% of the time, and only use the app to buy tickets or check when the next tram/bus leaves.
+
+Haven't used the ZVV app for ZH...is it any good?",0,1399574647,null,0,false,0,chcxfqb,t3_251w3j,t1_chcxfqb,t1_chcwqtf,null,1433709274,3,false,Switzerland,t5_2qhp6,3
+true,hubraum,world,Absurdistan,"Not sure what do to here... 
+
+Should we invade, in order to protect our fellow citizens who are living there?
+
+Should we support the Pro-Swiss separatists? Supply guns and cheese?",0,1399575023,null,0,false,0,chcxms4,t3_2525go,t1_chcxms4,t3_2525go,null,1433709366,24,false,Switzerland,t5_2qhp6,24

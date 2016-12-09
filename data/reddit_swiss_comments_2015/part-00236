@@ -1,0 +1,186 @@
+null,false,takelongramen,null,null,null,Really what? Buy? I have one at home and need the Apple Keyboard for work.,null,0,null,1434950123,null,0,false,0,csehytz,null,t3_3amvui,null,t1_csehytz,null,t1_cse6h8h,null,null,null,1437249320,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,P1r4nha,zh,Zürich,null,"Hey there, I have not bought any addresses from them and not had any troubles with the standard setup. I think what's important is, if you want to have a fixed IP address or you're fine with a dynamic IP like what you usually get with Cablecom and the others.
+
+In the contract I didn't make any cross in any of the options... so I honestly don't know exactly what I have :D.",null,0,null,1434960258,null,0,false,0,csekwwu,null,t3_3aom5g,null,t1_csekwwu,null,t3_3aom5g,null,null,null,1437250851,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SecretPassword,null,null,null,"Getting a new keyboard with US-layout in Europe is usually not cheap. Try eBay or Ricardo, maybe you're lucky and you can find a used one.
+
+You can order one from Apple (probably the cheapest option at 55 CHF: http://store.apple.com/ch-de/product/MB110D/B/apple-keyboard-mit-numerischer-tastatur-deutsch - select US-layout from the menu on the right) or from www.mechanicalkeyboards.com, www.daskeyboard.com or similar places.
+
+If you happen to know someone who travels to the US every now and then, he/she could bring you one, in case you need something exotic/specific.",null,0,null,1434960967,null,0,false,0,csel30x,null,t3_3amvui,null,t1_csel30x,null,t3_3amvui,null,null,null,1437250999,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,ProstateDeGorille,ne,Neuchâtel,null,am i disturbing someone by sleeping at 9:30 on a week-end ? no so shut the fuck up moron.,null,0,null,1434962718,null,0,false,0,cselh9x,null,t3_3ahsfh,null,t1_cselh9x,null,t1_cse23eh,null,null,null,1437251398,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,as-well,be,Bern,null,"Other providers have a better service level (Fiber7 is only available during office hours, reaction time up to 7 work days? well...) and do have internet in a wide variety of environments (dsl on top of mountains). ",null,0,null,1434962755,null,0,false,0,cselhkr,null,t3_3ajm3z,null,t1_cselhkr,null,t1_cse1fyu,null,null,null,1437251396,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,ProstateDeGorille,ne,Neuchâtel,null,"c'était aussi une invitation qu'il voulait me donner je crois, pour parler du ""personnage de jésus"" ",null,0,null,1434962756,null,0,false,0,cselhkz,null,t3_3ahsfh,null,t1_cselhkz,null,t1_csdu8ri,null,null,null,1437251396,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,ProstateDeGorille,ne,Neuchâtel,null,"Typically swiss german, and then they are the first to ring the police when you flush the toilets after 22h kek",null,0,null,1434962825,null,0,false,0,cseli46,null,t3_3ahsfh,null,t1_cseli46,null,t1_csd35dh,null,null,null,1437251413,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Granata1904,null,null,null,"The first time, saturday morning ~ 08: 30, i was not awake, I get up to answer the intercom and I gently said that i was not interested.
+
+The second time, again saturday morning ~ 09: 30, again I was not awake, I get up, I opened the windows of the bathroom and I've gently Explained That if they come in third time I would use the shower hose to gently explain to them That I'm not interested.
+
+
+
+Never seen them again.",null,0,null,1434964951,null,0,false,0,cselyp5,null,t3_3ahsfh,null,t1_cselyp5,null,t3_3ahsfh,null,null,null,1437251755,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,liquify,zh,Winterthur,null,"Thanks for your answer! According to their website you get a /48 net of (dynamic) IPv6 addresses. A single IPv4 (which is still more commonly used than v6) costs an additional CHF240 per year. v6 support can be somewhat lacking, so I'm glad to hear that you haven't had any problems with it.
+
+Even with a v4 address it would be ~CHF85 per month and that's about what we pay for Cablecom now (without actually using the phone and TV). But seems like it is worth to try v6 only.",null,0,null,1434968374,null,0,1434969019,0,csemoqo,null,t3_3aom5g,null,t1_csemoqo,null,t1_csekwwu,null,null,null,1437543261,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,ProstateDeGorille,ne,Neuchâtel,null,"amerifat's logic:
+&gt;comes to switzerland
+&gt;drinks coca cola
+&gt;wants to get coca cola back to the land of coca cola...
+
+",null,0,null,1434970709,null,0,false,0,csen7uj,null,t3_3a7y0j,null,t1_csen7uj,null,t3_3a7y0j,null,null,null,1437252639,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,roscocoltrane,null,null,null,"They want you to share their link, how cute. Have a downvote",null,0,null,1434971545,null,0,false,0,csenf8d,null,t3_3ana0u,null,t1_csenf8d,null,t3_3ana0u,null,null,null,1437252829,null,4,false,Switzerland,t5_2qhp6,4,null
+null,false,lawl0r,null,null,null,"Not sure if you understood that right. You *do* get an IPv4 address! Just not a static one, just like you do with cablecom etc. So there won't be any problems there.
+
+As for IPv6, they're using prefix delegation which not all routers support. The one they're shipping (Microtic) does, but that one doesn't manage a full Gbit/s with NAT enabled and can only get up to ~600mbps.
+
+So I recommend you the [Ubiquiti Edge Router](https://www.ubnt.com/edgemax/edgerouter-lite/) and buy a separate converter as this one doesn't support fiber optics directly.
+However, there is no option to setup DHCPv6-PD via the GUI, but it can be done via the command line. And you need to configure everything yourself. So if you're not comfortable with that, go with the Microtic.
+
+Not sure if that was too technical or even answers your question. But again, it's not IPv6 only. It's dual stack with a dynamic IPv4 address. You pay if you want a *static* IPv4.
+
+Source: I have fiber7.",null,0,null,1434972183,null,0,1434972809,0,csenkyr,null,t3_3aom5g,null,t1_csenkyr,null,t3_3aom5g,null,null,null,1437252940,null,8,false,Switzerland,t5_2qhp6,8,null
+null,false,lawl0r,null,null,null,"Nonononono, you misunderstood that.
+
+&gt; /48 net of (dynamic) IPv6 addresses. A single IPv4 (which is still more commonly used than v6) costs an additional CHF240 per year.
+
+You get a *static* /48 of IPv6 addresses and *one* dynamic IPv4.
+
+You only have to pay the additional 240 CHF if you want a *static* IPv4, i.e. a /32.",null,0,null,1434972399,null,0,false,0,csenn0l,null,t3_3aom5g,null,t1_csenn0l,null,t1_csemoqo,null,null,null,1437252985,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,liquify,zh,Winterthur,null,"Hey there! Not too technical at all, it's just that my knowledge of IPv6 is somewhat limited at the moment, but I ought to change that. I definitely misunderstood that then, a dynamic IPv4 address is absolutely fine for us. Does it change often though? Our Cablecom address is technically dynamic, but we haven't got a new one for several months or even years.
+
+We actually didn't plan to buy a router from them, just an SFP to RJ45 (1000BASE-T) converter. We're running PFsense (FreeBSD based) on a PC Engines APU (http://www.pcengines.ch/apu.htm) as router. I *think* PFSense has no issue with prefix delegation, but I definitely have to look into that.
+
+Thank you very much!",null,0,null,1434973179,null,0,false,0,csenurc,null,t3_3aom5g,null,t1_csenurc,null,t1_csenkyr,null,null,null,1437253146,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,lawl0r,null,null,null,"I had better service with Fiber7 than anywhere else, the real difference is that if you can make sense of the Fiber7 homepage, you don't need any support in configuring/debugging your internet. And the callcenters are what's expensive for ISPs.",null,0,null,1434973288,null,0,false,0,csenvvh,null,t3_3ajm3z,null,t1_csenvvh,null,t1_cselhkr,null,null,null,1437253163,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,lawl0r,null,null,null,"You get your IPv4 via DHCP with a lease time of around 10 minutes I think. So as long as you don't power your router off you generally keep your IP (that's of course not a promise, but just what I noticed).
+
+Ahh, I was running ALIX before but the APU wasn't really battle tested yet, so I went with Ubiquiti :) (ALIX has 100mbit ports :( )",null,0,null,1434973737,null,0,1434974081,0,cseo0h9,null,t3_3aom5g,null,t1_cseo0h9,null,t1_csenurc,null,null,null,1437253268,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,lhatchy1,ag,Aettenschwil,null,"Removed for irrelevance. ",null,0,null,1434973739,moderator,0,false,0,cseo0hq,null,t3_3anb4w,null,t1_cseo0hq,null,t1_cse8a61,null,null,null,1437253267,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,liquify,zh,Winterthur,null,"Yeah we had ALIX beforehand (running monowall, which sadly is discontinued) but we're just as happy with the APU.",null,0,null,1434973955,null,0,false,0,cseo2qb,null,t3_3aom5g,null,t1_cseo2qb,null,t1_cseo0h9,null,null,null,1437253295,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,P1r4nha,zh,Zürich,null,"&gt; Typical Swiss arrogance - it's fun how the Swiss think that they are the only true democratic country. Just letting people vote on everything all the time isn't really a good indicator for a good system. 
+
+There is more to it, isn't there? Switzerland is rather successful by a lot of measures. We rate highest in many, many comparisons (education, quality of life etc.). Immigrant-wise people want to come to Switzerland rather than other countries in the neighborhood.  
+Specifically on the political system issue Swiss people rate relatively high when it comes to happiness with politics and their trust in politicians and the system as a whole.
+
+So.. the people are happy and we can see the many other results of our direct democracy. Even if it's not fair to contribute it all to direct democracy it at least didn't significantly hurt Switzerland.
+
+That said. I think I agree that the people's vote is taken a bit too sacred. The majority can be wrong, yet ""Volkswille"" is shouted at anybody who is a sore loser after a vote. But that's more the narrative of the public discussion, rather than actual actions being taken.",null,0,null,1434975565,null,0,false,0,cseokcb,null,t3_3al90t,null,t1_cseokcb,null,t1_cse88zd,null,null,null,1437253689,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,P1r4nha,zh,Zürich,null,You either hate them or you love them. It's not like they present themselves as a party of nuance. If you're a polarizing force in the country you will divide the people and you will gain the most loyal supporters and the most hateful enemies.,null,0,null,1434975693,null,0,false,0,cseolve,null,t3_3al90t,null,t1_cseolve,null,t1_csdvrvp,null,null,null,1437253717,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,as-well,be,Bern,null,"Yeah so basically it is using your resources for solving technical problems instead of theirs. You are quite right, the support is expensive, clocking in probably around 30-40 bucks per man hour. Fiber7's business model are people like you who do not need the support, and since they are not offering phone lines or TV, they cater to customers like you (and me) who most likely are tech savvy enough to never all them.",null,0,null,1434975848,null,0,false,0,cseonpr,null,t3_3ajm3z,null,t1_cseonpr,null,t1_csenvvh,null,null,null,1437543165,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,[deleted],null,null,null,[deleted],null,0,null,1434975848,null,0,false,0,cseonps,null,t3_3ajm3z,null,t1_cseonps,null,t1_csenvvh,null,null,null,1437543165,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Gachl,bs,Basel-Stadt,null,So original.,null,0,null,1434976893,null,0,false,0,csep0ld,null,t3_3anb4w,null,t1_csep0ld,null,t3_3anb4w,null,null,null,1437254069,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,mosqua,null,null,null,"Oh god right across from the pickwick pub, what a many drunken nights I've stumbled out of there.",null,0,null,1434977387,null,0,1434984744,0,csep6xo,null,t3_3anb4w,null,t1_csep6xo,null,t1_csea77e,null,null,null,1437254172,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,realape,null,null,null,"my own experience with Cablecom is really good, I do play like 6 hours on weekdays and 10 or more at the weekend and the only downtime i have are like 1-2 minutes in the middle of the night (2-3 in the morning) and that only happens 1-2 times a month.
+Also its pretty cheap in comparison to Swisscom and we already got free upgrades 3 times without asking(75k&gt;100k&gt;150k). In the First upgrade they even lowered the monthly fee without any other change. Even the support is better, i needed it 2 times and both times i received help from someone that actually spoke swiss german.
+The only downside is that the upload is pretty low compared to others, 15Mbit/s but unless you plan to host that should be plenty.
+",null,0,null,1434977827,null,0,false,0,csepczg,null,t3_3ajm3z,null,t1_csepczg,null,t1_csd7rcq,null,null,null,1437254220,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,Magdusia,null,null,null,I live in a house so I have no such problem but I find it hilarious that there is toilet curfew. Only in Switzerland! :D,null,0,null,1434978760,null,0,false,0,csepqdf,null,t3_3ahsfh,null,t1_csepqdf,null,t1_cseli46,null,null,null,1437254503,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SatoyS,null,null,null,-24 in this sub? What could someone possibly say that awful?,null,0,null,1434979345,null,0,false,0,csepz3w,null,t3_3anb4w,null,t1_csepz3w,null,t1_cse8dxm,null,null,null,1437254700,null,5,false,Switzerland,t5_2qhp6,5,null
+null,false,P1r4nha,zh,Zürich,null,"/u/lawl0r already explained the issue with static vs. dynamic.
+
+For the costs I have made the same calculation as you and when I compared to what I was paying for cable before (additionally to the Internet you also pay cable access) init7 is the cheapest option. Especially for that speed.",null,0,null,1434981195,null,0,false,0,cseqscr,null,t3_3aom5g,null,t1_cseqscr,null,t1_csemoqo,null,null,null,1437255356,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,tango-01,zh,Zürich,null,www.reddit.com/r/swisshumor,null,0,null,1434985650,null,0,false,0,cset2ur,null,t3_3anb4w,null,t1_cset2ur,null,t3_3anb4w,null,null,null,1437256814,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,unicornsworshipme,zh,Zürich,null,"They usually sell these patches in the kiosks / souvenir shops on top of the passes. You probably also find them in souvenir shops in the area. ",null,0,null,1434986514,null,0,false,0,csetkcw,null,t3_3api14,null,t1_csetkcw,null,t3_3api14,null,null,null,1437257139,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,backgammon_no,null,null,null,"Thanks. I've seen souvenirs at a few famous passes (gotthard, klausen), but they may or may not have patches. It would be nice if it was possible to find them all in one place. The guy that I saw makes me think that there may be a club or organization or something. ",null,0,null,1434987225,null,0,false,0,csetz9h,null,t3_3api14,null,t1_csetz9h,null,t1_csetkcw,null,null,null,1437257407,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,comradeTJH,zh,Zürich,null,"[Baar sign in Zug](https://www.google.at/maps/@47.180255,8.513566,3a,75y,340.04h,83.34t/data=!3m6!1e1!3m4!1sxWJVDsCqiD4KwvoAEPR25w!2e0!7i13312!8i6656!6m1!1e1)",null,0,null,1434987589,null,0,false,0,cseu73o,null,t3_3anb4w,null,t1_cseu73o,null,t3_3anb4w,null,null,null,1437257568,null,8,false,Switzerland,t5_2qhp6,8,null
+null,false,P1r4nha,zh,Zürich,null,"Have you looked at granola bars? Balisto and Farmer are pretty good snacks that are low in fat and some of them don't have added sugars as far as I know.
+
+Are you more into sweet or salty snacks?",null,0,null,1434988398,null,0,false,0,cseuope,null,t3_3aputh,null,t1_cseuope,null,t3_3aputh,null,null,null,1437257885,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,SatoyS,null,null,null,"Is this a serious question? We don't need big healthy food stores, because you will  find the most things in any Migros/Coop like fruits as a snack (the obvious answer).
+If you are trying to lose weight, you might want to stop eating snacks at all...
+
+And for the sugar intake: Water instead of soft drinks. It anyway is way more refreshing and also cheaper.",null,0,null,1434988698,null,0,false,0,cseuv4k,null,t3_3aputh,null,t1_cseuv4k,null,t3_3aputh,null,null,null,1437257996,null,15,false,Switzerland,t5_2qhp6,15,null
+null,false,SwissBliss,vd,Vaud/Valais,null,"I actually added that in the post a few minutes ago. I'm trying to lower my sugar intake just to see how it goes. Isn't Balisto the type of thing that acts like it's healthy, but really it's just granola covered in sugar?",null,0,null,1434988729,null,0,false,0,cseuvrj,null,t3_3aputh,null,t1_cseuvrj,null,t1_cseuope,null,null,null,1437258013,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,seitgeist,lu,Luzern,null,There's this great thing called apple. I like apples.,null,0,null,1434989817,null,0,false,0,cseviu8,null,t3_3aputh,null,t1_cseviu8,null,t3_3aputh,null,null,null,1437258480,null,7,false,Switzerland,t5_2qhp6,7,null
+null,false,SwissBliss,vd,Vaud/Valais,null,"Not trying to lose weight at all, just looking for healthier alternatives than Rivella and Chocolate, but more interesting than an Apple and Nuts. Yes it's a serious question, we don't have a huge health movement like in the states, so it's a little tougher to find good stuff. ",null,1,null,1434989892,null,0,false,0,csevkhw,null,t3_3aputh,null,t1_csevkhw,null,t1_cseuv4k,null,null,null,1437258602,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SwissBliss,vd,Vaud/Valais,null,I feel like that answer kinda highlights the problem I'm having haha. I do like apples though,null,0,null,1434990218,null,0,false,0,csevrn2,null,t3_3aputh,null,t1_csevrn2,null,t1_cseviu8,null,null,null,1437258769,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,P1r4nha,zh,Zürich,null,"Depends on how healthy you're looking for. It's definitely better than Zweifel Chips or chocolate when you look at fat and sugar content.
+
+Maybe you need to define healthy too. You could just eat a lot of fiber and that's also healthy.
+
+What do you get in WholeFoods that is so incredibly healthy but impossible to find in Coop?",null,0,null,1434990220,null,0,false,0,csevroq,null,t3_3aputh,null,t1_csevroq,null,t1_cseuvrj,null,null,null,1437258775,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,SwissBliss,vd,Vaud/Valais,null,"It's not so much to be incredibly healthy, it's more to have new ideas for healthy snacks that aren't just apples, nuts, and cheese.
+
+I've lived in the U.S. for a couple of years and often visit and they seem to have a huge amplitude of option in terms of nutrition. It's really easy there to get anything you want. Tons of big stores, brands, advertisement, movements that focus on healthy/interesting stuff. An example that comes to mind is Jamba Juice, where you can just get in your car, walk in, get a multitude of healthy drinks, and leave. In Europe you'd have to buy each individual ingredient and make it at home. 
+
+Essentially I'm just looking for a few suggestions of fairly healthy snacks you guys enjoy. 
+",null,0,null,1434990891,null,0,false,0,csew6et,null,t3_3aputh,null,t1_csew6et,null,t1_csevroq,null,null,null,1437259045,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,Iylivarae,be,Bern,null,"- You can buy smoothies at most normal food shops, although for drinking plain water would be your best option.
+- There are lots of cut fruits and veggies (ananas, carrots, paprika...) you can buy at most food shops, usually they also come with dips of some sort
+- Plain normal fruits and veggies are also a good option (not only apples, especially now in summer)
+- Migros offers fruit bars made out of dried fruits, and I think they don't have loads of added sugar. Also check out farmer/balisto, if you take the options without chocolate/milk cream it's not that bad.
+- There are also a lot of options when it comes to nuts: Studentenfutter, wasabi coated nuts and so on
+- If you want to go for protein: yoghurt, and there's also some beef jerky stuff in most stores.
+
+In the end: if you go for finished products that you buy in store, it might be easier, but usually that comes with some additives etc. ",null,0,null,1434993146,null,0,false,0,csexl36,null,t3_3aputh,null,t1_csexl36,null,t3_3aputh,null,null,null,1437259685,null,5,false,Switzerland,t5_2qhp6,5,null
+null,false,carcharoth84,be,Bern,null,"BlueMX/BrownMX&amp;BlankCaps reporting in! ",null,0,null,1434993195,null,0,false,0,csexm5y,null,t3_3amvui,null,t1_csexm5y,null,t1_cse6h8h,null,null,null,1437259691,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,PlatformPFR,null,null,null,"Saw it over the weekend thinking this would be a ""hit"" on Reddit..",null,0,null,1434995872,null,0,false,0,csezann,null,t3_3anb4w,null,t1_csezann,null,t3_3anb4w,null,null,null,1437260856,null,0,false,Switzerland,t5_2qhp6,0,null
+null,false,furbyhater,null,null,null,"If the availability of heavily-marketed company-produced and processed ""health-food"" is the definition of a health movement for you...",null,0,null,1434998209,null,0,false,0,csf0s3a,null,t3_3aputh,null,t1_csf0s3a,null,t1_csevkhw,null,null,null,1437261948,null,17,false,Switzerland,t5_2qhp6,17,null
+null,false,furbyhater,null,null,null,"Processed foodstuffs like Balisto are usually less healthy than simple foodstuff such as an apple, carrot, banana, tomato or even a simple slice of brown bread.",null,0,null,1434998325,null,0,false,0,csf0usd,null,t3_3aputh,null,t1_csf0usd,null,t1_cseuvrj,null,null,null,1437262010,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,SwissBliss,vd,Vaud/Valais,null,For me as a consumer yes it is. If you have just a bit of logic it's incredibly easy to feed yourself well when you have lots of big brands in big specialized stores with tons of reviews.,null,0,null,1434998374,null,0,1434998656,0,csf0vws,null,t3_3aputh,null,t1_csf0vws,null,t1_csf0s3a,null,null,null,1437262023,null,-2,false,Switzerland,t5_2qhp6,-2,null
+null,false,furbyhater,null,null,null,"Here, it's incredibly simple to feed yourself even better by simply not eating any processed food.",null,0,null,1434998972,null,0,false,0,csf19x8,null,t3_3aputh,null,t1_csf19x8,null,t1_csf0vws,null,null,null,1437262333,null,10,false,Switzerland,t5_2qhp6,10,null
+null,false,furbyhater,null,null,null,"For the Romandie this is the most popular portal: http://www.jobup.ch/de/
+
+There also exist IT specific search engines.
+
+Trying to connect with Swiss HR through LinkedIn might work? (I don't know)
+",null,0,null,1434999353,null,0,false,0,csf1iyj,null,t3_3aprae,null,t1_csf1iyj,null,t3_3aprae,null,null,null,1437542761,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SwissBliss,vd,Vaud/Valais,null,"True, but it's not very fun or motivating. In the US you have entire shops and brands dedicated to health. I can't name a single one here. 
+
+Shops: Wholefoods, Walgreens, Vitamine Shoppe, Jamba Juice etc...
+
+Brands: Vitamin Water, Vita Coco, Innocent etc.
+
+I know some of these aren't healthy in some ways, but you have to recognise that us Europeans are quite behind in terms of healthy eating. They have shitty fast foods, but they compensate with quite a very large health food movement.
+",null,0,null,1434999571,null,0,false,0,csf1o2w,null,t3_3aputh,null,t1_csf1o2w,null,t1_csf19x8,null,null,null,1437262656,null,-6,false,Switzerland,t5_2qhp6,-6,null
+null,false,whitepalms85,null,null,null,"&gt; There is more to it, isn't there? Switzerland is rather successful by a lot of measures. We rate highest in many, many comparisons (education, quality of life etc.). Immigrant-wise people want to come to Switzerland rather than other countries in the neighborhood.
+
+That's the same thing the Americans said before the financial crisis. Yes, Switzerland is successful but people have become arrogant and complacent. 
+
+&gt; Specifically on the political system issue Swiss people rate relatively high when it comes to happiness with politics and their trust in politicians and the system as a whole.
+
+The system is still shit though. People think it can't go wrong.
+
+&gt; So.. the people are happy and we can see the many other results of our direct democracy.
+
+I would rather say that the country is successful despite direct democracy. If there ever were a massive crisis in Switzerland our system would collapse VERY fast. A lot of the success of Switzerland was based on the fact that mainly the FDP was in charge and political parties weren't abusing the system. Now Volksinitiativen are purely used for populism, actually they never really served a purpose anyway and we should ban them. I don't mind if people vote on laws that went at least through parliament or on local stuff that is simple to understand and doesn't have a big impact (e.g. building a new football stadium or so). But Volksinitiativen are just pure trash, they create nothing but instability and the quality is terrible.
+
+&gt; I think I agree that the people's vote is taken a bit too sacred. The majority can be wrong, yet ""Volkswille"" is shouted at anybody who is a sore loser after a vote. But that's more the narrative of the public discussion, rather than actual actions being taken.
+
+I totally agree. One of the strengths of Switzerland is/was actually political stability and moderation. E.g. I think it's very good that we have a federal council (instead of a powerful president), that all bigger parties are represented and that the council members don't have to campaign for their seats. In other countries you have majority government / collisions and campaigns and politicians waste a ton of time and money on it. And if the opposition wins then they will waste even more time on reverting thing the previous government implemented. Honestly, I actually think the people on the federal council should be banned from being members or associated with any party. I want to have a council full of very smart and very well educated people, the best of the best, not stupid politicians and I wouldn't mind to pay each of them a multimillion salary, just to get them. That money easily pays off.",null,0,null,1434999762,null,0,1434999962,0,csf1sht,null,t3_3al90t,null,t1_csf1sht,null,t1_cseokcb,null,null,null,1437262765,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SatoyS,null,null,null,"Processed food doesn't have to be bad, just make sure what's in there!",null,0,null,1434999904,null,0,false,0,csf1vr9,null,t3_3aputh,null,t1_csf1vr9,null,t1_csf19x8,null,null,null,1437262830,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,furbyhater,null,null,null,"Maybe we should be glad that we don't need to ""compensate"" with a very large health food movement. It's cheaper too.
+
+Didn't really understand the ""fun"" part. Do you mean the packaging?",null,0,null,1435000047,null,0,false,0,csf1z3p,null,t3_3aputh,null,t1_csf1z3p,null,t1_csf1o2w,null,null,null,1437262901,null,11,false,Switzerland,t5_2qhp6,11,null
+null,false,SatoyS,null,null,null,Couldn't say it any better. Have an upvote.,null,0,null,1435000059,null,0,false,0,csf1zdz,null,t3_3ana0u,null,t1_csf1zdz,null,t1_csenf8d,null,null,null,1437262911,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,LethalPuppy,sg,St. Gallen,null,Eating isn't fun if you don't have some plastic to throw away afterwards!!,null,0,null,1435000612,null,0,false,0,csf2c2i,null,t3_3aputh,null,t1_csf2c2i,null,t1_csf1z3p,null,null,null,1437263156,null,3,false,Switzerland,t5_2qhp6,3,null
+null,false,LethalPuppy,sg,St. Gallen,null,I usually just get some raspberries or blueberries.,null,0,null,1435000634,null,0,false,0,csf2cli,null,t3_3aputh,null,t1_csf2cli,null,t3_3aputh,null,null,null,1437263162,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SecretPassword,null,null,null,Which city are you in? Where do you want to live?,null,0,null,1435000696,null,0,false,0,csf2e06,null,t3_3aprae,null,t1_csf2e06,null,t3_3aprae,null,null,null,1437263179,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SecretPassword,null,null,null,"What city do you live in? Zürich? (just to have an idea, since different cities may have different stores)",null,0,null,1435000883,null,0,false,0,csf2id8,null,t3_3aputh,null,t1_csf2id8,null,t3_3aputh,null,null,null,1437263210,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,SwissBliss,vd,Vaud/Valais,null,"&gt;Maybe we should be glad that we don't need to ""compensate"" with a very large health food movement. It's cheaper too.
+
+Well we have a lot of those fast foods as well.
+
+&gt;Didn't really understand the ""fun"" part. Do you mean the packaging?
+
+As stupid as it sounds, partly yes. I'd rather go to Jamba Juice and get a cool healthy smoothie, than have to go buy a bunch of vegetables and fruits to put in my blender. 
+
+The single best thing about living in the US is the accessibility of everything. Pretty much everything else I prefer here.",null,0,null,1435000934,null,0,false,0,csf2jja,null,t3_3aputh,null,t1_csf2jja,null,t1_csf1z3p,null,null,null,1437263231,null,-1,false,Switzerland,t5_2qhp6,-1,null
+null,false,lhatchy1,ag,Aettenschwil,null,I see what you did there...,null,0,null,1435001062,null,0,false,0,csf2mjh,null,t3_3anb4w,null,t1_csf2mjh,null,t1_cseu73o,null,null,null,1437263293,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,SwissBliss,vd,Vaud/Valais,null,Between Geneva and Lausanne. Vaud,null,0,null,1435001612,null,0,false,0,csf2z6o,null,t3_3aputh,null,t1_csf2z6o,null,t1_csf2id8,null,null,null,1437263583,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,furbyhater,null,null,null,"Hey man, sorry for being aggressive, just wanted to make some statements ;) 
+
+PS: didn't downvote you (except for one post ;) )",null,0,null,1435001621,null,0,1435006846,0,csf2zdl,null,t3_3aputh,null,t1_csf2zdl,null,t1_csf2jja,null,null,null,1437263595,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,mixblast,fr,Fribourg,null,"I've had cablecom for a couple years and I work in IT. I have monitoring setup on my router (which runs pfSense btw it's great), and cablecom is definitely less reliable than swisscom (which I had before). Less 9's if you know what I mean.
+
+I'm still satisfied with their service overall, and the speed/price ratio is definitely very good, but if you're after the most reliable network in terms of availability, they definitely don't come out on top.",null,0,null,1435002701,null,0,false,0,csf3oqf,null,t3_3ajm3z,null,t1_csf3oqf,null,t1_csdfl0x,null,null,null,1437264087,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,mixblast,fr,Fribourg,null,"25CHF/mon for the landline. They can waive the fee if you take a package with them, but then you're paying more anyway.
+
+Edit: and if you're under 26 you can get a good deal on this... While it lasts!",null,0,null,1435002847,null,0,false,0,csf3s4o,null,t3_3ajm3z,null,t1_csf3s4o,null,t1_csdpcxo,null,null,null,1437264136,null,1,false,Switzerland,t5_2qhp6,1,null
+null,false,markus_b,vd,Vaud,null,"&gt; fairly healthy snacks you guys enjoy.
+
+In part I find that healthy snack and enjoyable are often mutually incompatible. Pick any of the two, but not all three.
+
+I think mostly the market in Switzerland is too small for these specialties.",null,0,null,1435002958,null,0,false,0,csf3upo,null,t3_3aputh,null,t1_csf3upo,null,t1_csew6et,null,null,null,1437264188,null,2,false,Switzerland,t5_2qhp6,2,null
+null,false,mixblast,fr,Fribourg,null,"This is the correct answer. If you want to go cheap get this one :
+
+https://www.digitec.ch/en/s1/product/logitech-wireless-keyboard-k270-usb-us-wireless-keyboard-5070158?tagIds=77-529",null,0,null,1435003066,null,0,false,0,csf3x90,null,t3_3amvui,null,t1_csf3x90,null,t1_cse3eha,null,null,null,1437264236,null,2,false,Switzerland,t5_2qhp6,2,null

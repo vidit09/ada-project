@@ -1,0 +1,99 @@
+false,Aethec,vd,Vaud,"The initiative says that we cannot transfer the property of the gold to anybody, period.",0,1415714467,null,0,false,0,clzd8kw,t3_2ln93y,t1_clzd8kw,t1_clza64l,null,1426080351,1,false,Switzerland,t5_2qhp6,1
+false,hikari-boulders,null,null,"&gt;  transfer the property 
+
+no, it says we can't sell the gold.",0,1415716305,null,0,false,0,clzdwmz,t3_2ln93y,t1_clzdwmz,t1_clzd8kw,null,1426080039,1,false,Switzerland,t5_2qhp6,1
+false,malfurionpre,null,null,"Just because it's fun, and it's on maps   
+
+It's Geneva's Lake ... (Okay It's mostly to annoy Vaud.)",0,1415717063,null,0,false,0,clze7bw,t3_2la35l,t1_clze7bw,t1_cltj0hr,null,1426079900,1,false,Switzerland,t5_2qhp6,1
+false,Aethec,vd,Vaud,"I haven't read the German text, but the French one uses the word *inaliénable*, which is not ambiguous at all: it means you can't transfer the property of it to anyone.",0,1415717302,null,0,false,0,clzear4,t3_2ln93y,t1_clzear4,t1_clzdwmz,null,1426079856,1,false,Switzerland,t5_2qhp6,1
+false,8rax,null,null,"I m also looking for nice hiking trails to do from now on to the end of winter :) ",0,1415717329,null,0,false,0,clzeb4p,t3_2lyrdl,t1_clzeb4p,t3_2lyrdl,null,1426079851,1,false,Switzerland,t5_2qhp6,1
+false,fluegu,be,Bern,"I really like the Riederalp in the winter. When you use the Gondel it takes around 1h from the most left station to the next. Without the Gondel it's around 3 hours probably.. You walk from one station to the other. It's a ""Gradwanderung"" on one side you see the Wallis and on the other side you see the Aletsch.",0,1415718928,null,0,1415719139,0,clzezpg,t3_2lyrdl,t1_clzezpg,t3_2lyrdl,null,1426079532,6,false,Switzerland,t5_2qhp6,6
+false,P1r4nha,zh,Zürich,"I don't think there is evidence of purposely slowing down certain services in Switzerland yet. We know that some ISPs in the US are doing that on occasion.
+
+We also know that for instance upc cablecom routes certain traffic in weird ways that caused for congestion problems in the past. If that was a business decision or a technical issue, I don't know.
+
+The thing is, with all these internet providers entering new business branches that have hard competition elsewhere on the internet (Swisscom TV 2.0, Horizon etc.), they only now are starting to have an incentive as ISPs to filter (and slow down or block) the content they provide according to their benefit.
+
+With their codex they say that they're not going to block any content, which is nice, but they still keep an option open to slow down any content according to any kind of rules, including business decisions. I think they don't go far enough and should vow to not discriminate against any content sources (maybe with one caveat: illegal or dangerous material).
+
+TL;DR: No, not yet, but they keep that option open to them, which I think is a mistake. Strict net neutrality is important.
+
+EDIT: I think I've found something that might violate net neutrality, but I'm not exactly sure how the deal works: 
+Orange offers exclusive deals with [Spotify](https://www.orange.ch/en/residential/explore/exclusive/spotify/) and [Zattoo](https://www.orange.ch/en/residential/explore/exclusive/zattoo/). AFAIK that means you can use these services without the data being counted towards your data cap. It's not slowing down other services, but the unlimited data they give you for one particular service gives Spotify and Zattoo an unfair advantage over their competition.",0,1415721025,null,0,1415865752,0,clzfylt,t3_2luaub,t1_clzfylt,t1_clzclgs,null,1426079080,2,false,Switzerland,t5_2qhp6,2
+false,csssss_,world,Auslandschweizer,"Thank you, I'm well aware of how this works. It's a bit more complicated than you make it out to be though.
+
+1) There's more than just Telekurs, Datatrans and Postfinance... those are just third-part payment processors, they are not network rails. The network rails would be Visa, MasterCard/Maestro, CUP, JCB, and a few others. You are free to integrate with them if you can get sponsored by an acquiring bank and then process transactions without going to a third-party payment processor. Since it's probably not worth it as a small/medium-sized business, you'll end up contracting with a third-party processor that does it for you. But you don't have to, by any means.
+
+2) This is both a technical and a contracts issue. If you implement the contact-less EMV standard, you can interface with any contact-less EMV terminal and pretend to be a payment card. The NFC stacks in these terminals don't support anything else, there's no other option! Otherwise they would never get licensed under the standard.
+
+I highly doubt Swisscom has created their own platform. If they are doing what you claim they are, the would have to a) pretend to be a debit/credit card issuer, b) have the mobile phone emulate a fake card, c) route the payment over a network rails to them, d) then re-route the transaction in their backend by routing over the ""correct"" rails for the customer. This is possible (it's how Google Wallet works) but it's extremely costly since you're essentially participating in two transactions so you definitely won't be making any money this way. ",0,1415721032,null,0,1415721299,0,clzfyqc,t3_2lvc2v,t1_clzfyqc,t1_clz8xu5,null,1426079078,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,That makes no sense whatsoever.,0,1415721771,null,0,false,0,clzgbrt,t3_2ln93y,t1_clzgbrt,t1_clza31y,null,1426078909,1,false,Switzerland,t5_2qhp6,1
+false,csssss_,world,Auslandschweizer,"Information that is stored on a physical smart card is more secure since it's embedded inside a hardware module. It's pretty much this: https://en.wikipedia.org/wiki/Hardware_security_module. In practice, Android's HCE is good enough though (and can also be backed by a physical chip depending on your phone).",0,1415721796,null,0,false,0,clzgc74,t3_2lvc2v,t1_clzgc74,t1_clz9wgf,null,1426078904,2,false,Switzerland,t5_2qhp6,2
+false,Urgullibl,null,null,"Look man, I'm not putting any more effort into my answers than you are putting into your questions. It's pretty obvious.",0,1415721809,null,0,false,0,clzgcg7,t3_2ln93y,t1_clzgcg7,t1_clza20m,null,1426078901,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,"Of course, it's just that they would be wrong (assuming we can agree a recession is bad).",0,1415721840,null,0,false,0,clzgcz9,t3_2ln93y,t1_clzgcz9,t1_clza1r7,null,1426078894,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,"That's not how it works. The people manufacturing these goods will still get the same amount of Franks in their salaries, and that's where the added value comes from. Frank prices within Switzerland won't go down either. Even though the € sank from 1.50 to 1.20 Franks over the course of the recession (at which point the SNB was forced to intervene), neither the price of labor nor the price of goods in Franks decreased domestically.
+
+You have no horse in this race. That's why you don't care about causing a recession in some place you don't know about as long as your economic ideology is catered to. We're talking about a decision that will affect the common good of real people here.",0,1415722165,null,0,false,0,clzgiqc,t3_2ln93y,t1_clzgiqc,t1_clz6fs8,null,1426078819,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,"Switzerland has always had and will always have an export surplus. That's what happens if you have no natural resources -- you live from importing goods of lesser value, adding value to them and exporting the more expensive goods, which automatically results in a surplus of exports.
+
+A Switzerland that doesn't export more value than it imports is a Switzerland in recession.",0,1415722362,null,0,false,0,clzgmc9,t3_2ln93y,t1_clzgmc9,t1_clz1rfx,null,1426078772,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,I guess that's why the SVP/UDC opposes it.,0,1415722667,null,0,false,0,clzgrr2,t3_2ln93y,t1_clzgrr2,t1_clza4n1,null,1426078702,1,false,Switzerland,t5_2qhp6,1
+false,billcube,ge,Genève,"I think's it's exactly what you described in your last paragraph. Tapit stores credit cards / fidelity cards / access cards (http://www.tapit.ch/en/cards/access-cards ). They authenticate a user on a terminal via the app + the proprietary ""NFC SIM"" where the auth keys are stored for a given customer. They then inform the terminal on the result of the transaction. It does not mimick the credit card, it's just another type of card accepted by the terminal.
+
+
+On the terminal owner's point of view, they juste route the Tapit ""cards"" to Swisscom and make sure their terminals can interpret the answer. Swisscom then either processes or have the transaction processed.
+
+
+I'm guessing money is made because the contract between Swisscom and the banks has a lower transaction fee than what the merchant could obtain alone with a bank or a payment gateway.
+
+
+Swisscom is not alone in this gold rush. See what Migros is doing with the Cumulus card that you can top up (with a credit card !). They are  lowering the fees they pay by having customers make bigger and less frequent transactions from their credit cards.
+
+",0,1415723446,null,0,false,0,clzh66t,t3_2lvc2v,t1_clzh66t,t1_clzfyqc,null,1426078515,1,false,Switzerland,t5_2qhp6,1
+false,csssss_,world,Auslandschweizer,"That's possible, but again I find it doubtful. I see no evidence that Swisscom has implemented their own network, my best guess is that they're piggy-backing off of someone else's network (at least for now) in the hopes to gain enough market share so that it becomes feasible to launch their own later on. Do you have any reason to believe Swisscom has implemented their own network, vs. just routing over e.g. MasterCard?",0,1415724739,null,0,false,0,clzhut9,t3_2lvc2v,t1_clzhut9,t1_clzh66t,null,1426078196,1,false,Switzerland,t5_2qhp6,1
+false,csssss_,world,Auslandschweizer,"To add to this, the tapit.ch website actually has MasterCard's PayPass logo on it: http://tapit.ch/de/wo-nutzen
+
+They also claim their solution works internationally, which is even more evidence that they are using an existing network: http://www.tapit.ch/de/support/weitere-fragen/kann-tapit-auch-im-ausland-benutzt-werden",0,1415724831,null,0,1415725075,0,clzhwlp,t3_2lvc2v,t1_clzhwlp,t1_clzhut9,null,1426078173,1,false,Switzerland,t5_2qhp6,1
+false,billcube,ge,Genève,"What do you mean by network ? They have a few cards they accept ( http://tapit.ch/en/cards/credit-cards ), I guess they have a direct agreement with these banks. It's a start, for sure. ",0,1415724930,null,0,false,0,clzhyj9,t3_2lvc2v,t1_clzhyj9,t1_clzhut9,null,1426078148,1,false,Switzerland,t5_2qhp6,1
+false,xcsler,null,null,"OK. So when your exporters sell products to foreigners they receive foreign currency in return. What do they do with that currency? Ultimately, that foreign currency is used to purchase imports.
+
+If your claim that Switzerland always has an export surplus it means that the Swiss are working hard to produce products for other nations in exchange for pieces of paper that they will keep in a vault and never use. This situation would not contribute positively to the standard of living of the Swiss.
+
+As explained in the link I sent you, the goal of exporting is to import products that your country is less efficient at producing in order to improve your standard of living. Exports and accumulation of foreign currency is not the ends, it is the means to the end of acquiring real tangible goods (ie. wealth) from other nations.",0,1415725418,null,0,false,0,clzi803,t3_2ln93y,t1_clzi803,t1_clzgmc9,null,1426078025,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,"Yes, imports will get cheaper. That's not the point. The main cost of businesses active in the Swiss economy is labor and infrastructure, and those need to be paid for in Franks -- and in order to do that, they will have to charge their customers more in their respective currencies. You can't have wealth if people are unable to get jobs in your economy.
+
+Again, we're a small export-based economy trading with markets whose currencies are based on considerably worse fiscal policies than ours. If you can get the US to get back on the gold standard or at least improve its fiscal policy, we can talk. Without that (or something analogous in the Eurozone), your proposals are a recipe for economic suicide, which is hardly worth it just to prove a point.",0,1415725664,null,0,1415726074,0,clzicok,t3_2ln93y,t1_clzicok,t1_clzi803,null,1426077965,1,false,Switzerland,t5_2qhp6,1
+false,[deleted],null,null,[deleted],0,1415736702,null,0,false,0,clzoi2z,t3_2lzku7,t1_clzoi2z,t3_2lzku7,null,1426075024,0,false,Switzerland,t5_2qhp6,0
+false,[deleted],null,null,[deleted],0,1415738690,null,0,1422037446,0,clzpfwz,t3_2lzku7,t1_clzpfwz,t3_2lzku7,null,1426074586,5,false,Switzerland,t5_2qhp6,5
+false,hikari-boulders,null,null,"The SVP is generally againt the Euro, but officially also againt the gold initiative (with a ratio of 35:34).",0,1415739329,null,0,false,0,clzpsng,t3_2ln93y,t1_clzpsng,t1_clzgrr2,null,1426074421,1,false,Switzerland,t5_2qhp6,1
+false,hikari-boulders,null,null,"Let me guess, and the anti-gold people who believe in a recession would be right...?",0,1415739375,null,0,false,0,clzptke,t3_2ln93y,t1_clzptke,t1_clzgcz9,null,1426074409,1,false,Switzerland,t5_2qhp6,1
+false,[deleted],null,null,[deleted],0,1415739924,null,0,1422037453,0,clzq4ml,t3_2lzku7,t1_clzq4ml,t1_clzoi2z,null,1426074265,3,false,Switzerland,t5_2qhp6,3
+false,luhin,null,null,"Great, now I just have to turn 18 ",0,1415740419,null,0,false,0,clzqekf,t3_2lzku7,t1_clzqekf,t1_clzq4ml,null,1426074137,2,false,Switzerland,t5_2qhp6,2
+false,Urgullibl,null,null,Yes. Does that answer your question?,0,1415740927,null,0,false,0,clzqp4e,t3_2ln93y,t1_clzqp4e,t1_clzpsng,null,1426074000,1,false,Switzerland,t5_2qhp6,1
+false,Urgullibl,null,null,"Not that we would enjoy it, but yes.",0,1415740947,null,0,false,0,clzqpks,t3_2ln93y,t1_clzqpks,t1_clzptke,null,1426073994,1,false,Switzerland,t5_2qhp6,1
+false,SoulLink,null,null,"Also the major part of the worlds population increase currently does not come from more kids. Almost all parts of the worlds are reducing the number of kids, the driving factor is increasing age. 
+
+Which means a lot more people survive childhood and birthrate needs some time to adapt. But the Swiss population will grow to about 12 million and the worlds population will grow to about 9 billion.
+
+Then the lower birthrates will show their effect. ",0,1415741266,null,0,false,0,clzqw7d,t3_2ls34i,t1_clzqw7d,t1_clxtb4s,null,1426073908,1,false,Switzerland,t5_2qhp6,1
+false,[deleted],null,null,[deleted],0,1415741450,null,0,1422037461,0,clzqzwp,t3_2lzku7,t1_clzqzwp,t1_clzqekf,null,1426073860,6,false,Switzerland,t5_2qhp6,6
+false,hikari-boulders,null,null,Of course they are right...,0,1415742027,null,0,false,0,clzrbg6,t3_2ln93y,t1_clzrbg6,t1_clzqpks,null,1426073710,1,false,Switzerland,t5_2qhp6,1
+false,luhin,null,null,"I already have done that in the past. I agree, i'ts a great tool! But if i remember correctly, questions about IT were not much discussed.",0,1415743093,null,0,false,0,clzrx33,t3_2lzku7,t1_clzrx33,t1_clzqzwp,null,1426073430,3,false,Switzerland,t5_2qhp6,3
+false,DavidRappl,null,null,Thanks a lot for your answer :-) I think I'll need to take another and closer look at the whole situation to understand it better.,0,1415744153,null,0,false,0,clzsicz,t3_2lvc2v,t1_clzsicz,t1_clzgc74,null,1426073083,2,false,Switzerland,t5_2qhp6,2
+false,csssss_,world,Auslandschweizer,"A network is something that routes credit card transactions from the acquiring (merchant) side of the transaction to the issuing (bank/customer) side. If you have a Visa-branded card, all transactions for that card are routed over Visa's network. If you have a MasterCard-branded card, all transactions are routed over MasterCard's network. The network can be identified by the BIN on the card (the first six digits of the card number). Different networks have different prefixes, e.g. everything that starts with a ""4"" is reserved for Visa. Everything that starts with ""5"" is MasterCard. American Express cards start with ""3"". Discover has ""6"", but has it shared with China Union Pay. And so on. 
+
+When a card transaction is processed, the payments processor will look at the card number to extract the BIN. Based on the BIN, the network for routing will be determined. Then, the processor sends that transaction upstream to the correct network. The network (e.g. Visa) will then identify the proper issuing bank based on the card number. The transaction then gets forwarded to your issuing bank, e.g. CreditSuisse (or where your account is). Your bank decides if the transaction is OK or not (by checking funds if it's a debit account, validating the PIN, whatever). The response is then returned to the network, which then returns it to the processor. The processor returns the status of the transaction to the terminal. 
+
+It is important to note that in general, the processor does not know which bank issued a card. It just sends it to the appropriate upstream network, the processor itself does _not_ talk to your bank. You can think of the network as a ""router"" for payments, it determines what goes where. 
+
+Judging from their website, it looks like Tapit uses the MasterCard network to route transactions. This would mean that the card it emulates to the NFC terminal pretends to be from MasterCard. This is exactly what Google Wallet does (even if you add a Visa card, the phone pretends to be a MasterCard). Tapit would then act as the issuing ""bank"" for the transaction, and then subsequently run a separate transaction using the card you stored with them when a transaction is made on the proxy card.
+
+This allows them to be accepted everywhere that MasterCard PayPass NFC cards are accepted. I'm led to believe this is the case since their homepage shows the PayPass logo, and they claim they have acceptance internationally at locations displaying the logo. 
+
+Edit: It's also possible they do it separately for both MasterCard/Visa. But either way, it has to pretend to be some pre-existing card brand or it won't work. Or since they just have a subset of cards that are supported they could also implement EMVCo's tokenization standard and do something similar to what Apple Pay is doing... either way it looks like a crappy solution.
+
+Sidenote: If you want to have fun looking up BIN numbers check out: https://www.bindb.com/bin-database.html",0,1415745018,null,0,1415745751,0,clzsz0h,t3_2lvc2v,t1_clzsz0h,t1_clzhyj9,null,1426072868,1,false,Switzerland,t5_2qhp6,1
+false,csssss_,world,Auslandschweizer,"No worries. I've work in this business and I still don't understand every aspect of it... it's a messy, entangled mesh of various standards and competing interests. ",0,1415745638,null,0,false,0,clztarq,t3_2lvc2v,t1_clztarq,t1_clzsicz,null,1426072715,2,false,Switzerland,t5_2qhp6,2
+false,SatoyS,null,null,"I sounds as if that should be on the ""Piratenpartei"" top priority list...",0,1415750228,null,0,false,0,clzvlsu,t3_2lzku7,t1_clzvlsu,t1_clzoi2z,null,1426071639,5,false,Switzerland,t5_2qhp6,5
+false,Urgullibl,null,null,"If you like going snowshoeing, check out Gurnigel.",0,1415756355,null,0,false,0,clzymck,t3_2lyrdl,t1_clzymck,t3_2lyrdl,null,1426070232,2,false,Switzerland,t5_2qhp6,2
+false,Urgullibl,null,null,How the fuck do they still tolerate those fireworks in stadiums? Guess it'll take a major fire and people dying for something to happen here.,0,1415758654,null,0,false,0,clzzrpk,t3_2lw70q,t1_clzzrpk,t3_2lw70q,null,1426069696,-1,false,Switzerland,t5_2qhp6,-1
