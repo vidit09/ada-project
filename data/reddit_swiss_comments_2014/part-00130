@@ -1,3 +1,4 @@
+archived,author,author_flair_css_class,author_flair_text,body,controversiality,created_utc,distinguished,downs,edited,gilded,id,link_id,name,parent_id,removal_reason,retrieved_on,score,score_hidden,subreddit,subreddit_id,ups
 true,Wodashit,cern,ATLAS,"Mhhh, so if I understood correctly what you said you are able to run your script but don't know how to add the correct information in the header to have access to the TGraph and TCanvas classes?
 
 If this is the case you just have to put
