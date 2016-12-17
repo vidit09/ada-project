@@ -1,0 +1,178 @@
+archived,author,author_flair_css_class,author_flair_text,body,controversiality,created_utc,distinguished,downs,edited,gilded,id,link_id,name,parent_id,removal_reason,retrieved_on,score,score_hidden,subreddit,subreddit_id,ups
+true,DeepBlueNemesis,bs,Beide Basel,"We've had a thread about Buepf [a while ago](http://www.reddit.com/r/Switzerland/comments/1f4tkz/buepfch_nein_zum_%C3%BCberwachungsstaat_jetzt_petition/), it has nothing to do with creating another institution.
+
+It is possible (though far from certain) that our government is still keeping a hidden database based on some criteria. I am however 100% certain that it's nowhere close to the size of the NSA scandal in the US. The ""We might have spies""-mentality that caused the Fichenscandal is long gone, it's more likely that they're monitoring people who come in regular contact with shady foreigners (think money laundering). I highly doubt that any sort of large (or even medium) scale monitoring program would have survived the last decade considering all the people who were head of the EJPD and how different their moral compass was form one another (Metzler, Blocher, Widmer-Schlumpf, Sommaruga).",0,1370854301,null,0,false,0,cafseou,t3_1g0j5j,t1_cafseou,t1_cafr08i,null,1430863683,2,false,Switzerland,t5_2qhp6,2
+true,rockenrohl,null,null,"Sorry, but I think this is simply not true - it has very much also to do with creating a new institution (the ""Dienst""). See article 2.1-3 from [here](http://www.admin.ch/opc/de/classified-compilation/20002162/index.html):
+
+Art. 2 Organisation
+
+1 Der Bund betreibt einen Dienst für die Überwachung des Post- und Fernmeldeverkehrs (Dienst).
+
+2 Der Dienst erfüllt seine Aufgaben selbstständig. Er ist weisungsungebunden und dem zuständigen Departement nur administrativ unterstellt.
+
+3 Der Dienst arbeitet im Rahmen seiner Aufgaben mit den im Post- und Fernmeldewesen zuständigen Konzessions- und Aufsichtsbehörden zusammen.
+
+IMO, as far as I can see, this ""Dienst"" is the really new thing about the new Büpf. Everything else (again, as far as I can see, I'm no lawyer but interested in these developments) is already being done.
+
+EDIT:[ Here's](http://www.ejpd.admin.ch/content/ejpd/de/home/themen/sicherheit/ueberwachung_des_post-/revision_buepf_undvuepf.html) an official text on the changes. And they have made an extensive [FAQ](http://www.ejpd.admin.ch/content/ejpd/de/home/themen/sicherheit/ueberwachung_des_post-/faq_vuepf.html) - it answers the most basic questions on the new BÜPF and VÜPF.",0,1370856683,null,0,1370861886,0,cafsp5d,t3_1g0j5j,t1_cafsp5d,t1_cafseou,null,1430863545,1,false,Switzerland,t5_2qhp6,1
+true,nezzey,null,null,"It's illegal for the NDB to gather Data about Swiss citizen, unless you have direct ties to terrorist groups (IRA, Al-Qaida, Red Khmer etc.), i.e. during investigations on a terrorist group it becomes apparent that a swiss citizen is involved, this information can and will be saved.
+
+There is an independent comitee that makes random searches to ensure the NDB doesn't break the law.
+
+Now the police can do investigations on certain people but they can only with a warrant so there is that. 
+",0,1370862426,null,0,false,0,caftdoq,t3_1g0j5j,t1_caftdoq,t3_1g0j5j,null,1430863152,1,false,Switzerland,t5_2qhp6,1
+true,P1r4nha,zh,Zürich,"It's certainly not legal in Switzerland on a comprehensive scale like the NSA has gathered data. Our privacy is quite well protected by the law and there are many examples of its enforcement.
+
+The US has already not very strong privacy laws and several acts since 9/11 have further increased the US government's legal instruments to gather data on citizens that haven't done anything wrong (yet).
+
+What should be shocking is that what the NSA is doing has a strong legal basis, while similar things in other countries, like Switzerland, would be very illegal.
+
+Sure, the reality might always be a bit different.",0,1370863097,null,0,false,0,caftgyu,t3_1g0j5j,t1_caftgyu,t3_1g0j5j,null,1430863108,2,false,Switzerland,t5_2qhp6,2
+true,penguinsontv,zh,Zürich,"There has been the ""Fichen-Affäre"" in the 80s. It was the same, just with personal observation than online observation.",0,1370864941,null,0,false,0,caftqgd,t3_1g0j5j,t1_caftqgd,t3_1g0j5j,null,1430862985,2,false,Switzerland,t5_2qhp6,2
+true,DeepBlueNemesis,bs,Beide Basel,"That institution already exists. As I said in the other thread, all your written correspondence is already subject to this law - Buepf is simply updating it to the internet age. ",0,1370868416,null,0,false,0,cafubul,t3_1g0j5j,t1_cafubul,t1_cafsp5d,null,1430862704,3,false,Switzerland,t5_2qhp6,3
+true,rockenrohl,null,null,"In that case I'm sorry I got this wrong. I still think it's not a good idea that ISPs now need to transfer all this data to the ""Dienst"" (isn't that a new thing at least?). That's a hell of a database, you 'll have the communication of the whole country stored in one single place. Why is it not sufficient that the data is stored decentrally (as before at the individual ISPs) and just handed over by request? Of course, for them, it's probably more convenient (i.e.: faster), but is it really a good idea?",0,1370868979,null,0,false,0,cafufta,t3_1g0j5j,t1_cafufta,t1_cafubul,null,1430862653,1,false,Switzerland,t5_2qhp6,1
+true,DeepBlueNemesis,bs,Beide Basel,"They are only handing over the data if ordered by a court, and that courtorder is only given when you are already subject to a trial (which means you were already charged with something). The EJPD website states very clearly states that your data will NOT be inspected/forwarded as a preventive measure, it's only going to be used when you have already fucked up and they're just looking for more evidence. 
+
+I don't know how and where this data will be stored, I assume they're following the same guidelines as other evidence / court archieves, whatever those may be. ",0,1370870650,null,0,false,0,cafusfp,t3_1g0j5j,t1_cafusfp,t1_cafufta,null,1430862487,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,"That's not going to happen. Swiss girls are rather reserved (compared to german girls, for example).",0,1370871641,null,0,false,0,cafv0kt,t3_1ff2dy,t1_cafv0kt,t1_ca9po4y,null,1430862381,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,You should think about changing your name. Way too many pets are already named Toby.,0,1370871718,null,0,false,0,cafv18v,t3_1fvy5f,t1_cafv18v,t3_1fvy5f,null,1430862372,1,false,Switzerland,t5_2qhp6,1
+true,rockenrohl,null,null,"Yes, I know they say that (and this being Switzerland, one tends to believe them). However, from a security standpoint any new database is an additional risk (cybersecurity-wise). And a central database in Bern makes me (not a conspiracy-nut at all, just common sense) a bit more nervous than decentrally stored information at the ISPs.",0,1370871816,null,0,false,0,cafv23c,t3_1g0j5j,t1_cafv23c,t1_cafusfp,null,1430862361,5,false,Switzerland,t5_2qhp6,5
+true,WaterClosetMaster,null,null,"Just check on the internet or ask a real absinthe amateur, he'll tell you NOT TO BURN THE FU**** SUGAR
+",0,1370872463,null,0,false,0,cafv7w2,t3_1fqbk2,t1_cafv7w2,t1_cadcdx2,null,1430862286,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,[deleted],0,1370873203,null,0,false,0,cafveo4,t3_1g0j5j,t1_cafveo4,t3_1g0j5j,null,1430862196,2,false,Switzerland,t5_2qhp6,2
+true,msimsi,null,null,There is two way to do it in Neuchâtel dude,0,1370873941,null,0,false,0,cafvlnj,t3_1fqbk2,t1_cafvlnj,t1_cafv7w2,null,1430862106,1,false,Switzerland,t5_2qhp6,1
+true,seitgeist,lu,Luzern,Nope. OASG for me.,0,1370878557,null,0,false,0,cafx1ro,t3_1g1nj2,t1_cafx1ro,t3_1g1nj2,null,1430861423,7,false,Switzerland,t5_2qhp6,7
+true,SwissStriker,fr,Fribourg,I'd like to go but it's sold out :/,0,1370878701,null,0,false,0,cafx3kp,t3_1g1nj2,t1_cafx3kp,t1_cafx1ro,null,1430861400,3,false,Switzerland,t5_2qhp6,3
+true,seitgeist,lu,Luzern,I got my tickets in february! Thank god my friends did the same.,0,1370878857,null,0,false,0,cafx5mv,t3_1g1nj2,t1_cafx5mv,t1_cafx3kp,null,1430861374,2,false,Switzerland,t5_2qhp6,2
+true,buyacasha,zh,Zürich,"This is [Hotel Edelweiss in Muerren](http://www.edelweiss-muerren.ch/restaurant/gartenterrasse.html).
+
+Also, there are many beautiful places and cute little old towns in Switzerland and each person you ask will tell you to go to a different place. Me living in [Lucerne](https://en.wikipedia.org/wiki/Lucerne), I'll propose visiting Lucerne and enjoying the view from mount [Pilatus](http://en.wikipedia.org/wiki/Mount_Pilatus). ;)",0,1370881979,null,0,1370882296,0,cafyain,t3_1g1tn5,t1_cafyain,t3_1g1tn5,null,1430860844,8,false,Switzerland,t5_2qhp6,8
+true,rolandal,null,null,Thanks! I'll check out your suggestions. I've heard Lucerne is a nice place to see!,0,1370883232,null,0,false,0,cafyr11,t3_1g1tn5,t1_cafyr11,t1_cafyain,null,1430860621,2,false,Switzerland,t5_2qhp6,2
+true,magicwoods,null,null,"you are right. I'll propose visiting the alpstein area and the walensee :
+
+[alpstein](http://wallpaperstock.net/alpstein_wallpapers_22928_1920x1200_1.html)
+[alpstein](http://www.kalenderbild.ch/4images/data/media/186/Schweiz_Appenzell_Alpstein_Aescher_Wildkirchli_22497_fc.jpg)
+[churfirsten](http://www.klavier-noten.com/liszt/walensee-churfirsten-ganz-gross.jpg)",0,1370883552,null,0,false,0,cafyv73,t3_1g1tn5,t1_cafyv73,t1_cafyain,null,1430860566,3,false,Switzerland,t5_2qhp6,3
+true,AsianSteleotype,be,Bern,"And if you want an incredible photo, walk 1 minute south to this [patch of grass](https://maps.google.ch/maps?saddr=46.561324,7.896851&amp;daddr=Im+ussren+Dorf+1062-1064,+3825+Lauterbrunnen&amp;hl=en&amp;sll=46.560605,7.896122&amp;sspn=0.00644,0.016512&amp;geocode=FSx4xgIdE394AA%3BFcJ1xgIdmnt4ACmjdVUucqCPRzEWLQmUAgRw7w&amp;t=h&amp;dirflg=w&amp;mra=ltm&amp;z=19). There's a huge tree stump and you can get a nice view of the valley.",0,1370887309,null,0,false,0,cag09ku,t3_1g1tn5,t1_cag09ku,t1_cafyr11,null,1430859907,2,false,Switzerland,t5_2qhp6,2
+true,[deleted],null,null,[deleted],0,1370888213,null,0,false,0,cag0mho,t3_1g0j5j,t1_cag0mho,t1_cafveo4,null,1430859667,3,false,Switzerland,t5_2qhp6,3
+true,[deleted],null,null,[deleted],0,1370891487,null,0,false,0,cag1xmh,t3_1g0j5j,t1_cag1xmh,t1_cag0mho,null,1430859049,2,false,Switzerland,t5_2qhp6,2
+true,god_of_tits_an_wine,null,null,Tuna everyday!,0,1370892053,null,0,false,0,cag25dd,t3_1g26qf,t1_cag25dd,t3_1g26qf,null,1430858948,6,false,Switzerland,t5_2qhp6,6
+true,Sh4ker,sg,St. Gallen,so how do you?,0,1370892373,null,0,false,0,cag29sr,t3_1g26qf,t1_cag29sr,t3_1g26qf,null,1430858889,5,false,Switzerland,t5_2qhp6,5
+true,thephaw,world,Canada,"Wow, you must have really cheap accommodation. ",0,1370892677,null,0,false,0,cag2e5g,t3_1g26qf,t1_cag2e5g,t3_1g26qf,null,1430858832,2,false,Switzerland,t5_2qhp6,2
+true,smalrebelion,bs,Basel-Stadt,I found a place that sells 5 kg bags of onions or potatoes for 3 chf so i pretty much only eat that. That and my housing is &lt;400chf a month.,0,1370893611,null,0,false,0,cag2r65,t3_1g26qf,t1_cag2r65,t1_cag29sr,null,1430858661,10,false,Switzerland,t5_2qhp6,10
+true,smalrebelion,bs,Basel-Stadt,yep,0,1370893618,null,0,false,0,cag2r98,t3_1g26qf,t1_cag2r98,t1_cag2e5g,null,1430858661,1,false,Switzerland,t5_2qhp6,1
+true,lomochauhai,null,null,get a life,0,1370893758,null,0,false,0,cag2t7j,t3_1fpqps,t1_cag2t7j,t1_cacur78,null,1430858635,0,false,Switzerland,t5_2qhp6,0
+true,charmander_,null,null,Me!,0,1370895919,null,0,false,0,cag3nkz,t3_1g1nj2,t1_cag3nkz,t3_1g1nj2,null,1430858238,2,false,Switzerland,t5_2qhp6,2
+true,mikkelhoegh,zg,Zug,"Wow, that sounds pretty rough. Why so little? Are you a student?",0,1370896362,null,0,false,0,cag3tsl,t3_1g26qf,t1_cag3tsl,t3_1g26qf,null,1430858157,1,false,Switzerland,t5_2qhp6,1
+true,buyacasha,zh,Zürich,"So I guess you have a Swiss passport? Is that correct?
+
+&gt; Is a CS degree generally a prerequisite for those jobs? 
+
+Most of the jobs do require some form of IT degree (Depending on the job, either an apprenticeship diploma (Switzerland has a dual education system), a degree from a university of applied science or a degree from a university. That being said, there definitely **are** job listings that require a degree or a flair for IT. Some job listings also state something in the form of ""degree or X years or experience"". 
+
+&gt; And would it be feasible to find a swiss employer that would sponser me to get the required credentials while I work?
+
+Yes and no. Going to University might not be feasible because of time issues. Universities of applied sciences however allow you to study part time while working 80% or so. Now I really don't know the specifics considering your unique situation, but usually the government pays for university costs and you only have to pay a symbolic fee of a 1000 SFr.- or so per semester. So you don't actually need the company to sponsor you, you just need to get a job that allows you to work 80%.
+
+All in all, chances are damn low that you'll get a job at a huge international company without a degree, but I guess it should be very possible to get one at a KMU (Small to medium sized company) considering that IT people are in dire need.",0,1370896648,null,0,false,0,cag3xur,t3_1g2fh2,t1_cag3xur,t3_1g2fh2,null,1430858104,7,false,Switzerland,t5_2qhp6,7
+true,futurespice,null,null,I'm not at all convinced that this will do your physical health much good,0,1370897011,null,0,false,0,cag4315,t3_1g26qf,t1_cag4315,t1_cag2r65,null,1430858035,2,false,Switzerland,t5_2qhp6,2
+true,smalrebelion,bs,Basel-Stadt,Yeah I'm a masters student and I don't speak german so I can't find any part time jobs.,0,1370897150,null,0,false,0,cag44zi,t3_1g26qf,t1_cag44zi,t1_cag3tsl,null,1430858010,3,false,Switzerland,t5_2qhp6,3
+true,smalrebelion,bs,Basel-Stadt,I also get to eat free fruit and meat/cheese things at these seminars where I study.,0,1370897213,null,0,false,0,cag45v5,t3_1g26qf,t1_cag45v5,t1_cag4315,null,1430857998,7,false,Switzerland,t5_2qhp6,7
+true,[deleted],null,null,"What about the Krankenkasse which is about 300 CHF a month, plus Billag, phone bills, Internet and all the stuff that you need to live?
+",0,1370898900,null,0,false,0,cag4u5c,t3_1g26qf,t1_cag4u5c,t1_cag2r65,null,1430857680,4,false,Switzerland,t5_2qhp6,4
+true,Dude_from_Europe,null,null,"Just to build on this, if you do not require a visa to be here (aka, you have the Swiss passport) you can make a decent living from freelancing.",0,1370899006,null,0,false,0,cag4vp0,t3_1g2fh2,t1_cag4vp0,t1_cag3xur,null,1430857660,1,false,Switzerland,t5_2qhp6,1
+true,smalrebelion,bs,Basel-Stadt,"i have a prepaid phone so i average about 5 chf a month in phone bills. Internet, bills, electricity are included in the &lt;400 housing. Health insurance is ~800/year. Tuition is ~1,200/year. I pirate all my text books. For entertainment I kinda just wander/people watch which is free.",0,1370899620,null,0,false,0,cag54ii,t3_1g26qf,t1_cag54ii,t1_cag4u5c,null,1430857545,8,false,Switzerland,t5_2qhp6,8
+true,korky1318,vs,Valais,"missing the greenfield this year cuz I'm abroad, snap! we could all meet there next year ;)",0,1370899905,null,0,false,0,cag58lx,t3_1g00ie,t1_cag58lx,t1_cafrj2g,null,1430857491,1,false,Switzerland,t5_2qhp6,1
+true,toupeira,sg,St. Gallen,"I can't believe it's been [only 2 months](http://www.reddit.com/r/Switzerland/comments/1azeea/proposal_rename_this_subreddit_redduit_in_header/), it already feels like that thing has been there forever :)",0,1370900001,null,0,false,0,cag59yl,t3_1g2lrj,t1_cag59yl,t3_1g2lrj,null,1430857474,10,false,Switzerland,t5_2qhp6,10
+true,hobo_mark,null,null,You are a hero! By the way would it be cheaper/practical to move just across the border? I ask because that's what everybody in Geneva does.,0,1370900013,null,0,false,0,cag5a3g,t3_1g26qf,t1_cag5a3g,t3_1g26qf,null,1430857472,2,false,Switzerland,t5_2qhp6,2
+true,korky1318,vs,Valais,it's sold out? really? that's the first time. been going there since 2009 and always got my tickets like 2 weeks before.,0,1370900081,null,0,false,0,cag5b18,t3_1g1nj2,t1_cag5b18,t1_cafx3kp,null,1430857460,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,[deleted],0,1370900228,null,0,false,0,cag5d5g,t3_1g26qf,t1_cag5d5g,t3_1g26qf,null,1430857432,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,[deleted],0,1370901909,null,0,false,0,cag60uz,t3_1g0j5j,t1_cag60uz,t1_cag1xmh,null,1430857121,0,false,Switzerland,t5_2qhp6,0
+true,hubraum,null,null,Where do you get health insurance for 800?,0,1370902062,null,0,false,0,cag62w2,t3_1g26qf,t1_cag62w2,t1_cag54ii,null,1430857095,2,false,Switzerland,t5_2qhp6,2
+true,hubraum,null,null,/r/Frugal :-),0,1370902101,null,0,false,0,cag63es,t3_1g26qf,t1_cag63es,t1_cag45v5,null,1430857088,6,false,Switzerland,t5_2qhp6,6
+true,lorbes,null,null,"Thanks for both of these responses. I do indeed have a swiss passport. And I don't have any desire working for a large international company anyway. 
+
+Freelancing is something that is actually very appealing to me, but I wasn't sure how feasible it was to make enough to live on. When you say ""decent,"" what range could I expect? I can crank out web and mobile apps pretty quickly.",0,1370902755,null,0,false,0,cag6c1u,t3_1g2fh2,t1_cag6c1u,t1_cag4vp0,null,1430856975,1,false,Switzerland,t5_2qhp6,1
+true,hubraum,null,null,"&gt; I am currious how difficult it would be to find work given that I am also thinking about switching careers.
+What I am looking for is something in an IT related field. I've been coding since I was 10, and have administrated my own *nix servers for few years. 
+
+What CAN you do? What technical skills do you bring with you?
+
+&gt; But unfortunately my university degree is not in a field that is directly related IT, so I am trying to figure out if there is any way to do this that doesn't require me to go back to school for years before I can get a job. 
+
+Having an interest in IT and having know how in a different field is good - you could work for a consulting company (PwC, Deloitte, .. you name it)
+
+&gt; Is a CS degree generally a prerequisite for those jobs? 
+
+No. The HR drones put all kinds of stuff there that would be an ideal candidate which only exists in HR-fairy land. I've applied and got a job that usually takes 5 different skillsets and twice the salary - and didn't actually do half of what was in the job description. Anything that isn't an absolute must - don't worry about it. Chances are that they have trouble finding someone.
+
+""Needs a degree in IT or similar experience"" is often used. It just means: ""Can do IT stuff, the guys interviewing you will figure that out"" ([see here](https://www.google.com/about/jobs/search/#!t=jo&amp;jid=1565001&amp;))
+
+(I disagree with /u/byacasha here - but only regarding consulting companies. I've dealt with some of those large consulting companies - they don't care about your degree. They interview you, they put you in boot camp for a few weeks, they look at your performance there and then you're either good to go or good to go away). Large banks probably won't interview you - but their suppliers might (usually a few small companies).",0,1370902914,null,0,1370903118,0,cag6e6k,t3_1g2fh2,t1_cag6e6k,t3_1g2fh2,null,1430856947,3,false,Switzerland,t5_2qhp6,3
+true,Zombie46,zh,Zürich,I'm gonna be there! Taking my shisha with me but intend to just smoke tobacco ;),0,1370902915,null,0,false,0,cag6e6t,t3_1g1nj2,t1_cag6e6t,t3_1g1nj2,null,1430856947,1,false,Switzerland,t5_2qhp6,1
+true,shitbread,so,Solothurn,"I wouldn't worry too much about degrees. If you have quite a lot of experience then you can easily get a job. That may only apply to IT though, because there is a lack of skilled people in this field.",0,1370902952,null,0,false,0,cag6enw,t3_1g2fh2,t1_cag6enw,t1_cag3xur,null,1430856941,1,false,Switzerland,t5_2qhp6,1
+true,chromopila,zh,Zürich,I'll make a wild guess and say that prämienverbilligung is the road to success here. I pay even less.,0,1370903357,null,0,false,0,cag6k1s,t3_1g26qf,t1_cag6k1s,t1_cag62w2,null,1430856870,6,false,Switzerland,t5_2qhp6,6
+true,lorbes,null,null,"First off, thanks for the feedback!
+
+&gt; What CAN you do? What technical skills do you bring with you?
+
+I am proficient in: HTML, CSS, JS, LAMP Stack (configuration and coding for it), Shell Scripting (bash and python), Java (mostly for Tomcat servers), objective-c (iOS &amp; mac), and I am in the process of getting my feet wet with node.js. Aside from that I have a strong design background, and know Photoshop &amp; Illustrator inside out, and I've done a fair amount of video editing. It's a bit all over the place, I know :)
+
+Aside form the hands elements I also have experience developing projects and managing teams.",0,1370904503,null,0,false,0,cag6ysr,t3_1g2fh2,t1_cag6ysr,t1_cag6e6k,null,1430856677,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,[deleted],0,1370904583,null,0,false,0,cag6zwe,t3_1g26qf,t1_cag6zwe,t3_1g26qf,null,1430856663,1,false,Switzerland,t5_2qhp6,1
+true,Eskapismus,null,null,"whatever you do, don't waste your time looking for a job in a bank, insurance company or an other financial intermediary. They can not hire people with links to the US any more. ",0,1370904597,null,0,false,0,cag702h,t3_1g2fh2,t1_cag702h,t3_1g2fh2,null,1430856661,2,false,Switzerland,t5_2qhp6,2
+true,chromopila,zh,Zürich,"Nope, this year I cheat on the Swiss festivals and visit the southside. Couldn't resist *that* lineup.",0,1370904795,null,0,false,0,cag72qt,t3_1g1nj2,t1_cag72qt,t3_1g1nj2,null,1430856625,1,false,Switzerland,t5_2qhp6,1
+true,Hausschuh,gr,Graubünden,It was also sold out last year.,0,1370904969,null,0,false,0,cag752t,t3_1g1nj2,t1_cag752t,t1_cag5b18,null,1430856595,1,false,Switzerland,t5_2qhp6,1
+true,Eskapismus,null,null,"He described as formative an incident in which he claimed CIA operatives were attempting to recruit a Swiss banker to obtain secret banking information. Snowden said they achieved this by purposely getting the banker drunk and encouraging him to drive home in his car. When the banker was arrested for drunk driving, the undercover agent seeking to befriend him offered to help, and a bond was formed that led to successful recruitment.",0,1370905098,null,0,false,0,cag76r6,t3_1g2uh9,t1_cag76r6,t3_1g2uh9,null,1430856573,10,false,Switzerland,t5_2qhp6,10
+true,the_obs,vd,Vaud,Where do you live exactly?,0,1370905296,null,0,false,0,cag79e6,t3_1g26qf,t1_cag79e6,t3_1g26qf,null,1430856538,1,false,Switzerland,t5_2qhp6,1
+true,fischersfritz,null,null,"I live on between 1200-1500 a month, and it's possible if you live at a cheap place (I pay 500/month), buy cheap groceries (i rarely eat meat), apply for ""Prämienverbilligung"" (my insurance now costs 30.- a month), only travel with the ""Gleis 7"" and don't go to bars/clubs too much. I'm lucky that my parents pay for all my school-related stuff, but I know people that have the same budget like me and even pay for all their school-stuff.",0,1370906467,null,0,false,0,cag7o5w,t3_1g26qf,t1_cag7o5w,t3_1g26qf,null,1430856345,1,false,Switzerland,t5_2qhp6,1
+true,Tok-A-Mak,null,null,"Coincidence? I think not.
+Some parts of the geneva police apparently cooperated with the CIA.
+
+Edit: Downvoters: Please explain how you think that the CIA agents could offer help to the banker for his drunk driving if the police was not in on the recruitment.",0,1370909261,null,0,1370979730,0,cag8nyq,t3_1g2uh9,t1_cag8nyq,t1_cag76r6,null,1430855803,-2,false,Switzerland,t5_2qhp6,-2
+true,mehsquared,vd,Vaud,"&gt;I pirate all my text books.
+
+I thought all broke students did that? ^ ^",0,1370910398,null,0,false,0,cag92pr,t3_1g26qf,t1_cag92pr,t1_cag54ii,null,1430855713,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,"Just curious, who are Romand girls? I tried google but it didnt work.",0,1370922901,null,0,false,0,cagdrug,t3_1ff2dy,t1_cagdrug,t1_ca9nhep,null,1430853397,1,false,Switzerland,t5_2qhp6,1
+true,Dude_from_Europe,null,null,"Well, just a student helping up in a Joomla/Wordpress project can get around 30chf/h in Zurich (not sure how it works in other cities). Senior Java developers (enterprise level) can hope for up to 100/h. Everyone else is somewhere inbetween I guess.",0,1370931421,null,0,false,0,caggfq1,t3_1g2fh2,t1_caggfq1,t1_cag6c1u,null,1430852071,1,false,Switzerland,t5_2qhp6,1
+true,smalrebelion,bs,Basel-Stadt,Basel,0,1370932610,null,0,false,0,caggpoa,t3_1g26qf,t1_caggpoa,t1_cag79e6,null,1430851940,1,false,Switzerland,t5_2qhp6,1
+true,smalrebelion,bs,Basel-Stadt,It would definitely be cheaper but I'm pretty sure I wouldn't be able to since I'm an American and my visa only applies to Switzerland.,0,1370932709,null,0,false,0,caggqgf,t3_1g26qf,t1_caggqgf,t1_cag5a3g,null,1430851930,1,false,Switzerland,t5_2qhp6,1
+true,chrisimsi,sh,Schaffhausen,link?,0,1370936254,null,0,false,0,caghfjz,t3_1g2lrj,t1_caghfjz,t3_1g2lrj,null,1430851600,2,false,Switzerland,t5_2qhp6,2
+true,barlavon,null,null,"Ask for a French or German visa in their consulate. I remember for French visa you can say ""voyages frontalieres"" (near-border travel?) as reason. Once you have it you can go in France, Germany or any EU country. You really need to do so, you will be able to eat much better.
+
+Also, for job, you can look for English language teaching. I'm sure there is a student job office in your uni. You can also look for a half-time job in a company, many people here speak English. I don't know what you study, but I easily found a half-time job in a small software company. And ""half-time"" here means ""not more 50% in a year"", so you can work 150% during holidays.
+
+Also, if you have good grades and don't have rich parents, you can ask for a free subside in your uni social service. I got free chf10k ""aide pour le logement"" (housing subside) once.",0,1370937216,null,0,1370938008,0,caghl76,t3_1g26qf,t1_caghl76,t1_caggqgf,null,1430851527,2,false,Switzerland,t5_2qhp6,2
+true,hubraum,null,null,I think I might something for you - PM,0,1370938350,null,0,false,0,caghrin,t3_1g2fh2,t1_caghrin,t1_cag6ysr,null,1430851444,2,false,Switzerland,t5_2qhp6,2
+true,nezzey,null,null,The french swiss are called romand,0,1370938631,null,0,false,0,caght40,t3_1ff2dy,t1_caght40,t1_cagdrug,null,1430851423,2,false,Switzerland,t5_2qhp6,2
+true,seitgeist,lu,Luzern,Yeah well not with that attitude.,0,1370939019,null,0,false,0,caghv7t,t3_1g26qf,t1_caghv7t,t1_cag44zi,null,1430851397,8,false,Switzerland,t5_2qhp6,8
+true,Truly_A_Gentleman,sz,Schwyz,"Too bad you don't live closer to me. As a former poor student I know the troubles of living on just ""onions &amp; potatoes"". I would totally invite you over for a dinner or beer",0,1370940830,null,0,false,0,cagi4hx,t3_1g26qf,t1_cagi4hx,t3_1g26qf,null,1430851274,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,[deleted],0,1370941028,null,0,false,0,cagi5hq,t3_1g2lrj,t1_cagi5hq,t1_caghfjz,null,1430851261,1,false,Switzerland,t5_2qhp6,1
+true,timmyfinnegan,zh,Zürich,Www.reddit.com/r/switzerland,0,1370941309,null,0,false,0,cagi6tu,t3_1g2lrj,t1_cagi6tu,t1_caghfjz,null,1430851245,2,false,Switzerland,t5_2qhp6,2
+true,istealreceipts,null,null,"This guy is so full of crap. He states he was ""under diplomatic cover"" in Geneva. So was I and every other international NGO employee and their family...it's called a carte de legitimation. 
+
+",0,1370945820,null,0,false,0,cagirho,t3_1g2uh9,t1_cagirho,t3_1g2uh9,null,1430850973,-9,false,Switzerland,t5_2qhp6,-9
+true,istealreceipts,null,null,"UN and NGO jobs will grant you a carte de legitimation (diplomatic permit) and your spouse/dependants will also be granted a carte. 
+
+If you're not married, then it proves to be a little difficult, as you have to provide a lot of info about your relationship for a carte to be issued to your gf/bf (but doesn't guarantee that they'll get one). If your spouse is granted a carte and subsequently wants to work in Switzerland, she/he needs to swap their carte for a work permit. 
+
+Just FYI, the UN and many NGO's are in a hiring dry-spell at the moment and a lot of their roles are being outsourced offshore or going to consultancies. You'll have to be very specialised in areas such as interational development and diplomatic service ",0,1370946746,null,0,false,0,cagivq3,t3_1fxdig,t1_cagivq3,t1_cafakre,null,1430850918,1,false,Switzerland,t5_2qhp6,1
+true,esec_666,sg,St. Gallen,"Where do you live for less than 400 bucks/month?
+
+I can't imagine that.",0,1370947000,null,0,false,0,cagiwvy,t3_1g26qf,t1_cagiwvy,t3_1g26qf,null,1430850902,1,false,Switzerland,t5_2qhp6,1
+true,smalrebelion,bs,Basel-Stadt,"That has not been my attitude all along. 6 months without results can sap your resolve a bit. Seriously though, it's quite difficult to find a night time job without speaking the language.",0,1370947340,null,0,false,0,cagiyjt,t3_1g26qf,t1_cagiyjt,t1_caghv7t,null,1430850881,1,false,Switzerland,t5_2qhp6,1
+true,lmperator,null,null,It's been confirmed by the EDA that he worked for the the U.S. Embassy in Geneva.,0,1370948277,null,0,1370948598,0,cagj310,t3_1g2uh9,t1_cagj310,t1_cagirho,null,1430850823,5,false,Switzerland,t5_2qhp6,5
+true,hubraum,null,null,"&gt; This guy is so full of crap. He states he was ""under diplomatic cover"" in Geneva. So was I and every other international NGO employee and their family...it's called a carte de legitimation.
+
+""under diplomatic cover"" is not referring to the carte de legitimation. 
+
+So, no, he is not full of crap. ",0,1370948808,null,0,false,0,cagj5rv,t3_1g2uh9,t1_cagj5rv,t1_cagirho,null,1430850787,8,false,Switzerland,t5_2qhp6,8
+true,polkad0t,null,null,"Oh come on, why are the meetups in my area always during exam season? ",0,1370950101,null,0,false,0,cagjcj8,t3_1g00ie,t1_cagjcj8,t3_1g00ie,null,1430850697,1,false,Switzerland,t5_2qhp6,1
+true,AaronPossum,null,null,"They told me the same thing, I lived pretty comfortably on it, (thank you Migros).",0,1370950130,null,0,false,0,cagjcp9,t3_1g26qf,t1_cagjcp9,t3_1g26qf,null,1430850695,1,false,Switzerland,t5_2qhp6,1
+true,matthias187,be,Bern,Alima FTMFW!,0,1370950229,null,0,false,0,cagjd7a,t3_1g26qf,t1_cagjd7a,t1_cag2r65,null,1430850689,1,false,Switzerland,t5_2qhp6,1
+true,thescript42,fr,Fribourg,"Maybe it's a stupid question, but I was asking myself how they could spy in Switzerland, when it's not legal here... The PRISM isn't legal everywhere, so how can they use it for other countries? ",0,1370952452,null,0,false,0,cagjq5y,t3_1g2uh9,t1_cagjq5y,t3_1g2uh9,null,1430850520,-1,false,Switzerland,t5_2qhp6,-1
+true,Today_is_Thursday,null,null,"Wow thanks very much. I know getting into the UN and other int'l orgs have been traditionally hard unless you've got a lot of brains, but a dry spell is just the cherry on top. I am in int'l development, but not so high up that I can go wherever I want right now. :S",0,1370952674,null,0,false,0,cagjrmw,t3_1fxdig,t1_cagjrmw,t1_cagivq3,null,1430850501,1,false,Switzerland,t5_2qhp6,1
+true,Motzlord,tg,Thurgau,"Well are you taking courses? C'mon, it's not like you're learning Chinese or Finnish!",0,1370957479,null,0,false,0,cagku9a,t3_1g26qf,t1_cagku9a,t1_cagiyjt,null,1430849994,1,false,Switzerland,t5_2qhp6,1
+true,AlexTree,gr,Graubünden,Dont tell anybody? As long as you do it hidden you are good to go.,0,1370959264,null,0,false,0,caglcrq,t3_1g2uh9,t1_caglcrq,t1_cagjq5y,null,1430849752,4,false,Switzerland,t5_2qhp6,4
+true,P1r4nha,zh,Zürich,illegally,0,1370959335,null,0,false,0,cagldhw,t3_1g2uh9,t1_cagldhw,t1_cagjq5y,null,1430849743,2,false,Switzerland,t5_2qhp6,2
+true,chrisimsi,sh,Schaffhausen,haha ok :D   Bin nume äs bitzli ufem Schluuch gstande.....,0,1370959533,null,0,false,0,caglfm1,t3_1g2lrj,t1_caglfm1,t1_cagi6tu,null,1430849714,2,false,Switzerland,t5_2qhp6,2

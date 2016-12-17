@@ -1,0 +1,269 @@
+archived,author,author_flair_css_class,author_flair_text,body,controversiality,created_utc,distinguished,downs,edited,gilded,id,link_id,name,parent_id,removal_reason,retrieved_on,score,score_hidden,subreddit,subreddit_id,ups
+true,notanotherclairebear,cern,ATLAS,"Do you want to build a LEGO version of ATLAS?? 
+
+Note: correct answer is YES.
+
+Double points to Rao the CMS guy for posting about ATLAS :)",0,1371155526,null,0,false,0,caic0vi,t3_1g9lp9,t1_caic0vi,t3_1g9lp9,null,1430819645,2,false,CERN,t5_2r692,2
+true,LaoBa,zh,Zürich,"This may be a bit of a long shot, and the language barrier might be a problem here, but mountain farms are looking for people and you can find addresses [here](http://www.zalp.ch/stellenboerse/st_an.php). We visited a friend who was hired to herd cows in the Glarner Alps and who trekked from hut to hut with her cowherd, going to higher and higher pastures in the summer. We stayed a coupe of nights, some of the huts she lived in were very primitive (a wood stove was being dropped by helicopter at one of them). Although her closest neighbors were often hours walking away, there was a strong sense of community.
+
+It will probably not pay very much, but it will be an unique experience. Also, I'm not Swiss and I haven't the faintest idea if you will get a residence and work permit for this.",0,1371155660,null,0,false,0,caic2rv,t3_1g7bis,t1_caic2rv,t3_1g7bis,null,1430819620,1,false,Switzerland,t5_2qhp6,1
+true,andrewbaums,null,null,"got it!  thanks for the help, everyone",0,1371155767,null,0,false,0,caic4ab,t3_1g9vc6,t1_caic4ab,t3_1g9vc6,null,1430819601,1,false,CERN,t5_2r692,1
+true,andrewbaums,null,null,"i go to a small liberal arts school in new york. luckily the department is so small that i'm the only one in my year! my prof works with cern and goes every summer so we scrounged up so money to send me. it was all extremely lucky.  good luck to you, though! ",0,1371155857,null,0,false,0,caic5ia,t3_1g9vc6,t1_caic5ia,t1_caibwhw,null,1430819514,2,false,CERN,t5_2r692,2
+true,DeepBlueNemesis,bs,Beide Basel,"Considering Switzerland and the english language have pretty much nothing to do with each other I'd bet a lot of money on it being false :-) but still, nice one",0,1371156911,null,0,false,0,caicjhg,t3_1gahji,t1_caicjhg,t3_1gahji,null,1430819331,-7,false,Switzerland,t5_2qhp6,-7
+true,meandyouandyouandme,null,null,The two languages are of course related.,0,1371156986,null,0,false,0,caickd8,t3_1gahji,t1_caickd8,t3_1gahji,null,1430819319,2,false,Switzerland,t5_2qhp6,2
+true,[deleted],null,null,[deleted],0,1371157279,null,0,1371158371,0,caicnuv,t3_1gahji,t1_caicnuv,t1_caicjhg,null,1430819273,9,false,Switzerland,t5_2qhp6,9
+true,SantiGE,ge,Genève,"Actually true according to Wikipedia :
+Le Valais correspond historiquement à l’ancienne « Vallée Pennine » (Vallis Poenina), nom que les Romains donnèrent à la région. Par la suite, au VIe siècle, elle sera désignée sous la forme de pagus Vallensis (« pays de la Vallée ») ou tout simplement Vallensis[10].",0,1371157855,null,0,false,0,caicu65,t3_1gahji,t1_caicu65,t3_1gahji,null,1430819190,5,false,Switzerland,t5_2qhp6,5
+true,andres_delannoy,cern,CMS,"Hi!
+
+I think it's easiest, and perhaps more productive, to setup a ROOT environment on your afs area (i.e. on lxplus). If you a registered CMS user, you can [accomplish this](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookSetComputerNode#WorkArea) relatively easily. If not, it's still easy enough to do. Open up your OSX terminal, ssh into lxplus, and run these commands:
+
+    $ ssh -X username@lxplus5.cern.ch
+    [lxplus] $ mkdir 5.30.00/
+    [lxplus] $ cd 5.30.00/
+    [lxplus] $ cp -r /afs/cern.ch/sw/lcg/app/releases/ROOT/5.30.00/x86_64-slc5-gcc43-opt/root/ .
+    [lxplus] $ . /afs/cern.ch/sw/lcg/external/gcc/4.3.2/x86_64-slc5/setup.sh
+    [lxplus] $ . root/bin/thisroot.sh
+    [lxplus] $ root -l
+    root [0]
+
+This should get you a running ROOT 5.30.00 environment, albeit some ""missing library"" complaints. 
+
+If you really need to install ROOT locally on your MAC, I can be of less help (meaning I can't guarantee this will work)... But, try downloading and extracting the appropriate OSX binary for your system (find 'OSX' under 'Binaries' [here](http://root.cern.ch/drupal/content/production-version-534)). As an example, let's assume you're running OS X 10.6. Fire up your OSX terminal and run these (more info/details in the [README](http://root.cern.ch/lxr/data/root/README/README)):
+    
+    $ mkdir 5.3.4/
+    $ cd 5.3.4/
+    $ wget ftp://root.cern.ch/root/root_v5.34.08.macosx106-x86_64-gcc-4.2.tar.gz
+    $ gunzip root_v5.34.08.macosx106-x86_64-gcc-4.2.tar.gz
+    $ tar xvf root_v5.34.08.macosx106-x86_64-gcc-4.2.tar
+
+I'm assuming your OSX terminal shell is bash (which is the default, [more info](http://support.apple.com/kb/ta27005)). To check, make sure
+
+    $ echo $SHELL
+
+returns '/bin/bash'. If so, do:
+
+    $ . root/bin/thisroot.sh
+    $ root
+    root [0]
+
+Hope this helps!",0,1371158004,null,0,false,0,caicvr0,t3_1g9vc6,t1_caicvr0,t3_1g9vc6,null,1430819170,3,false,CERN,t5_2r692,3
+true,sibles,null,null,Wow that's awesome. I probably can't go to a more opposite school than you. Im at LSU majoring in mechanical and nuclear engineering and as far as my knowledge have no contacts with CERN. I am one of the top ten students in my class of around 8000 but I know how hard it is to get into that program especially if you are not a partner country,0,1371158394,null,0,false,0,caid010,t3_1g9vc6,t1_caid010,t1_caic5ia,null,1430819114,1,false,CERN,t5_2r692,1
+true,cptz3r0,sh,Schaffhausen,yeah aso gids doch no e paar vo üs us schaffhuuse ;D,0,1371159545,null,0,false,0,caide94,t3_1g2lrj,t1_caide94,t1_cahc78d,null,1430818928,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,"It's interesting that Valais is a masculine noun while vallée is feminine. ",0,1371160454,null,0,false,0,caidqh3,t3_1gahji,t1_caidqh3,t1_caicu65,null,1430818768,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"Okay. 5 P.M. in Zurich. I'll be there. Right under Treffpunkt (the clock meeting point).
+
+P.M. we'll trade numbers.
+
+Worst case scenario, we grab a few beers and hate each others guts.
+
+Best Case scenario, we grab a few beers.",0,1371162012,null,0,1371295863,0,caiea3z,t3_1g00ie,t1_caiea3z,t3_1g00ie,null,1430818511,1,false,Switzerland,t5_2qhp6,1
+true,e-as-in-euler,null,null,"Are you reasonably well versed in the terminal (bash, tcsh, etc.)? The binary [instructions/README](http://root.cern.ch/lxr/data/root/README/README) seem very plain.
+
+What you're essentially doing is sticking a bunch of directories at a certain place and telling your terminal where the 'run' script is - the thisroot.sh file. (Or the other one for *csh. I'm on Linux, so bash/sh is most typical in what I see.) The second half of the text file tells you about the tutorials.
+
+On Mac, you'll probably just need to get the .tar.gz file, open it with the tar command or some built-in OSX program, then move the big tree of directories to a safe space.
+
+
+(This is one of the cases where it's much easier to use Linux in serious computation - when I installed ROOT all I had to do on Debian was type ""apt-get install root-system"". Good luck!)",0,1371164233,null,0,false,0,caif36j,t3_1g9vc6,t1_caif36j,t3_1g9vc6,null,1430818130,2,false,CERN,t5_2r692,2
+true,thephaw,world,Canada,I stopped trying to make sense of French noun gender a long time ago.,0,1371164488,null,0,false,0,caif6c5,t3_1gahji,t1_caif6c5,t1_caidqh3,null,1430818090,11,false,Switzerland,t5_2qhp6,11
+true,Schmich,vs,Valais,"Well phonetically the French word is pretty much the same. Also the word ""Swiss"" was chosen because it's the closest to the word Suisse (phonetically again).",0,1371166703,null,0,false,0,caifxaf,t3_1gahji,t1_caifxaf,t1_caickd8,null,1430817736,3,false,Switzerland,t5_2qhp6,3
+true,futurespice,null,null,"That's actually an ahmadiyya mosque, might want to give it a miss. Although it does one of the few Swiss minarets,",0,1371170524,null,0,false,0,caih7gh,t3_1g6j6c,t1_caih7gh,t1_cahiw1s,null,1430817132,1,false,Switzerland,t5_2qhp6,1
+true,futurespice,null,null,And they say Swiss can't do sarcasm!,0,1371170574,null,0,false,0,caih82e,t3_1g6ss4,t1_caih82e,t1_cahb3di,null,1430817124,1,false,Switzerland,t5_2qhp6,1
+true,futurespice,null,null,"Für Schengen ist es zwingend, nur biometrische Pässe auszugeben.",0,1371170793,null,0,false,0,caihaox,t3_1g6ss4,t1_caihaox,t1_cai0dzd,null,1430817089,2,false,Switzerland,t5_2qhp6,2
+true,futurespice,null,null,"They quoted a study showing that *total spending* on entertainment was unchanged, so presumably if people download music and spend less money on CDs, they spend approximately what they 'saved' on concert tickets or something.
+
+This was then followed by a statement along the lines of ""and in any case it's mostly not Swiss companies harmed so who cares"", which.. well, is at least an entertaining viewpoint.",0,1371171040,null,0,false,0,caihdog,t3_1g6ss4,t1_caihdog,t1_cahadip,null,1430817050,1,false,Switzerland,t5_2qhp6,1
+true,desmitty66,cern,CMS,Traitorrrr! I came here just to inform them that a LEGO model of the CMS detector would be a much better investment :),0,1371180597,null,0,false,0,caiknkh,t3_1g9lp9,t1_caiknkh,t3_1g9lp9,null,1430815495,2,false,CERN,t5_2r692,2
+true,SantiGE,ge,Genève,"They are, a lot. English took an astounding number of words from French. ",0,1371187560,null,0,false,0,caimnp1,t3_1gahji,t1_caimnp1,t1_caickd8,null,1430814552,6,false,Switzerland,t5_2qhp6,6
+true,SantiGE,ge,Genève,"Well, in this case the name seems to originate from Latin. Also, don't forget that French as we know it is a quite young language. There were a lot of patois in those regions and they can differ significantly from French. ",0,1371187686,null,0,false,0,caimoux,t3_1gahji,t1_caimoux,t1_caif6c5,null,1430814537,1,false,Switzerland,t5_2qhp6,1
+true,relgib,be,Bern,".sx too :-) ",0,1371187869,null,0,false,0,caimqme,t3_1g6ss4,t1_caimqme,t1_cai0nf9,null,1430814514,3,false,Switzerland,t5_2qhp6,3
+true,[deleted],null,null,There are 8000 students taking mechanical and nuclear engineering or is that the entire engineering department? That's more people than my entire university.,0,1371189813,null,0,false,0,cain7kf,t3_1g9vc6,t1_cain7kf,t1_caid010,null,1430814291,1,false,CERN,t5_2r692,1
+true,darkestsideofthemoon,null,null,"Bugsy.
+
+5pm at HB Treffpunkt on Saturday the 15th.",0,1371191526,null,0,false,0,cainl49,t3_1dyj4n,t1_cainl49,t1_c9v3m2y,null,1430814114,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"Hey, /u/Necromancer
+
+HB Treffpunkt at 5pm?",0,1371192259,null,0,false,0,cainqlg,t3_1dyj4n,t1_cainqlg,t1_c9veazp,null,1430814042,1,false,Switzerland,t5_2qhp6,1
+true,the_obs,vd,Vaud,Tallis?,0,1371193369,null,0,false,0,cainyga,t3_1gahji,t1_cainyga,t3_1gahji,null,1430813940,1,false,Switzerland,t5_2qhp6,1
+true,TheNecromancer,zh,Zürich,"Maybe, I might have other plans.",0,1371195609,null,0,false,0,caioczm,t3_1dyj4n,t1_caioczm,t1_cainqlg,null,1430813749,1,false,Switzerland,t5_2qhp6,1
+true,RaoOfPhysics,cern,CMS,"Most of the outside world doesn't know the difference between CMS and ATLAS, and I don't think it really matters. :P",0,1371199215,null,0,false,0,caiowoy,t3_1g9lp9,t1_caiowoy,t1_caic0vi,null,1430813491,2,false,CERN,t5_2r692,2
+true,RaoOfPhysics,cern,CMS,"If we had a CMS design that was part of the contest, I'd share that too! Unfortunately… :(",0,1371199248,null,0,false,0,caiowu0,t3_1g9lp9,t1_caiowu0,t1_caiknkh,null,1430813489,1,false,CERN,t5_2r692,1
+true,notanotherclairebear,cern,ATLAS,"TIL there's an ""outside world"" :-p",0,1371202459,null,0,false,0,caipbqw,t3_1g9lp9,t1_caipbqw,t1_caiowoy,null,1430813294,2,false,CERN,t5_2r692,2
+true,Infantry1stLt,null,null,"As a native italofono-anglophone, who learned french before german, I still am making gender-related mistakes after 15 years of trying to learn Hochdeutsch. 
+Which still isn't an issue because nobody notices/cares in schwiizerdütsch. ",0,1371203108,null,0,false,0,caipek2,t3_1gahji,t1_caipek2,t1_caif6c5,null,1430813257,3,false,Switzerland,t5_2qhp6,3
+true,bugybunny,zh,Zürich,As I wrote in the other thread I can't make it unfortunately :/ Some personal stuff came in on that date,0,1371212190,null,0,false,0,caiqnti,t3_1dyj4n,t1_caiqnti,t1_cainl49,null,1430812665,1,false,Switzerland,t5_2qhp6,1
+true,TheBB,world,Other,"I can't make it as poetic, but at least I can get the message across.
+
+&gt; In deep gratitude for a rich, intensive, interesting and moving life, we must make farewell all too soon
+with our beloved
+
+&gt; Ladina
+
+&gt; Our Ladina was taken from our midst shortly before her 20th birthday in a traffic accident. Our pain is inmeasurable, we are speechless and in deep sorrow.
+
+&gt; The funeral service will take place on Thursday, June 6th 2013 at 14:00 in the reformed church of Wohlen. From Tuesday to Thursday, Ladina will be in the Wohlen chapel.
+
+&gt; Those who wish to remember Ladina in other ways than with flowers should support the project ""Women in Afghanistan"", with which Ladina worked during her Matura.
+
+A Matura is some form of High School final examination. 
+
+I'm not a native German speaker, so I'm sure someone can do this better.
+
+On the left:
+
+&gt; ""Smiled, loved, enjoyed, wept, worked - lived.""
+",0,1371212222,null,0,1371218747,0,caiqo0k,t3_1gbzkx,t1_caiqo0k,t3_1gbzkx,null,1430812662,30,false,Switzerland,t5_2qhp6,30
+true,SeraphTwo,sg,St. Gallen,"First of all, my condolences. I did my best to translate, there are some rough spots but the meaning should be clear. I added some translation/context notes in *italics*.
+
+Left:
+""Laughed,  loved, enjoyed, cried, influenced - lived.""
+*This is meant in the sense of ""She has..."" *
+
+Right:
+Deeply thankful for a rich, intense, interesting, moving life together, we must bid farewell far too soon to our beloved
+Ladina
+Our Ladina was torn from us by a traffic accident shortly before her 20th birthday. Our pain is immeasurable, we are without words and deeply sorrowful.
+
+The remembrance will take place Thursday, June 6th 2013 at 2 PM in the Reformed Church of Wohlen.
+Ladina will be resting in the chapel of Wohlen from Tuesday to Thursday.
+
+For those who wish to remember Ladina with something other than flowers, please support the project ""Women in Afghanistan"", which Ladina wrote a paper on during preparatory school.",0,1371212409,null,0,false,0,caiqp8a,t3_1gbzkx,t1_caiqp8a,t3_1gbzkx,null,1430812647,4,false,Switzerland,t5_2qhp6,4
+true,Vazoo,so,Solothurn,"I support this translation, was doing a similar one, when I saw you already posted. Sad to read this, best of wishes to the family.",0,1371212624,null,0,false,0,caiqqr2,t3_1gbzkx,t1_caiqqr2,t1_caiqo0k,null,1430812627,11,false,Switzerland,t5_2qhp6,11
+true,sartsch,be,Bern,"The translation is spot on.
+A matura is equivalent to a Higher School Certificate. 
+I would also like to offer my condolences for your loss.
+",0,1371212698,null,0,false,0,caiqr7m,t3_1gbzkx,t1_caiqr7m,t1_caiqo0k,null,1430812621,5,false,Switzerland,t5_2qhp6,5
+true,UpUpDownQuarks,zh,Zürich,"[on the left]
+
+
+(She) ""Laughed, Loved, Enjoyed, Cried, Acted [in the sense of doing something] - Lived"" 
+
+[on the right]
+
+
+With deep thankfulness for a rich, intense, interesting and moving life together we have to say goodbye to our beloved Ladina much too soon.
+
+
+Our Ladina was taken from our midst through a traffic accident shortly before her 20th birthday. Our pain is boundless; we are speechless and deeply saddened.
+
+
+The funeral service will take place at thursday the 6th of June 2013 at 2pm in the protestant church in Wohlen.
+
+
+From Tuesday to Thursday Ladina will reside in the chapel of Wohlen.
+Anyone who wants to commemorate Ladina with something different than flowers, may support the project ""Women in Afghanistan"", to which Ladina looked into while working on her senior thesis. [called Maturaarbeit in Switzerland]
+
+
+I am sure it sounds a little bit rocky but I hope you understand it nonetheless. And I am sorry for your loss =(",0,1371212709,null,0,false,0,caiqrac,t3_1gbzkx,t1_caiqrac,t3_1gbzkx,null,1430812620,4,false,Switzerland,t5_2qhp6,4
+true,[deleted],null,null,[deleted],0,1371212774,null,0,1371213144,0,caiqrql,t3_1gbzkx,t1_caiqrql,t3_1gbzkx,null,1430812613,1,false,Switzerland,t5_2qhp6,1
+true,seitgeist,lu,Luzern,"Damn that hurts. My cousin died in a traffic accident when he was 24. That was five years ago and it's still sad to think about...
+My condolences,",0,1371212811,null,0,false,0,caiqrzc,t3_1gbzkx,t1_caiqrzc,t3_1gbzkx,null,1430812611,8,false,Switzerland,t5_2qhp6,8
+true,I3loodhound,null,null,"On the left side: 
+
+""laughed, loved, enjoyed, cryed, changed - lived""
+
+On the right side:
+
+With deep gratitude for a rich, intense, interessting, eventful life together we have to say good-bye way to early to our beloved Ladina.
+Our Ladina was torn from live shortly before her 20th. Birthday by a traffic accident. Our pain is indescribable and we are speechless and in deep mourning.
+
+The funreal service takes place on thursday the 6th of June 2013 at 2 o'clock PM at the Protestant church in Wohlen.
+From tuesday to thursday Ladina is in the chapel in Wohlen.
+Who wants to support Ladina diffrently than with flowers support the project ""Frauen in Afghanistan"" (""Women in Afghanistan"")  which Ladina dealt with in her Matura project.
+
+me: I want to express to you my sincere condolences and I hope this translation helps you",0,1371212892,null,0,false,0,caiqsit,t3_1gbzkx,t1_caiqsit,t3_1gbzkx,null,1430812603,2,false,Switzerland,t5_2qhp6,2
+true,scalfy,null,null,"Thank you. Thank you so much everyone. ",0,1371215826,null,0,false,0,cairf31,t3_1gbzkx,t1_cairf31,t1_caiqo0k,null,1430812237,13,false,Switzerland,t5_2qhp6,13
+true,scalfy,null,null,"Thank you so much. This is greatly appreciated. ",0,1371216198,null,0,false,0,cairico,t3_1gbzkx,t1_cairico,t1_caiqrac,null,1430812194,1,false,Switzerland,t5_2qhp6,1
+true,scalfy,null,null,Thank you very much,0,1371216215,null,0,false,0,cairihw,t3_1gbzkx,t1_cairihw,t1_caiqrql,null,1430812192,1,false,Switzerland,t5_2qhp6,1
+true,scalfy,null,null,Thank you so much,0,1371216227,null,0,false,0,cairilz,t3_1gbzkx,t1_cairilz,t1_caiqsit,null,1430812191,1,false,Switzerland,t5_2qhp6,1
+true,UpUpDownQuarks,zh,Zürich,You're welcome =),0,1371218896,null,0,false,0,cais897,t3_1gbzkx,t1_cais897,t1_cairico,null,1430811855,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"/u/itsme31415
+
+or also known as itsmepi,
+
+tomorrow the 15th, at HB treffpunkt at 5 p.m.!
+
+PM To trade numbers yeah",0,1371221337,null,0,false,0,caisz90,t3_1dyj4n,t1_caisz90,t1_c9v3nb1,null,1430811502,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"tomorrow the 15th, at HB treffpunkt at 5 p.m.!
+PM To trade numbers yeah",0,1371221347,null,0,false,0,caiszel,t3_1dyj4n,t1_caiszel,t1_c9vfufn,null,1430811500,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,Zurich btw.,0,1371221359,null,0,false,0,caiszjm,t3_1dyj4n,t1_caiszjm,t1_caiszel,null,1430811499,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"tomorrow the 15th, at Zurich HB treffpunkt at 5 p.m.!
+PM To trade numbers yeah",0,1371221371,null,0,false,0,caiszop,t3_1dyj4n,t1_caiszop,t1_c9w46du,null,1430811496,2,false,Switzerland,t5_2qhp6,2
+true,darkestsideofthemoon,null,null,"tomorrow the 15th, at Zurich HB treffpunkt at 5 p.m.!
+PM To trade numbers yeah",0,1371221379,null,0,false,0,caiszs0,t3_1dyj4n,t1_caiszs0,t1_c9x8clp,null,1430811495,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"tomorrow the 15th, at Zurich HB treffpunkt at 5 p.m.!
+PM To trade numbers yeah",0,1371221384,null,0,false,0,caiszty,t3_1dyj4n,t1_caiszty,t1_c9z1zaw,null,1430811494,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"tomorrow the 15th, at Zurich HB treffpunkt at 5 p.m.!
+PM To trade numbers yeah",0,1371221391,null,0,false,0,caiszws,t3_1dyj4n,t1_caiszws,t1_c9v6ulx,null,1430811493,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,"tomorrow the 15th, at Zurich HB treffpunkt at 5 p.m.!
+PM To trade numbers yeah",0,1371221407,null,0,false,0,cait02t,t3_1dyj4n,t1_cait02t,t1_ca06zuf,null,1430811491,1,false,Switzerland,t5_2qhp6,1
+true,mysterybkk,null,null,"and i as a native german speaker can say that you captured it perfectly, not just translating but also interpreting it.",0,1371226148,null,0,false,0,caiuob2,t3_1gbzkx,t1_caiuob2,t1_caiqo0k,null,1430810702,3,false,Switzerland,t5_2qhp6,3
+true,TheBB,world,Other,"Wow, thanks. :)",0,1371226442,null,0,false,0,caiuse9,t3_1gbzkx,t1_caiuse9,t1_caiuob2,null,1430810649,2,false,Switzerland,t5_2qhp6,2
+true,CoolioDude,null,null,wie traurig :(,0,1371227475,null,0,false,0,caiv6su,t3_1gbzkx,t1_caiv6su,t3_1gbzkx,null,1430810461,2,false,Switzerland,t5_2qhp6,2
+true,CH-Rampage,zh,Zürich,"Why the fuck ""redduit"", call me stupid but I don't get it",0,1371229141,null,0,false,0,caivtx5,t3_1azeea,t1_caivtx5,t3_1azeea,null,1430810158,1,false,Switzerland,t5_2qhp6,1
+true,CH-Rampage,zh,Zürich,If you like metal we could go to the bar called ebrietas in niderdörfli,0,1371229348,null,0,false,0,caivwsa,t3_1g00ie,t1_caivwsa,t3_1g00ie,null,1430810121,0,false,Switzerland,t5_2qhp6,0
+true,darkestsideofthemoon,null,null,"fine by me. Prefer rock personally. A more pink floyd esque person am I. 
+
+5 pm at Treffpunkt, see you then?",0,1371230165,null,0,false,0,caiw83v,t3_1g00ie,t1_caiw83v,t1_caivwsa,null,1430809972,1,false,Switzerland,t5_2qhp6,1
+true,CH-Rampage,zh,Zürich,"Probably, depends on the weather, if it's all sunny it's time for some airsoft. If it's like right now here in zürich i'm in!",0,1371230332,null,0,false,0,caiwah0,t3_1g00ie,t1_caiwah0,t1_caiw83v,null,1430809941,1,false,Switzerland,t5_2qhp6,1
+true,RaoOfPhysics,cern,CMS,"From the [article in the CERN Bulletin](https://cds.cern.ch/journal/CERNBulletin/2013/25/News%20Articles/1555445?ln=en):
+
+&gt; Over recent weeks, members of the TE-VSC group have been removing seven components of the beam pipe located at the heart of the CMS detector. The delicate operations involved have been performed in several stages as the detector opening work has progressed.
+
+&gt; Of the seven components concerned, only the central vacuum pipe will be replaced. The other six will be stored in a special radiation-shielded area on the surface and subsequently reinstalled ready for the resumption of machine operation.
+
+&gt; The video below [sic], which was filmed on 15 May, shows one of the seven components of the vacuum pipe – the HFCT2, located to the right of the interaction point – being brought up from the CMS cavern to the surface by the transport team at Point 5.",0,1371231068,null,0,false,0,caiwkql,t3_1gcluy,t1_caiwkql,t3_1gcluy,null,1430809806,1,false,CERN,t5_2r692,1
+true,darkestsideofthemoon,null,null,Can the rest of us join?,0,1371232107,null,0,false,0,caiwza5,t3_1g00ie,t1_caiwza5,t1_caiwah0,null,1430809617,1,false,Switzerland,t5_2qhp6,1
+true,buyacasha,zh,Zürich,"&gt; I was wondering what you guys think I should know about your country before making a decision.
+
+It's a good decision. An internship abroad always looks good on a resume. And you'll enjoy Switzerland.
+
+&gt; I would be going in the summer time for 8-10 week
+
+You mean 2014, right?
+
+&gt; would love to be anywhere in the Alps as that, in my eyes, is the most beautiful part of the world. 
+
+As an American you might not realize how small Switzerland is. If you're somewhere central, say for example Lucerne, you can make day trips to some beautiful mountain regions. No problem at all. If you truly enjoy hiking you can also make weekend trips and stay at [SAC huts](http://www.sac-cas.ch/en/huts.html) over night.
+
+&gt; Are there companies that do this sort of thing for ME majors in that area?
+
+Companies that need MEs? Plenty. Companies that do summer internships? No idea (This concept is not as widespread as it is in the US). Try ABB, Komax, Siemens, etc. There are tons.
+
+&gt; How many people speak English?
+
+The younger generation will often speak English well.
+
+&gt; How easy is it to travel to other countries on the weekend?
+
+No problem via train. 
+
+&gt; Is there any reason I shouldn't do this?
+
+No reason at all. Again, getting some experience in a foreign country and culture is never bad. Also, Switzerland is definitely not the worst choice.
+
+&gt; Is there anything major that I should consider?
+
+Check the Visa requirements. Also, remember that in Switzerland it is usual to have a photo &amp; birthdate on your application.
+
+
+Hope that helps! Any more specific questions, just ask.
+
+
+",0,1371232594,null,0,false,0,caix65r,t3_1gcm5s,t1_caix65r,t3_1gcm5s,null,1430809527,6,false,Switzerland,t5_2qhp6,6
+true,Leinnann,null,null,"Thanks a lot! You are very helpful. You are correct on the year 2014, but right now it's just an idea. I will talk to my school's study abroad office and see what the say. If I have any other questions down the road I will definitely PM you.
+",0,1371233815,null,0,false,0,caixmyi,t3_1gcm5s,t1_caixmyi,t1_caix65r,null,1430809306,2,false,Switzerland,t5_2qhp6,2
+true,CH-Rampage,zh,Zürich,You mean airsoft?,0,1371234708,null,0,false,0,caixz6q,t3_1g00ie,t1_caixz6q,t1_caiwza5,null,1430809147,1,false,Switzerland,t5_2qhp6,1
+true,woodyar,null,null,"US-Mex St. Gallen, right next to the Coop at Marktplatz Bohl. They'll have some, I guess. Also, they're open until 1 a.m. or so. Hope i could help.",0,1371236352,null,0,false,0,caiyluo,t3_1gcg5g,t1_caiyluo,t3_1gcg5g,null,1430808850,1,false,Switzerland,t5_2qhp6,1
+true,darkestsideofthemoon,null,null,Yeah? :D,0,1371239333,null,0,false,0,caizq3i,t3_1g00ie,t1_caizq3i,t1_caixz6q,null,1430808251,1,false,Switzerland,t5_2qhp6,1
+true,CH-Rampage,zh,Zürich,"Shure why not :D
+Bisch doch sicher en zürcher oder?",0,1371244073,null,0,false,0,caj1g11,t3_1g00ie,t1_caj1g11,t1_caizq3i,null,1430807441,1,false,Switzerland,t5_2qhp6,1
+true,Salazzar77,null,null,"I just sent you a message. My wife is Swiss and I live in NC so I was interested in giving information.
+
+I really suggest checking out englishforums.ch as there are tons of helpful people dealing with life in Switzerland especially employment.
+
+",0,1371244713,null,0,false,0,caj1ns3,t3_1gcm5s,t1_caj1ns3,t3_1gcm5s,null,1430807339,2,false,Switzerland,t5_2qhp6,2
+true,Leinnann,null,null,"I PM'd you, thanks.",0,1371245887,null,0,false,0,caj2228,t3_1gcm5s,t1_caj2228,t1_caj1ns3,null,1430807152,2,false,Switzerland,t5_2qhp6,2
+true,seitgeist,lu,Luzern,Hender kei pouletflügeli im appezöll?!?,0,1371256420,null,0,false,0,caj58mt,t3_1gcg5g,t1_caj58mt,t3_1gcg5g,null,1430805652,2,false,Switzerland,t5_2qhp6,2
+true,darkestsideofthemoon,null,null,"Nei Alte, bin ich usländer. Wohn Ich gerade im Bade seit ein Jahr oder so.",0,1371258453,null,0,false,0,caj5sm0,t3_1g00ie,t1_caj5sm0,t1_caj1g11,null,1430805390,1,false,Switzerland,t5_2qhp6,1

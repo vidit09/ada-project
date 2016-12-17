@@ -1,0 +1,126 @@
+archived,author,author_flair_css_class,author_flair_text,body,controversiality,created_utc,distinguished,downs,edited,gilded,id,link_id,name,parent_id,removal_reason,retrieved_on,score,score_hidden,subreddit,subreddit_id,ups
+true,aaaaaaaarrrrrgh,null,null,"Which is especially funny since the song is [from a TV show](http://knowyourmeme.com/memes/you-are-a-pirate), and since the meme-makers most likely didn't get a license, probably pirated.",0,1380247578,null,0,false,0,ccg6a43,t3_1n6v1f,t1_ccg6a43,t1_ccfzeh7,null,1429329815,2,false,Switzerland,t5_2qhp6,2
+true,aaaaaaaarrrrrgh,null,null,"Copyright and patents are two different things, despite both being part of the ""intellectual property"" complex. I think patents make sense, as long as it's not a one-way street and the rules are strictly enforced. For example, patents must not be trivial, software patents should be banned, patent trolling must be prevented, and it must be ensured that proper disclosure is enforced. (Patents are a temporary monopoly in exchange for giving a description of the invention to the public so everyone can use it 18 or so years later.)
+
+IMHO, copyright should be strictly restricted to commercial use and limited to 10-20 years after first publication, not 70+ years after the death of the last coauthor.",0,1380247866,null,0,false,0,ccg6dks,t3_1n6v1f,t1_ccg6dks,t1_ccg05ni,null,1429329770,4,false,Switzerland,t5_2qhp6,4
+true,[deleted],null,null,[deleted],0,1380255709,null,0,false,0,ccg8t4w,t3_1n6v1f,t1_ccg8t4w,t1_ccfw14x,null,1429328635,4,false,Switzerland,t5_2qhp6,4
+true,DantesDame,bs,Basel-Stadt,And they're on sale at Migros!!!,0,1380262815,null,0,false,0,ccgae9h,t3_1n1vcf,t1_ccgae9h,t1_ccezivv,null,1429327895,1,false,Switzerland,t5_2qhp6,1
+true,qwertyfoobar,null,null,You are absolutely right they are not exactly the same thing but stem from the same idea.,0,1380266183,null,0,false,0,ccgay9x,t3_1n6v1f,t1_ccgay9x,t1_ccg6dks,null,1429327635,2,false,Switzerland,t5_2qhp6,2
+true,Dw0,bs,Basel-Stadt,"Question. If I copy that to someplace else will the person who actually created this ""game"" (the creative type they are ""protecting"") receive less money?",0,1380267278,null,0,false,0,ccgb41n,t3_1n6v1f,t1_ccgb41n,t3_1n6v1f,null,1429327560,1,false,Switzerland,t5_2qhp6,1
+true,Protectator,ba-in,,"Thanks for the post !
+Here is what I think to each point :
+
+* This is surely the most important but also the more complex to solve I think. I really think we won't have 10% of the EPFL here. At least not at start. I think that before trying to find a solution to a problem that will appear later, we should first focus on making people go on that subreddit. And that we should do this in two times : First get people that already use reddit go on our subreddit, then convaince people that don't use reddit that it might be useful (and talk to them about our subreddit).
+The problem I see with doing either of your solutions now is that it will retain people from coming here and getting involved with stuff. I don't say that these ideas are bad, but I'm convainced we should wait that more people come here before trying to limit things. Why not simply ask what these epfl/redditors prefer once we have like 100 subscribers ?
+
+* I think we should go for option 1. There are enough places where people can learn things and keep up with EPFL's public stuff. I really think it'd be awesome if this became a place where people from here talk about casual meta stuff. But I think posting important public news will be encouraged too as the commentary section will be interesting to see :)
+
+* I think we should just give honorary flair to ""special"" people like teachers and people that are recognized by a large majority of the EPFL as important entities like AGEpoly and let things flow naturally from this. We don't know how this will evole, we can just act by the time things happen.
+
+* Totally agree on the last point. Aybe we should simply post things here at start, invite our friends, talk to people we know about this subreddit and then when we'll have an -even little- active community then contact AGEpoly or smth like this. :) But we shouldn't wait too much to do this either, I think.",0,1380268531,null,0,false,0,ccgba1k,t3_1n8cwv,t1_ccgba1k,t3_1n8cwv,null,1429327483,1,false,EPFL,t5_2svyx,1
+true,Aethec,ba-in,null,"Let's talk about flairs.
+
+First, there are two flairs that we can let users set - BA and MA students.  
+Here are the possible BA / MA units and their availability: 
+
+* **AR** - Architecture (Architecture), BA / MA
+* **CGC** - Chimie et génie chimique (Chemistry and Chemical Engineering), BA / MA
+* **EL** - Génie électrique et électronique (Electrical and Electronical Engineering), BA / MA
+* **GC** - Génie civil (Civil Engineering), BA / MA
+* **GM** - Génie mécanique (Mechanical Engineering), BA / MA
+* **IN** - Informatique (Computer Science), BA / MA
+* **MA** - Mathématiques (Mathematics), BA / MA
+* **MT** - Microtechnique (Microtechnics), BA / MA
+* **MX** - Science et génie des matériaux (Materials Science and Engineering), BA / MA
+* **PH** - Physique (Physics), BA / MA
+* **SC** - Systèmes de Communication (Communication Systems), BA / MA
+* **SIE** - Sciences et ingénierie de l'environnement (Environmental Sciences and Engineering), BA / MA
+* **SV** - Sciences et technologies du vivant (Life, Sciences and Technologies), BA / MA
+* **EME** - EPFL Middle East (Middle East EPFL), MA
+* **IF** - Ingénierie financière (Financial Engineering), MA
+* **MGT** - Managenent de la technologie et de l'ingénierie financière (Management of Technology and Financial Engineering), MA
+* **MTE** - Management de la technologie (Management of Technology and Entrepreneurship), MA
+
+Then there are the PhDs. I'm not sure we should let people claim they're PhD students (or postdocs) without some sort of authentication. Here are the PhD schools (some of which do not have a name in French):
+
+* **EDAR** - Architecture &amp; Sciences de la ville (Architecture &amp; Sciences of the City)
+* **EDBB** - Biotechnology &amp; Bioengineering
+* **EDCE** - Génie civil et environnement (Civil and Environmental Engineering)
+* **EDCH** - Chimie et génie chimique (Chemistry and Chemical Engineering)
+* **EDEE** - Génie électrique (Electrical Engineering)
+* **EDEY** - Energie (Energy)
+* **EDFI** - Finance (Finance)
+* **EDIC** - Informatique, communications et information (Computer, Communication and Information Sciences)
+* **EDMA** - Mathématiques (Mathematics)
+* **EDME** - Mechanics
+* **EDMI** - Microsystèmes et microélectronique (Microsystems and Microelectronics)
+* **EDMS** - Approches Moléculaires du Vivant (Molecular Life Sciences)
+* **EDMT** - Management of Technology
+* **EDMX** - Science et Génie des Matériaux (Material Science and Engineering)
+* **EDNE** - Neurosciences (Neuroscience)
+* **EDPO** - Photonique (Photonics)
+* **EDPR** - Systèmes de production et robotique (Manufacturing Systems and Robotics)
+* **EDPY** - Physique (Physics)
+
+Then there are the many teaching positions. These shouldn't be set by the users but requested by email using some sort of authentication (the e-mail address can be spoofed unfortunately) for teachers who want to participate in this sub.
+
+There are also some special positions like delegates, AGEPOLY members, POLYLAN organisers, President (why not? :) ), and so forth. Again, some strong authentication is needed.",0,1380272223,null,0,false,0,ccgbpgn,t3_1n8cwv,t1_ccgbpgn,t3_1n8cwv,null,1429327283,1,false,EPFL,t5_2svyx,1
+true,Falr0s,ba-in,,"I think we had a little misunderstanding for problem 1: after exposing the solutions you reject, I put forth my own opinion: let people do what they want and rely on flairs for ID. ",0,1380281469,null,0,false,0,ccgcqpy,t3_1n8cwv,t1_ccgcqpy,t1_ccgba1k,null,1429326800,0,false,EPFL,t5_2svyx,0
+true,Falr0s,ba-in,,"That's an extensive list, but it seems like there is no way around it. I guess have people chose between these and forbid custom flairs, and assign special ones manually ? 
+For what is of identification : a pic of any Camipro should suffice. Other than that, meetups could be arranged I guess. 
+I agree on the ID to get PhD flair, but think Masters should be fine as a free flair. What's the point in lying on the class you're in anyway ?",0,1380281668,null,0,false,0,ccgcrmz,t3_1n8cwv,t1_ccgcrmz,t1_ccgbpgn,null,1429326788,0,false,EPFL,t5_2svyx,0
+true,Aethec,ba-in,null,"OK, let's settle on the auth: a Camipro ID with a post-it or something mentioning /r/epfl and the date. (to make sure people can't use any picture of any camipro).
+
+I figured out how to set custom colors &amp; text on the flairs, I'll write a quick tool to generate the required CSS.",0,1380284917,null,0,false,0,ccgda3m,t3_1n8cwv,t1_ccgda3m,t1_ccgcrmz,null,1429326549,1,false,EPFL,t5_2svyx,1
+true,SpudSpears,vd,Vaud,Alot of my colleagues have actually gone over to the swiss german side to buy their cars as they seem to get a better deal / quality. Personally I don't know but quite a few have done this so there may be something to it.,0,1380287106,null,0,false,0,ccgdpdr,t3_1n4blu,t1_ccgdpdr,t3_1n4blu,null,1429326351,2,false,Switzerland,t5_2qhp6,2
+true,ikraa,null,null,"Thanks, I will look into it. It may also be an occasion to visit the german side!",0,1380287656,null,0,false,0,ccgdtug,t3_1n4blu,t1_ccgdtug,t1_ccgdpdr,null,1429326293,1,false,Switzerland,t5_2qhp6,1
+true,gonaria,null,null,"I think it is more important that everything that in a slightest way criticises switzerland should be downvoted to oblivion.
+
+Just like with any critics since 1945.
+",0,1380288147,null,0,false,0,ccgdy1v,t3_1mmumh,t1_ccgdy1v,t1_ccarfb3,null,1429326177,2,false,Switzerland,t5_2qhp6,2
+true,Falr0s,ba-in,,"What the hell, someone downvoted all the comments ?",0,1380293923,null,0,false,0,ccgfnlk,t3_1n8cwv,t1_ccgfnlk,t3_1n8cwv,null,1429325325,0,false,EPFL,t5_2svyx,0
+true,Chronophilia,null,null,"""Crappy"" isn't the word. It runs without crashing, it's playable, it's not just a 1-for-1 clone of an existing game like Tetris, and there's actual skill required. It's better than some games I've written, though admittedly I haven't been hired by the Swiss government.",0,1380294222,null,0,false,0,ccgfr81,t3_1n6v1f,t1_ccgfr81,t3_1n6v1f,null,1429325278,2,false,Switzerland,t5_2qhp6,2
+true,shigatse,ju,Jura,"I grew up close to it, but never did kayaking there. anyway here is a link, if you haven't found one: http://www.juratourisme.ch/en/leisure-activities/by-canoe/the-doubs-by-canoe.1495.html",0,1380295547,null,0,false,0,ccgg7fo,t3_1n175l,t1_ccgg7fo,t3_1n175l,null,1429325068,1,false,Switzerland,t5_2qhp6,1
+true,Aethec,ba-in,null,Looks like it. I guess some people have too much free time and not enough brain cells...,0,1380296870,null,0,false,0,ccggo04,t3_1n8cwv,t1_ccggo04,t1_ccgfnlk,null,1429324853,0,false,EPFL,t5_2svyx,0
+true,Falr0s,ba-in,,"Well, y'all get my upvotes !",0,1380298369,null,0,false,0,ccgh7lh,t3_1n8cwv,t1_ccgh7lh,t1_ccggo04,null,1429324599,0,false,EPFL,t5_2svyx,0
+true,AlexTree,null,null,Isch uf Fresh Stuff 3 z finde wenn er eine findet wo Fresh Stuff 3 verkauft,0,1380298680,null,0,false,0,ccghbqa,t3_1n97gt,t1_ccghbqa,t3_1n97gt,null,1429324545,1,false,SwissRap,t5_2wz42,1
+true,korky1318,vs,Valais,"Btw it is not worth the hassle of buying a car in Germany if you're going for a small one / nothing special. I guess you're looking into something that costs 1000-3000 chf? if that's the case then really no don't go through the hassle of the import papers. it'll end up costing you as much. ",0,1380298916,null,0,false,0,ccghexc,t3_1n4blu,t1_ccghexc,t3_1n4blu,null,1429324504,5,false,Switzerland,t5_2qhp6,5
+true,juggling_hobo,be,Bern,"perhaps you should add a little more content, otherwise most people don't know what exactly you want/need. This subreddit (and swiss people in general, it seems) are rather reluctant, so you should probably add some context...
+PS: sorry I couldn't help",0,1380304218,null,0,false,0,ccgjerw,t3_1n97fj,t1_ccgjerw,t3_1n97fj,null,1429323561,6,false,Switzerland,t5_2qhp6,6
+true,korky1318,vs,Valais,maybe?,0,1380308614,null,0,false,0,ccgl1fp,t3_1n97fj,t1_ccgl1fp,t3_1n97fj,null,1429322802,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,Yes.,0,1380309432,null,0,false,0,ccglc3p,t3_1n97fj,t1_ccglc3p,t3_1n97fj,null,1429322662,5,false,Switzerland,t5_2qhp6,5
+true,SwissScenes,tg,Thurgau,Go for it! :-),0,1380309707,null,0,false,0,ccglfpz,t3_1n97fj,t1_ccglfpz,t3_1n97fj,null,1429322615,2,false,Switzerland,t5_2qhp6,2
+true,telllos,vd,Vaud,"Just be faster than the police. ",0,1380312251,null,0,false,0,ccgmdym,t3_1n97fj,t1_ccgmdym,t3_1n97fj,null,1429322172,-1,false,Switzerland,t5_2qhp6,-1
+true,mrd49,ma-el,,Small world! I'm here after finishing my undergrad on the other side of 34th st at Drexel. There really aren't many Americans here that I've met. Come hang out sometime next week at lunch or out this weekend? I'm in the EE department here doing my masters in smart grid tech.,0,1380315980,null,0,false,0,ccgnqi3,t3_1n8zg5,t1_ccgnqi3,t3_1n8zg5,null,1429321543,1,false,EPFL,t5_2svyx,1
+true,JonleChuck,null,null,i know a couple of friends here in basel who do parkour and there is quite the scene here.. if thats not too far away for you contact me!,0,1380322563,null,0,false,0,ccgptqg,t3_1n97fj,t1_ccgptqg,t3_1n97fj,null,1429320556,1,false,Switzerland,t5_2qhp6,1
+true,hubraum,null,null,[x] all of above,0,1380322706,null,0,false,0,ccgpv8n,t3_1n97fj,t1_ccgpv8n,t3_1n97fj,null,1429320536,2,false,Switzerland,t5_2qhp6,2
+true,seitgeist,lu,Luzern,No.,0,1380326621,null,0,false,0,ccgr0iu,t3_1n97fj,t1_ccgr0iu,t3_1n97fj,null,1429320001,1,false,Switzerland,t5_2qhp6,1
+true,Brettack,null,null,"I agree, there is definitely not enough competition in the mobile service provider market. I currently have the Sunrise 24 plan, which comes with unlimited EVERYTHING for only $49. Although Sunrise's network is clearly the worst among the top 3, in Zürich and other  cities you won't find much difference.",0,1380345922,null,0,false,0,ccgvv14,t3_1na5zj,t1_ccgvv14,t3_1na5zj,null,1429317739,1,false,Switzerland,t5_2qhp6,1
+true,Za_collFact,null,null,"If you are in Lausanne, it worth to have a look in france too. 
+For the importations, you have some information on the TCS website.",0,1380348387,null,0,false,0,ccgwbht,t3_1n4blu,t1_ccgwbht,t3_1n4blu,null,1429317526,1,false,Switzerland,t5_2qhp6,1
+true,nearly_god,null,null,"Competition in the mobile sector doesn't work in Switzerland. Renationalise Swisscom, regulate prices to EU levels.
+
+I used to advise people to change to Sunrise or we'll forever be stuck with overpriced Swisscom. Now I do the opposite everybody back to Swisscom until the competition commission needs to step in with monopoly charges. Not that my advice has any effect on anyone. ",0,1380351616,null,0,false,0,ccgwu7k,t3_1na5zj,t1_ccgwu7k,t3_1na5zj,null,1429317284,4,false,Switzerland,t5_2qhp6,4
+true,uzapy,be,Bern,http://i.imgur.com/ITxMI.png,0,1380352922,null,0,false,0,ccgx17r,t3_1na5zj,t1_ccgx17r,t3_1na5zj,null,1429317193,6,false,Switzerland,t5_2qhp6,6
+true,tetroxid,be,Bern,"I recommend Swisscom. Clearly they are the most expensive, but they are also the best. Fastest network, most coverage, and if you need assistance the hotline is pretty good - and free, in contrast to the others.",0,1380355432,null,0,false,0,ccgxd1t,t3_1na5zj,t1_ccgxd1t,t3_1na5zj,null,1429317027,2,false,Switzerland,t5_2qhp6,2
+true,ElucTheG33K,vd,Vaud,"For me I'm stuck with an old Orange plan that doesn't exist anymore, I can keep it until I stop to renew my contract. It's 1GB (4G speed include) plus unlimited on landline and orange mobile plus 30min for other carriers/Europe/usa for 25CHF (Swisscom try to beat it). Then I've a prepay card from Vodafone Italy that offer a 3€/ day package (active only when you use it) that include every day 500MB plus 50min calls (25 incoming 25 outcoming) plus 50sms in entire Europe!
+I ever think about dropping all swiss sim and get a Vodafone IT contact for 59€/month valid in all Europa.",0,1380355948,null,0,false,0,ccgxfh3,t3_1na5zj,t1_ccgxfh3,t3_1na5zj,null,1429316996,1,false,Switzerland,t5_2qhp6,1
+true,lmperator,null,null,"I think Swisscom offers these shitty overpriced data plans because they want to keep Orange and Sunrise alive. I bet they would make higher profits if they offered better data plans but they fear killing off the other providers leaving them as a monopoly.
+
+I really didn't understand WEKO's decision not allowing Orange and Sunrise to merge. Together they have 40% of the market share which would make them a real competitor to Swisscom. The WEKO argued the resulting Duopoly would be worse for competition but it can't be worse than it is now.",0,1380357160,null,0,false,0,ccgxkpn,t3_1na5zj,t1_ccgxkpn,t3_1na5zj,null,1429316928,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,"Orange here.
+
+The support is pathetic, I mean you have to call a woman who hardly speaks the language to get international unlocked. That's right, until you do that you can't use your phone abroads. And no one tells you that of course. And I guess an option on the website would be too complicated.
+
+Also : network coverage is shit. I'm not talking ""no-network-at-the-top-of-the-Matterhorn"" shit, I'm talking **""no-network-IN-LAUSANNE-UNIVERSITY"" shit**.
+
+But then again it's pretty cheap (compared to others, it's still ridiculously expensive) if you're young (29 Chf a month for me) and I could get an S3 for 99 CHF when Swisscom sold it 399 CHF with a new plan. So yeah I couldn't afford that so I switched to Orange.",0,1380360006,null,0,false,0,ccgxviu,t3_1na5zj,t1_ccgxviu,t3_1na5zj,null,1429316788,2,false,Switzerland,t5_2qhp6,2
+true,sartsch,be,Bern,"The coverage argument doesn't hold up anymore. And I would also counter your claim as to the fastest network. A good friend of mine who has Swisscom has a considerably slower network ratio than I do with Orange.  
+Also, I don't know about Sunrise but Orange's hotline is also free - as well as friendly and efficient.  
+In my opinion, choosing a mobile provider in Switzerland is swings and roundabouts.",0,1380361116,null,0,false,0,ccgxz8u,t3_1na5zj,t1_ccgxz8u,t1_ccgxd1t,null,1429316740,-1,false,Switzerland,t5_2qhp6,-1
+true,sartsch,be,Bern,Seriously? I've never had any kind of trouble with their  support (and I've been with Orange for 13 years now). And the only place I've experienced network problems has been on the train between Bern and Zurich - but everybody's network acts up there.,0,1380361267,null,0,false,0,ccgxzrh,t3_1na5zj,t1_ccgxzrh,t1_ccgxviu,null,1429316733,0,false,Switzerland,t5_2qhp6,0
+true,tetroxid,be,Bern,"Your one friend who has a slower connection than you doesn't say much about the network quality in general. There are numerous, independent tests done by different people that clearly show that on average, Swisscom's mobile network is significantly faster both on throughput and latency.",0,1380361298,null,0,false,0,ccgxzv8,t3_1na5zj,t1_ccgxzv8,t1_ccgxz8u,null,1429316732,2,false,Switzerland,t5_2qhp6,2
+true,mehsquared,vd,Vaud,"The latest and most significant test is the Net test by the German Connect magazine. They rank Swisscom at 440, Orange at 430 and sunrise at 370 or something. Also, if you look at open signal maps, the vast majority of places you have considerably more bandwidth with Orange than with Swisscom. The reliability (read: availability) is quite similar between the two operators, but Sunrise doesn't have as good of a network. ",0,1380361875,null,0,false,0,ccgy1u8,t3_1na5zj,t1_ccgy1u8,t1_ccgxzv8,null,1429316706,2,false,Switzerland,t5_2qhp6,2
+true,sartsch,be,Bern,"I'd be interested in reading up on such a test. The only one I found was a Kasensturz report which, however, is two years old and therefore probably not relevant anymore.
+
+edit: spelling",0,1380361889,null,0,1380362252,0,ccgy1vw,t3_1na5zj,t1_ccgy1vw,t1_ccgxzv8,null,1429316705,1,false,Switzerland,t5_2qhp6,1
