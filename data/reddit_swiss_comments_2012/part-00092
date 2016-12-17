@@ -1,0 +1,183 @@
+archived,author,author_flair_css_class,author_flair_text,body,controversiality,created_utc,distinguished,downs,edited,gilded,id,link_id,name,parent_id,removal_reason,retrieved_on,score,score_hidden,subreddit,subreddit_id,ups
+true,rioso,null,null,"Well let me tell you three stories about what happened:
+A former colleague (now retired) worked in the seventies in a small station. Shortly before closing the desk, somebody came in, threatening him with a knife an demanding the money. My colleague would take a heave book he had an hit him with it. The thief escaped without the money, my colleague got a few franken reward.
+
+Or: Another colleague worked in the train. She once helped a woman who's husband got sick in the train and delayed the train so the wife could go and buy some water for the husband. One year later, on a complete different station, this woman saw my colleague again and would bring her chocolates and say thank you.
+
+Or a sad one: one colleague was working on a larger station, and that's what he saw: There was a couple who was late for the train. They decided to cross the tracks instead of using the passage. They didn't see that on the other track, a train was passing at high speed. One of them was killed by the train. The other one was so shocked and took the train they wanted to take originally together.",0,1342731984,null,0,false,0,c5ggq38,t3_wq6tb,t1_c5ggq38,t1_c5fqfok,null,1429418854,2,false,Switzerland,t5_2qhp6,2
+true,how_gauche,zh,Zürich,Zurich Arch Linux represent :),0,1342733573,null,0,false,0,c5gh5oz,t3_wtcq8,t1_c5gh5oz,t3_wtcq8,null,1429419064,4,false,Switzerland,t5_2qhp6,4
+true,[deleted],null,null,http://www.lugs.ch/ maybe?,0,1342767615,null,0,false,0,c5gorzp,t3_wtcq8,t1_c5gorzp,t3_wtcq8,null,1435699481,2,false,Switzerland,t5_2qhp6,2
+true,Coloneljesus,be,Bern,[Right in your fucking face!](http://home.comcast.net/~jpittman2/pacman/pacmandossier.html),0,1342768383,null,0,false,0,c5govxz,t3_wtcq8,t1_c5govxz,t1_c5g9yo0,null,1429422813,3,false,Switzerland,t5_2qhp6,3
+true,sternefoifi,null,null,IAMA web developer for sbb.ch/m.sbb.ch/sbbcargo.com AMAA :),0,1342769337,null,0,false,0,c5gp0rh,t3_wo3qk,t1_c5gp0rh,t1_c5f7pyg,null,1429422873,1,false,Switzerland,t5_2qhp6,1
+true,[deleted],null,null,[deleted],0,1342770125,null,0,false,0,c5gp4ny,t3_wtcq8,t1_c5gp4ny,t1_c5govxz,null,1429422924,1,false,Switzerland,t5_2qhp6,1
+true,loki2012,null,null,"Awesome! I am very interested in the cyber security aspect.
+
+Have you ever had any problems where somebody would exploit the system? (The website, the ticket machines, mobile apps etc. )
+
+What kind of coding languages do you work most with? I understand these will probably be mostly web-based.
+
+I find the operating systems in certain machines interesting. Do you know how long it took to develop one for the ticket machines? Are they always working on updating them and making it better (more fluid, more sensitive to the touch, improved GUI, etc. )
+
+What kind of education did you undergo?
+
+What's the pay like?",0,1342770738,null,0,false,0,c5gp7r2,t3_wo3qk,t1_c5gp7r2,t1_c5gp0rh,null,1429422966,2,false,Switzerland,t5_2qhp6,2
+true,okko7,null,null,"Thanks for these touching stories. I think stories like that can re-inforce a link Swiss people have with ""their"" railway. 
+
+And thanks a lot for doing this AMA. Really appreciated. ",0,1342772047,null,0,false,0,c5gpe08,t3_wq6tb,t1_c5gpe08,t1_c5ggq38,null,1429423048,2,false,Switzerland,t5_2qhp6,2
+true,sternefoifi,null,null,"Ok, first let me clarify the different systems. The online presence and my programming has nothing to do with the ticket machines and the mobile app. My work is focused on the website(s) and the mobile version of the website(s). Thats why I can't give any answers on that topics.
+
+The website(s) are running on Adobe CQ (former Day CQ). Coding languages is based on CQ, so it's Java and for the views it's just simple jsp. For the frontend (html/css/js) we are using our own in-house developed framework called Terrific. You can download the open-source version [here](http://terrifically.org/)!
+
+I myself did an apprenticeship as a system engineer. After that I studied computer science and got my bachelor degree. I finally got a job (software engineer, java) in a large web agency .
+
+The pay? You can look at the average pay:
+
+- [salary calculator 1](http://www.lohnrechner.ch/usage/informatikdienste.html)
+
+- [salary calculator 2](http://www.lohnrechner.bfs.admin.ch/Pages/SalariumWizard.aspx)
+
+",0,1342775161,null,0,false,0,c5gprzi,t3_wo3qk,t1_c5gprzi,t1_c5gp7r2,null,1429423234,2,false,Switzerland,t5_2qhp6,2
+true,hineinforderung,null,null,"Thanks for the link, I'm going to join!",0,1342776888,null,0,false,0,c5gpz4v,t3_wtcq8,t1_c5gpz4v,t1_c5gorzp,null,1435699454,2,false,Switzerland,t5_2qhp6,2
+true,[deleted],null,null,"In Zurich there was also once upon a time a super chill bunch of people who all chipped in to rent an old garage complex in Altstetten - they used it as a hosting facility, barbecue and party spot, and general Linux-*BSD-open-source-Baschtelraum.  Searches don't turn up anything, but if you're tremendously interested, I can see if I can track one of them down again and ask about it.",0,1342779658,null,0,false,0,c5gq9mu,t3_wtcq8,t1_c5gq9mu,t1_c5gpz4v,null,1429423474,2,false,Switzerland,t5_2qhp6,2
+true,Coloneljesus,be,Bern,The part about the pathfinding algorithms of the ghosts is fucking interesting!,0,1342784726,null,0,false,0,c5gqtff,t3_wtcq8,t1_c5gqtff,t1_c5gp4ny,null,1429423723,2,false,Switzerland,t5_2qhp6,2
+true,balkonkind,lu,Luzern,"We don't hate them. Their dialect just *sounds* a little arrogant. ",0,1342786436,null,0,false,0,c5gr1ao,t3_wdv6p,t1_c5gr1ao,t1_c5edv9n,null,1429423827,0,false,Switzerland,t5_2qhp6,0
+true,Allexoll,null,null,i don't get it,0,1342802995,null,0,false,0,c5gupb4,t3_wvpfz,t1_c5gupb4,t3_wvpfz,null,1429425617,7,false,Switzerland,t5_2qhp6,7
+true,Mardoo,null,null,"me neighter, i hate french.",0,1342803520,null,0,false,0,c5guulm,t3_wvpfz,t1_c5guulm,t3_wvpfz,null,1429425683,-6,false,Switzerland,t5_2qhp6,-6
+true,b4silio,vd,Vaud,"Diaporama shows images from the frontpage some 20 minutes ago (excuse the pun). That said they have been leeching images/memes and news from a number of sites like reddit/9gag/failblog for years.  
+
+It's interesting to see a paper publication taking digested news from websites that summarize/highlight news from actual newspapers and newssites. It is actually a good way of utilizing the effort of vulgarization that internet users make, without having to redo it themselves.
+
+I'm not really criticising the fact: readers of 20minutes should read it much the same way redditors read the front page, knowing they wont really be informed, but rather entertained.",0,1342803915,null,0,false,0,c5guym1,t3_wvpfz,t1_c5guym1,t1_c5gupb4,null,1429425739,6,false,Switzerland,t5_2qhp6,6
+true,hubraum,null,null,20min and blickamabend have a history of using reddit content without attribution. Says a lot about their standards.,0,1342808251,null,0,false,0,c5gw6yi,t3_wvpfz,t1_c5gw6yi,t3_wvpfz,null,1429426309,14,false,Switzerland,t5_2qhp6,14
+true,[deleted],null,null,"Well I'm sure it doesn't care very much for you, either.",0,1342810219,null,0,false,0,c5gwrgg,t3_wvpfz,t1_c5gwrgg,t1_c5guulm,null,1429426587,5,false,Switzerland,t5_2qhp6,5
+true,[deleted],null,null,"They love to steal content from Reddit and sometimes 4chan, they even like to start community events based on stuff that happened in here,",0,1342810878,null,0,false,0,c5gwya9,t3_wvpfz,t1_c5gwya9,t3_wvpfz,null,1429426676,5,false,Switzerland,t5_2qhp6,5
+true,aendegrest,null,null,"Also requesting for proof. Even this isn't /r/IAmA and there is no intention to doubt on your AMA, as it is usual you should follow this ""rule"".",0,1342815640,null,0,false,0,c5gy9wx,t3_wq6tb,t1_c5gy9wx,t1_c5fyke0,null,1429427290,2,false,Switzerland,t5_2qhp6,2
+true,aendegrest,null,null,http://www.reddit.com/r/Switzerland/comments/wq6tb/i_am_a_manager_at_swiss_federal_railways_ama/,0,1342815717,null,0,false,0,c5gyamv,t3_wo3qk,t1_c5gyamv,t3_wo3qk,null,1429427308,1,false,Switzerland,t5_2qhp6,1
+true,Allexoll,null,null,"well, i did not see that on the pic, even if i'm from geneva (i mean, about understanding french)",0,1342816328,null,0,false,0,c5gyg6l,t3_wvpfz,t1_c5gyg6l,t1_c5guym1,null,1429427376,1,false,Switzerland,t5_2qhp6,1
+true,okko7,null,null,"I don't get it either. From the screenshot, I don't get anything!
+
+So if these images were on the Reddit frontpage, who says that they are originally from there and not from some news agency? ",0,1342818652,null,0,false,0,c5gyye4,t3_wvpfz,t1_c5gyye4,t3_wvpfz,null,1429427612,1,false,Switzerland,t5_2qhp6,1
+true,P1r4nha,zh,Zürich,"That's exactly right.
+
+It does matter to linguistics and if you want to do anything with speech analysis or synthesis in computers. Makes it very hard to process",0,1342824139,null,0,false,0,c5h03jz,t3_wl7kk,t1_c5h03jz,t1_c5edroy,null,1429428158,1,false,Switzerland,t5_2qhp6,1
+true,shinnen,zh,Zürich,"Hah just like reddit itself ",0,1342826526,null,0,false,0,c5h0lss,t3_wvpfz,t1_c5h0lss,t1_c5gw6yi,null,1429428396,0,false,Switzerland,t5_2qhp6,0
+true,telllos,vd,Vaud,"It's the pictures a guy wounded in the theatre shooting posted of himself. It's still there but I didn't have time to link to the OP.
+
+I'm not sure it's streight from reddit. But since OP posted 4 hours before my screengrab. I think it might be taken from here.
+
+But even if it's another source it's really quick. ",0,1342826808,null,0,false,0,c5h0nyx,t3_wvpfz,t1_c5h0nyx,t1_c5gyye4,null,1429428435,1,false,Switzerland,t5_2qhp6,1
+true,SaxifrageRussel,vd,Vaud,"I'm in Lausanne, and very out of practice, but I am generally down for some ultimate.",0,1342832769,null,0,false,0,c5h1wbv,t3_wtcq8,t1_c5h1wbv,t3_wtcq8,null,1429429004,2,false,Switzerland,t5_2qhp6,2
+true,DeepDuh,zh,Zürich,"I think a majority of the guns in Switzerland are military guns that the men keep at home even after they are finished. Ammunition to those type of guns are strictly regulated (not saying it can't be obtained if you really want though), so those guns mostly have sentimental value to their owner. Also I'd say that the military training is sufficient to enable responsible gun ownership for most of the trainees. About 40% of Swiss men still do military training and the others tend to be not very interested in guns. I can't really speak about civil gun laws though, I haven't been involved in those - but yes, civil gun ownership is heavily regulated as far as I know. 
+
+Comparing the US to Switzerland I'd also argue that it's not the gun ownership per se that makes a country more or less violent. That doesn't mean more regulation would improve things though. The fact that you can buy ammunition pretty much wherever you want tells me that it is actually economically viable for supermarkets to sell ammunition. Which I find strange. Who is consuming so much ammunition? What for? We're not a hunter gatherer society anymore are we?
+
+Secondly, I don't get why so many Americans oppose something like mandatory gun training for gun owners. People who want guns want to know how it's like shooting them right? Target shooting is all part of such training. What's the big deal then?",0,1342839835,null,0,false,0,c5h3dl1,t3_wwnao,t1_c5h3dl1,t3_wwnao,null,1429429704,7,false,Switzerland,t5_2qhp6,7
+true,[deleted],null,null,[deleted],0,1342843263,null,0,false,0,c5h4423,t3_wwnao,t1_c5h4423,t3_wwnao,null,1429430049,3,false,Switzerland,t5_2qhp6,3
+true,LeSpatula,be,Bern,They have standards?,0,1342859993,null,0,false,0,c5h6vk0,t3_wvpfz,t1_c5h6vk0,t1_c5gw6yi,null,1429431351,6,false,Switzerland,t5_2qhp6,6
+true,pythonist,deutschland,Deutschland,"You seem to hate English, too.",0,1342862313,null,0,false,0,c5h73n9,t3_wvpfz,t1_c5h73n9,t1_c5guulm,null,1429431533,3,false,Switzerland,t5_2qhp6,3
+true,LeSpatula,be,Bern,"Well, most men (are forced to) have a military gun at home. However, they don't have any munition. Munition is provided when you have to do the mandatory shooting each year or when you have to use the gun in the military service. However, it's strictly forbidden to take munition  home from there. People who go shooting in a shooting club can buy the munition they need there.
+
+So yes, most men have a gun, but can't use it. Of course, if somebody really wants, he could get some munition. It's legal to buy it, but there aren't a lot of places where you can.
+
+This was about the military guns. To own a civil gun, you need a permit ""Waffenerwebsschein"", which usually gets everybody who is at least 18 years old, is Swiss and doesn't have any criminal records. However, this is only for owning a gun.
+
+For carrying a gun, you need another permit ""Waffentragschein"", which is valid for 5 years and then must be renewed. This permit is usually only granted to people who work in security and they have to do a test before they get it. Hunter don't need this permit, but they need another license, which also includes a test.
+
+There's no need for owning or even carrying a gun in Switzerland though. I recently saw that video about an American watchmaker who was the victim of armed robberies several times and each time he shot the robbers. This is just unthinkable here. We don't have any gangs, like you have in the USA. And only very, very few armed robberies and even in those we have, usually nobody gets hurt, because those people are just robbers, not murders. I think knives are used more often in robberies than guns and for such situations, we could buy pepper spray to defend ourselves.
+
+So, Switzerland isn't safe because because of the guns, most guns belong to people who went through the military training and those guns are locked-in in the wardrobe without any available ammunition. The key is to provide a good education for everybody, provide job opportunities and security and social welfare and health care for everybody. This way, nobody is forced into criminality because he hasn't any options left.
+
+Here, young people have usually very good job opportunities after hi-school. Only people who want to become a scientist or want to work  in a job where they need a scientific degree, like lawyer or doctor, continue school (which costs about $2000 a year). Everybody else does a apprenticeship in a job he likes (there's one for anything, shop assistant, computer scientist, nurse, hairdresser, etc...). This means 2 to 5 year training, which includes theory in school and practical work at the work place and then they get a degree in that job. But, sorry, this is off topic, we were discussing guns. :)",0,1342863482,null,0,false,0,c5h77ik,t3_wwnao,t1_c5h77ik,t3_wwnao,null,1429431575,22,false,Switzerland,t5_2qhp6,22
+true,nearly_god,null,null,"What's an important take-away for the pro-/anti-gun discussion: Guns in Switzerland are not used for self-defense. They are not a deterrent to crime. They are tucked away in the attic, unloaded and collecting dust.",0,1342864756,null,0,false,0,c5h7b80,t3_wwnao,t1_c5h7b80,t3_wwnao,null,1429431624,12,false,Switzerland,t5_2qhp6,12
+true,Moonkanna,null,null,"NRA nutters are just a bit too excited about holding a powerful deathbringer in their hand. I think this goes back to a certain wild west mentality, or maybe even to colonial times where you'd want to defend against the rulers troops or something. Most people on earth, I'd say, including the swiss, just don't have that desire, the desire to be able to kill someone with the jerk a of a finger. 
+
+Like most non-US somewhat traditional societies life here is more interdependent, people looking out for each other (both positive and negative), and there's less fear and agression being played out. People feel safe as it is, what's the point of lugging around guns? 
+
+---&gt; with that said, there are ""gangs"" if you will of teenagers, especially in the bigger cities and late at night, who rob people under the threat of violence and so, but usually just beat their victim up, not really going near the murder thing or even using a gun to just intimidate. ",0,1342866805,null,0,false,0,c5h7h8i,t3_wwnao,t1_c5h7h8i,t3_wwnao,null,1429431702,2,false,Switzerland,t5_2qhp6,2
+true,fusionove,ti,Ticino,"&gt;The key is to provide a good education for everybody, provide job opportunities and security and social welfare and health care for everybody.
+
+This. Over 9000 times this. The US should just invest in education instead of creating fake wars against the world, I am not saying it would solve all their problems, but probably enough.",0,1342867755,null,0,false,0,c5h7jzv,t3_wwnao,t1_c5h7jzv,t1_c5h77ik,null,1429431742,11,false,Switzerland,t5_2qhp6,11
+true,cruel0r,lu,Lozärn,I was going to say the exact same thing as you just did. I could not agree more.,0,1342868990,null,0,false,0,c5h7ng1,t3_wwnao,t1_c5h7ng1,t1_c5h7jzv,null,1429431789,2,false,Switzerland,t5_2qhp6,2
+true,rocknrollbreakfast,bs,Basel-Stadt,"I think there are several reasons why there is only little ""criminal activity"" involving military guns.
+
+-[It's a big rifle](http://en.wikipedia.org/wiki/SIG550): although you often see military walking around with the rifle on their back, it's not really common to see people in civil walking around with it. It's not like a handgun which you can put in your pocket - if you'd take your rifle in civil to a public place (eg restaurant, cinema, bar, club), there's quite a good chance that they'll ask you to leave and for sure everybody will stare at you.
+
+-You learn to hate it: don't really know how to explain that one to the average gun-loving american, but I'll try: I have to take that peace of crap out of the cupboard twice a year and it's never a joyful moment. During the army, I took that fucker apart and put it back together at least a million times. I cleaned it a million times. I had to sleep with it in one bed. I carried it around 20h a day. You kind of learn to hate that thing. You throw it around. You run over it with a truck (survived), you run over it with a tank (not so much...). The urge to use that thing outside of the army is close to absolute zero.
+
+-To your argument of ""tightly controlled"": you have to be aware that the swiss army is a giant mess. I've seen them losing whole tanks (found after 3 weeks), artillery grenades, normal grenades, ammunition, pretty much everything. You want to take ammunition home with you? That's no problem. Sure, it's forbidden, but its unbelievably easy. Even without the army, it's ridiculously easy to get ammo for your rifle: you go to a shooting range, you buy 100 shots, only shoot 50, leave...
+
+Now, for civil gun laws, I think most has been said already, It's very strict and if you want to carry your gun around in public you need a very, very good reason for it (your job).
+
+The main reason we don't have gun problems here is because there is less poverty, healthcare and a better ""social net"" in case you completely fail in life. It has nothing to do with gun ownerships.
+
+**TL;DR**: you don't want to carry a rifle around, the swiss army is full of crap and we just don't have much reason to shoot each other.",0,1342869134,null,0,false,0,c5h7nuk,t3_wwnao,t1_c5h7nuk,t3_wwnao,null,1429431792,7,false,Switzerland,t5_2qhp6,7
+true,telllos,vd,Vaud,"&gt;The fact that you can buy ammunition pretty much wherever you want tells me that it is actually economically viable for supermarkets to sell ammunition. Which I find strange. Who is consuming so much ammunition? What for? We're not a hunter gatherer society anymore are we?
+
+I'm not American, but my felling is that they really like guns, and like shooting. Here in Switzerland, we really don't care about guns, we don't need them, crime rate are rally low.",0,1342869168,null,0,false,0,c5h7ny7,t3_wwnao,t1_c5h7ny7,t1_c5h3dl1,null,1429431793,4,false,Switzerland,t5_2qhp6,4
+true,ours,vd,Vaud,"I agree but it's not just about crime. We just don't have a gun culture outside the military service. Hell, most people I know that still have to do the annual mandatory military gun practice feel like it's a burden.
+
+So it's mostly hunters and there aren't *that* many of those. In some areas the forestry people actually have to go and cull the herds of mountain goats because people don't hunt that much anymore.
+
+",0,1342869758,null,0,false,0,c5h7pjz,t3_wwnao,t1_c5h7pjz,t1_c5h7ny7,null,1429431811,4,false,Switzerland,t5_2qhp6,4
+true,ours,vd,Vaud,"I agree with you but note that not everybody gets just the big 550 to take home. Officers get a handgun and elite units get on top of both the handgun and the 550 the compact ""commando"" version of the rifle.
+
+
+",0,1342870282,null,0,false,0,c5h7r0s,t3_wwnao,t1_c5h7r0s,t1_c5h7nuk,null,1429431831,3,false,Switzerland,t5_2qhp6,3
+true,okko7,null,null,"Absolutely right. I think people would consider it as really, really strange if someone would actually go to a cinema having a gun with him. 
+
+And I think that this is the major difference: Availability of guns and amunition is one thing, the relationship people have with guns is another. ",0,1342870845,null,0,false,0,c5h7sl7,t3_wwnao,t1_c5h7sl7,t1_c5h7b80,null,1429431851,7,false,Switzerland,t5_2qhp6,7
+true,ours,vd,Vaud,Well Reddit doesn't pretend being professional press.,0,1342870871,null,0,false,0,c5h7sny,t3_wvpfz,t1_c5h7sny,t1_c5h0lss,null,1429431852,2,false,Switzerland,t5_2qhp6,2
+true,rocknrollbreakfast,bs,Basel-Stadt,"That's true, yes. In addition, Medics also get the handgun. Still, the vast majority gets the normal 550. I've never actually seen a commando, anybody except the AAD10 still get these? Anyway, I guess a shorter barrel doesn't really make it more pocketable.",0,1342870970,null,0,false,0,c5h7sxs,t3_wwnao,t1_c5h7sxs,t1_c5h7r0s,null,1429431856,1,false,Switzerland,t5_2qhp6,1
+true,hubraum,null,null,"Besides the point others already made about that most guns are large military rifles usually stored without ammunition there are other points:
+
+* It is not in our culture to praise guns. Most of us (males) get to use a gun whether they wont or not. (and often in a not too pleasant environment - your rifle is heavy to take with on a mandatory 50km walk (army))
+
+* It is virtually impossible to carry a gun in public for private use. You cannot have your gun in your car unless you are on the way from/to mandatory training (or from/to private shooting range). Not even regular private security companies get the permit to carry guns.
+
+So yes, we have thousands of guns lying around, but many of them haven't seen daylight for years or decades.",0,1342871129,null,0,false,0,c5h7teo,t3_wwnao,t1_c5h7teo,t3_wwnao,null,1429431862,1,false,Switzerland,t5_2qhp6,1
+true,mangecoeur,null,null,"I think one of the main misconceptions people in the US have about Swiss gun ownership is that the guns are actually used for anything. Swiss people do not, ever, use their guns as a deterrant. They are all, apart from a few people with hunting licenses, locked safely away. Military issue rifles are not stored with ammunition and are taken away if the owner displays any form of mental disorder. Possessing a gun is considered a civil duty and responsibility, not a right. Many people feel  uncomfortable having to have a gun and prefer to store it away and forget about it outside of military service.
+
+Low crime rates have nothing to do with people having guns. I can say with absolute certainty that if a swiss person would never use their military rifle against a thief or other criminal.",0,1342871268,null,0,false,0,c5h7tt0,t3_wwnao,t1_c5h7tt0,t3_wwnao,null,1429431867,3,false,Switzerland,t5_2qhp6,3
+true,ours,vd,Vaud,"I had a friend who wasn't professional but he did train in Isone and got the elite training and guns. It certainly isn't pocketable but could better fit a gym bag for the connoisseur madman. 
+
+This was a few years back, not sure if it's still done. Last time I've heard about it the cops where complaining that neo-nazis where getting excellent hand-to-hand combat training in Isone against them on our dime.
+
+I also knew a guy who accidentally came home with a couple of rounds of AAA ammunition. He chucked it into the river.
+
+Speaking of ""tightly controlled"". Wasn't it just a couple of years two dozen of rifles where stolen. In the end they where recovered I believe but not very reassuring.",0,1342871636,null,0,false,0,c5h7uv3,t3_wwnao,t1_c5h7uv3,t1_c5h7sxs,null,1429431881,2,false,Switzerland,t5_2qhp6,2
+true,rocknrollbreakfast,bs,Basel-Stadt,"Yes, the armored infantry (Panzergrenadier) is in Isone, there are some fucked up individuals there (I don't want to generalize, I also know a few nice guys who were there). They do get some hand-to-hand combat training, although I think it's nothing you couldn't get as a civilian.
+
+Yes, guns get stolen from time to time, I always imagined how easy it must be: you put on your army clothes, walk in, take a gun, walk out. 0% chance anybody would notice...
+
+Also, there was [this](http://www.sonntagszeitung.ch/home/artikel-detailseite/?newsid=215960) story recently (sorry, german)",0,1342873450,null,0,false,0,c5h80ce,t3_wwnao,t1_c5h80ce,t1_c5h7uv3,null,1429431952,1,false,Switzerland,t5_2qhp6,1
+true,smartalien99,null,null,"America gun enthusiest here. We consume lots of ammunition because we shoot a lot for sport. I go shooting on the weekends instead of golfing or some other weekend activity. There is lots of different forms of recreational shooting availible. 
+
+Also in the usa there are still vast amounts of open land compared to most other countries. When I go outdoorsing or hiking, a gun is useful for incase things go wrong and I get stranded and need food. You can easily be 100 miles from another human being while in the wild of the USA. 
+
+Crime and defense are often secondary uses for guns to many enthusiests in the US. The USA wouldn't be as it is today if it wasn't for guns allowing westward expansion into the wilderness. ",0,1342878289,null,0,false,0,c5h8ih2,t3_wwnao,t1_c5h8ih2,t1_c5h7ny7,null,1429432189,4,false,Switzerland,t5_2qhp6,4
+true,ours,vd,Vaud,"&gt;there are some fucked up individuals there
+
+I only knew one guy who went and he had serious issues. As he lied all the time I didn't actually believe he went into special training until he disappeared one day without warning. His room-mate, also a friend of mine had to bring all the abandoned guns to the nearest armoury.
+
+Crazy but fun guy.",0,1342882285,null,0,false,0,c5h91uz,t3_wwnao,t1_c5h91uz,t1_c5h80ce,null,1429432448,2,false,Switzerland,t5_2qhp6,2
+true,charliedonsurf1,null,null,"Throwing money at a problem won't change much. America needs a different approach to education. Our apprenticeship system here in Switz would be a good example of positive change. In the US you either go to uni or you have nothing... ",0,1342882443,null,0,false,0,c5h92qk,t3_wwnao,t1_c5h92qk,t1_c5h7jzv,null,1429432462,3,false,Switzerland,t5_2qhp6,3
+true,charliedonsurf1,null,null,"If you want to own a gun in Switzerland you can. Gun laws are strict, but if you have no priors you will pretty much be able to buy a gun.
+
+So here is the thing:
+
+Do all Swiss men have guns? Specifically those in the military. 
+Can you purchase a gun? Get a permit and have no priors, yes.
+Can you use the military rifle as self defense? Mostlikely not. Use of the military rifle out side of training is a crime, even for self defense. 
+Can I defend my own property with my gun? No, you can not. You can only defend with equal force and only after that force has been exercised, so it becomes fishy anyways.
+Is it worth owning a gun for self protection? Probably not, be because you would go to jail anyways if you killed the robber.
+Better him dead than you being dead? Good question...
+Do I own a gun in Switz? I have my grandfathers old rifle from WW1 and 2 and my rifle.
+
+Also don't confuse a hunting permit with a gun permit... but in Switz if you want a gun you can get it. But there is no point because the law is not on your side if you use it. Even if you stab the rober you can get sent to jail. 
+
+The USA has weird tort laws and switzerland has weird self-defense laws. ",0,1342883242,null,0,false,0,c5h97a6,t3_wwnao,t1_c5h97a6,t3_wwnao,null,1429432536,2,false,Switzerland,t5_2qhp6,2
+true,42x13,null,null,"There seems to be a lot of resistance to formal training outside of an academic environment here in the states. At a certain level, receiving specialized training as an individual is almost frowned upon, either as a ""government intrusion"" or as a result of some ""I know better than you do"" mentality.  Whether it's concerning a hunting license or a driving license, the standard seems to be that you pay a little money and...maybe... take a short multiple choice administrative test and you're done. Off topic, but, having had the pleasure of having to take my 80 year old mother's car keys away because she literally didn't know what lane to drive in, really made it hit home that, whether it's because the US is just too big and bureaucratic, or we as a nation are collectively afraid of a regulatory intrusion on our lives (maybe due to strong lobby pressures) we react negatively to any attempt at ""control"".  My mom had passed her driver's ""test"" about a year prior and, though someone could have easily talked to her and discovered her deficiencies, she just looked at the eye chart, and she was done.
+
+I think it has a lot to do with the sense of individualism that we're raised with as well. I lived in Japan for awhile and was (and still am) amazed at the unity of community there. Neighbors talk to their neighbors and have a well developed sense of what's the greater good for the community and the world outside of themselves. When I took my mom's car, her reaction was anger that we had deprived her of independence... Not one thought for the fact that she could very well kill someone or get killed herself. Maybe that's a universal trait though... the idea that ""I know what I'm doing"" even when you really don't...
+
+Whew! Way off topic...sorry about that! Thanks for letting me vent a bit!",0,1342887443,null,0,false,0,c5h9ybk,t3_wwnao,t1_c5h9ybk,t1_c5h3dl1,null,1429432879,2,false,Switzerland,t5_2qhp6,2
