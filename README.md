@@ -66,6 +66,8 @@ The aim is to study the following
 7. UK alone generates the same amount of content as that of other countries combined (Germany, France, Italy, Spain, Switzerland).
 8. UK loves to talk about Doctor Who and Football on Reddit.
 
+## Final presentation:
+https://docs.google.com/presentation/d/1MZs5dQPnqHQD28IDO8R6HdF6SC4AhggBdNU-DS3vKQ0/edit#slide=id.g1ba4baa7df_0_0
 
 ## Feasibility and Risks
 1. We expect to complete the exploration of main discussion topics in Switzerland before the checkpoint in mid-December.
