@@ -50,6 +50,7 @@ Explore the dataset and get insights into the following questions:
 3. Main discussion topics: We will use the number of comments per post, upvotes, and downvotes in order to determine the most popular topics. In addition to this, we will perform topic modeling using LDA on the comments for each country. The aim is to study the following
   1.  Main discussion topics in each country
   2.  What are other countries talking about Switzerland ?
+
 In the end we will use a plot with the topics vs time to show the varying trends of different topics over the time.
 
 4. Interaction among users and their contribution to different subreddits. The objective is to determine if the same small set of people contribute to most of the conversations across different subreddits or if each subreddit attracts its own set of people. The idea is to consider the top 3 or 4 submissions with the most number of comments in 2014 for each country. Each node in the graph is a reddit user who contributed to these discussions. Each edge in the graph represents the user's comment to the submission. This will help us determine if the same set of users are commenting on submissions in different subreddits. 
