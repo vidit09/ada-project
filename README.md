@@ -45,7 +45,7 @@ Explore the dataset and get insights into the following questions:
 
 1. Extract the Switzerland and EU specific submissions and comments: The dataset on the cluster consists of all the Reddit submissions and comments from the year 2007 to 2015 (Aug). The first part of the project is to filter the submissions and comments specific to subreddits in Switzerland, UK, Germany, France, Italy and Spain. This will be accomplished using Spark dataframe.
 
-2. Growth in Reddit usage: To study the usage of Reddit over the years in Switzerland, UK, Germany, France, Italy and Spain. An interactive visualisation will be created in D3js to see the increase in the number of submissions/comments in different countries over the years. 
+2. Growth in Reddit usage: To study the usage of Reddit over the years in Switzerland, UK, Germany, France, Italy and Spain. An interactive visualisation will be created in D3js to see the increase in the number of submissions/comments in different countries over the years. The visualisation is available here: https://dunai-epfl.github.io/website/
 
 3. Main discussion topics: We will use the number of comments per post, upvotes, and downvotes in order to determine the most popular topics. In addition to this, we will perform topic modeling using LDA on the comments for each country. We will use a plot with the topics vs time to show the varying trends of different topics over the time.
 The aim is to study the following
